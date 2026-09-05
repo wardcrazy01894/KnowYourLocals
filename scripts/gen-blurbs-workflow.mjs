@@ -18,6 +18,12 @@
 // - [batchSize]: locations per research agent (default 6 — each needs several
 //   searches, so keep batches small).
 // - [--ids]: restrict to these ids.
+// - [--limit N]: research at most N batches this run — size a run to finish
+//   inside one session-limit window (agents mid-flight when the limit hits
+//   lose their work; a run that completes loses nothing).
+// - [--pre researched.json]: rows already RESEARCHED but not yet fact-checked
+//   (harvested from a previous run's transcripts) — they skip research and go
+//   straight to the fact-check stage. Their ids are excluded from research.
 // - [--skip results.json]: exclude ids already present in a (harvested) results
 //   file — THE RESUME PATH after a session/token-limit reset: every finished
 //   batch is on disk in the workflow's agent-*.jsonl; harvest them, then
@@ -35,9 +41,7 @@ import { isWritten } from './apply-blurbs-lib.mjs'
 
 const args = process.argv.slice(2)
 // Flag VALUES (`--ids a,b`, `--skip file.json`) are not positionals.
-const flagValueIdx = new Set(
-  ['--ids', '--skip'].map((f) => args.indexOf(f) + 1).filter((i) => i > 0),
-)
+const flagValueIdx = new Set(['--ids', '--skip', '--pre', '--limit'])
 const positional = args.filter(
   (a, i) => !a.startsWith('--') && !flagValueIdx.has(i),
 )
@@ -57,6 +61,16 @@ if (skipFlag >= 0) {
   for (const r of raw.result?.results ?? raw.results ?? raw)
     if (r && typeof r.id === 'string') skipIds.add(r.id)
 }
+const limitFlag = args.indexOf('--limit')
+const LIMIT = limitFlag >= 0 ? Number(args[limitFlag + 1]) : Infinity
+const preFlag = args.indexOf('--pre')
+const preRows = new Map()
+if (preFlag >= 0) {
+  const raw = JSON.parse(readFileSync(args[preFlag + 1], 'utf8'))
+  for (const r of raw.result?.results ?? raw.results ?? raw)
+    if (r && typeof r.id === 'string' && !skipIds.has(r.id))
+      preRows.set(r.id, r)
+}
 
 const cities = JSON.parse(
   readFileSync(new URL('../cities.json', import.meta.url), 'utf8'),
@@ -75,32 +89,46 @@ const existing = existsSync(sidecarUrl)
   ? JSON.parse(readFileSync(sidecarUrl, 'utf8')).blurbs
   : {}
 
-const tuples = locations
+const candidates = locations
   .filter((l) => l.inPlay !== false)
   .filter((l) => !isWritten(existing[l.id]))
   .filter((l) => !onlyIds || onlyIds.has(l.id))
   .filter((l) => !skipIds.has(l.id))
   .sort((a, b) => (b.fameScore ?? 0) - (a.fameScore ?? 0)) // famous first
+// Already-researched rows only need the fact-check stage.
+const pre = candidates
+  .filter((l) => preRows.has(l.id))
+  .map((l) => preRows.get(l.id))
+const tuples = candidates
+  .filter((l) => !preRows.has(l.id))
   .map((l) => [l.id, l.name, l.category, l.lat, l.lng])
+  .slice(0, Number.isFinite(LIMIT) ? LIMIT * BATCH : undefined)
 if (skipIds.size)
   console.log(`skipping ${skipIds.size} ids already in the results file`)
-if (tuples.length === 0)
+if (pre.length)
+  console.log(`${pre.length} researched rows go straight to fact-check`)
+if (Number.isFinite(LIMIT))
+  console.log(
+    `--limit: researching ${tuples.length} of ${candidates.length - pre.length} remaining`,
+  )
+if (tuples.length === 0 && pre.length === 0)
   throw new Error(
     'nothing to research — every in-play row has a blurb or a result',
   )
 
 const script = `export const meta = {
   name: 'blurbs-${CITY}',
-  description: 'Web-research blurbs (why is this place notable / fun fact) for ${city.name} — ${tuples.length} locations, batches of ${BATCH}, each batch fact-checked',
+  description: 'Web-research blurbs for ${city.name} — ${tuples.length} to research (batches of ${BATCH}) + ${pre.length} to fact-check',
   phases: [{ title: 'Research' }, { title: 'Fact-check' }],
 }
 
 const LOCS = ${JSON.stringify(tuples)}
+const PRE = ${JSON.stringify(pre)}
 const CITY = ${JSON.stringify(city.name)}
 const BATCH = ${BATCH}
 const batches = []
 for (let i = 0; i < LOCS.length; i += BATCH) batches.push(LOCS.slice(i, i + BATCH))
-log(\`blurb research: \${LOCS.length} locations in \${batches.length} batches of \${BATCH}\`)
+log(\`blurb research: \${LOCS.length} locations in \${batches.length} batches of \${BATCH}; \${PRE.length} pre-researched rows to fact-check\`)
 
 const ENTRY = {
   type: 'object', additionalProperties: false,
@@ -147,10 +175,14 @@ const results = await pipeline(
   (batch, _b, i) => agent(researchPrompt(batch, i), { label: \`research:\${i + 1}/\${batches.length}\`, phase: 'Research', schema: SCHEMA }),
   (r, _b, i) => r ? agent(checkPrompt(r), { label: \`check:\${i + 1}/\${batches.length}\`, phase: 'Fact-check', schema: SCHEMA, effort: 'low' }) : null,
 )
-const all = results.filter(Boolean).flatMap((r) => r.results)
+const preBatches = []
+for (let i = 0; i < PRE.length; i += BATCH) preBatches.push(PRE.slice(i, i + BATCH))
+const preChecked = await parallel(preBatches.map((rows, i) => () =>
+  agent(checkPrompt({ results: rows }), { label: \`check-pre:\${i + 1}/\${preBatches.length}\`, phase: 'Fact-check', schema: SCHEMA, effort: 'low' })))
+const all = [...results, ...preChecked].filter(Boolean).flatMap((r) => r.results)
 const stories = all.filter((r) => r.text.trim()).length
 const described = all.filter((r) => r.descriptor.trim()).length
-log(\`done: \${stories} stories, \${described} descriptors over \${all.length} researched; \${LOCS.length - all.length} ids missing (failed batches — harvest + --skip to resume)\`)
+log(\`done: \${stories} stories, \${described} descriptors over \${all.length} checked; \${LOCS.length + PRE.length - all.length} ids not finished (harvest + --skip/--pre to resume)\`)
 return { results: all }
 `
 
