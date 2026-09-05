@@ -2,13 +2,21 @@
 // See apply-blurbs.mjs (CLI) and docs/DATA-SOURCING.md §4f.
 
 /** Hard cap on blurb length: ~3 sentences; the recap card is a phone-width box. */
-export const MAX_CHARS = 480
+export const MAX_CHARS = 600
 /** Hard cap on the one-line "what kind of place" descriptor. */
-export const MAX_DESCRIPTOR_CHARS = 90
+export const MAX_DESCRIPTOR_CHARS = 100
 /** Research confidence tiers that are allowed into the shipped sidecar. */
 export const ACCEPTED_CONFIDENCE = new Set(['high', 'medium'])
 
 const collapse = (s) => s.replace(/\s+/g, ' ').trim()
+
+/**
+ * Hosts that are never "read more" material: geocoders, map/search result
+ * pages. A research agent sometimes cites the lookup it used to confirm an
+ * address; that's fine as provenance in `note`, not as a player-facing link.
+ */
+const JUNK_SOURCE =
+  /^https:\/\/([^/]*\.)?(nominatim\.openstreetmap\.org|google\.[a-z.]+|bing\.com|duckduckgo\.com|yahoo\.com)\//i
 
 /**
  * Has this sidecar entry been written? A descriptor-only entry (researched,
@@ -64,9 +72,11 @@ export function normalizeBlurbResults(rows, opts) {
       continue
     }
     const sources = [...new Set((r.sources ?? []).map(String))]
-      .filter((s) => /^https:\/\/\S+$/.test(s))
+      .filter((s) => /^https:\/\/\S+$/.test(s) && !JUNK_SOURCE.test(s))
       .slice(0, 2)
-    if (sources.length === 0) {
+    // A story must be backed by a link; a bare descriptor (what kind of place)
+    // is low-risk and may stand on its own.
+    if (text && sources.length === 0) {
       skipped['no https source'].push(r.id)
       continue
     }

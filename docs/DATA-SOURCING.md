@@ -854,8 +854,8 @@ npm run apply-blurbs -- stpete <results.json>                         # merge + 
 #   npm run gen-blurbs -- stpete … --ids <missing> for the rest
 ```
 
-`apply-blurbs` keeps a row's **story** only at confidence high/medium (≤ 480
-chars) and its **descriptor** regardless (≤ 90 chars) — a low-confidence story
+`apply-blurbs` keeps a row's **story** only at confidence high/medium (≤ 600
+chars) and its **descriptor** regardless (≤ 100 chars) — a low-confidence story
 is dropped, the descriptor survives, so a researched spot never falls back to
 the placeholder; rows need at least one https source (max 2). It never
 overwrites a hand-written entry without `--force`; every merged entry gets its

@@ -138,6 +138,51 @@ describe('normalizeBlurbResults', () => {
     expect(soft.skipped['already written (use --force)']).toEqual(['a'])
   })
 
+  it('drops geocoder/search/map URLs from sources (not "read more" material)', () => {
+    const { accepted } = normalizeBlurbResults(
+      [
+        row('a', {
+          sources: [
+            'https://nominatim.openstreetmap.org/reverse?lat=1&lon=2',
+            'https://www.google.com/maps/place/x',
+            'https://www.google.com/search?q=x',
+            'https://duckduckgo.com/?q=x',
+            'https://ilovetheburg.com/some-story/',
+          ],
+        }),
+      ],
+      { knownIds: known },
+    )
+    expect(accepted[0].sources).toEqual([
+      'https://ilovetheburg.com/some-story/',
+    ])
+  })
+
+  it('a descriptor-only row may have no sources; a row with a story must have one', () => {
+    const { accepted, skipped } = normalizeBlurbResults(
+      [
+        row('a', {
+          text: '',
+          descriptor: 'Seafood grill on Madonna Blvd',
+          sources: [],
+        }),
+        row('b', {
+          sources: ['https://nominatim.openstreetmap.org/reverse?x'],
+        }),
+      ],
+      { knownIds: known },
+    )
+    expect(accepted).toEqual([
+      {
+        id: 'a',
+        text: '',
+        descriptor: 'Seafood grill on Madonna Blvd',
+        sources: [],
+      },
+    ])
+    expect(skipped['no https source']).toEqual(['b'])
+  })
+
   it('never overwrites a hand-written entry unless --force', () => {
     const existing = { a: { text: 'hand-written' }, b: { text: '' } }
     const soft = normalizeBlurbResults([row('a'), row('b')], {
