@@ -5014,6 +5014,21 @@
       },
       "writtenOn": "2026-09-06",
       "retiredOn": "2026-09-06"
+    },
+    "whos-on-first": {
+      "text": "Named for Abbott and Costello's 1938 baseball routine, this 'Southern Cuban fusion' sports bar opened in September 2024 in the old Thirsty First space, with neon inspired by the Rays' City Connect jerseys and vintage-TV murals by the Vitale Bros. It closed in July 2026, and the room reopened on Aug. 1, 2026 as the '90s-themed Rewind St. Pete.",
+      "descriptor": "Former Southern-Cuban sports bar at 119 1st Ave N (closed July 2026)",
+      "sources": [
+        "https://ilovetheburg.com/whos-on-first-downtown-st-pete/",
+        "https://www.tampabaybeacons.com/2026/08/10/rewind-st-pete-bar-opens-downtown/"
+      ],
+      "writtenFor": {
+        "name": "Who's On First",
+        "lat": 27.77228,
+        "lng": -82.63444
+      },
+      "writtenOn": "2026-09-06",
+      "retiredOn": "2026-09-06"
     }
   }
 }

@@ -152,6 +152,15 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
 
 ## Soon
 
+- [ ] **`syncBlurbs` can't tell a rebrand from a succession.** On a `renamed`
+      fame record it always carries the blurb to the new id, which is right for
+      a rebrand (Shrimpy's Blues Bistro → Shrimpys Waterfront: same business)
+      but wrong for a successor (Who's On First → Rewind St Pete: a different
+      business, which the fame rules already say to score fresh). The successor
+      case currently needs a hand-retire of the old text, which is easy to
+      forget — a PR review caught exactly that. Consider a `successor: true`
+      flag on the fame record that makes the sync retire-and-start-fresh
+      instead of following.
 - [ ] **Add Barra Barra and Kaixo (2701 Central Ave).** Baba and its sister spot
       Barbouni closed after service on 2026-07-03 and the space reopened as
       these two concepts (St. Pete Rising). Neither is listed on Google Places

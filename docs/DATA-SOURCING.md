@@ -879,12 +879,14 @@ Workflow tool's own `resumeFromRunId` also replays cached agents for free when
 the script is unchanged.)
 
 Status: **St. Pete is complete — 373 of 373 in-play locations**, so the recap
-never shows a placeholder there. 322 carry a story, 371 carry a descriptor
+never shows a placeholder there. 320 carry a story, 369 carry a descriptor
 (the four hand-written originals — Sunken Gardens, The Dalí Museum, Demens
 Landing Park, Tampa Bay Watch Discovery Center — have a story but no
-descriptor). One retired entry (`the-neon-lunchbox`) is kept after that venue
-closed. **No other city has a sidecar yet**; State College (200 in play) and
-Ann Arbor (300) are the next runs, one city fully finished before the next.
+descriptor). Four retired entries are kept (`the-neon-lunchbox`, `baba`,
+`thirsty-first` after those venues closed, and `whos-on-first` whose successor
+Rewind St Pete is a different business with its own write-up). **No other city
+has a sidecar yet**; State College (200 in play) and Ann Arbor (300) are the
+next runs, one city fully finished before the next.
 
 ---
 
