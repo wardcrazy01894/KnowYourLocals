@@ -5580,21 +5580,6 @@
       "lastVerified": "2026-06-16"
     },
     {
-      "id": "the-neon-lunchbox",
-      "name": "The Neon Lunchbox",
-      "lat": 27.770898,
-      "lng": -82.657573,
-      "category": "restaurant",
-      "difficulty": "hard",
-      "inPlay": true,
-      "fameScore": 25,
-      "clue": null,
-      "photoUrl": null,
-      "source": "overpass",
-      "attribution": "OpenStreetMap ODbL",
-      "lastVerified": "2026-06-16"
-    },
-    {
       "id": "the-oyster-bar",
       "name": "The Oyster Bar",
       "lat": 27.7711149,
@@ -6282,7 +6267,7 @@
       "lat": 27.820697,
       "lng": -82.699498,
       "category": "restaurant",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "inPlay": true,
       "fameScore": 30,
       "clue": null,

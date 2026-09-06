@@ -44,7 +44,9 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       in-stadium sub-space (Ballpark & Rec inside Tropicana Field) dropped as
       junk via issue #160 → 375, then +1 Central Pizza & Subs (6405 Central Ave)
       — the OSM "Central Pizza" node is the separate Pinellas Park venue, renamed
-      in place to Off The Brick New York Pizza → **376**
+      in place to Off The Brick New York Pizza → 376, −1 The Neon Lunchbox
+      (1756 Central Ave, closed 2026-08-29 per Patch; marked closed in the fame
+      cache) → **375**
       (all in play — cap is 400).
 - [ ] **Build new cities from OSM + Google Maps, not OSM alone** (owner directive,
       2026-06-16 — "OSM has outdated data"). `build-city.mjs` pulls only live
@@ -128,7 +130,7 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
 - [x] **Play cap per city (`City.playCap`) + non-food floor.** Every enriched
       row stays in the dataset with its `fameScore`; only the top-`playCap` by
       fame are `inPlay` and carry a difficulty (count-bucketed 40% easy / 40%
-      medium / 20% hard). Caps: St. Pete 400 (376 rows, all in play), Ann Arbor
+      medium / 20% hard). Caps: St. Pete 400 (375 rows, all in play), Ann Arbor
       300, State College 200, Seattle 500, Chicago 700. Daily selection filters
       to `inPlay`
       and enforces a **non-food floor** (`MIN_NON_FOOD_PER_DAY = 1`) so
@@ -288,7 +290,7 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       scoring + reveal, 5-round flow, results + Wordle share, localStorage
       resume + streaks.
 - [x] Data pipeline (M2): Overpass scripts (fetch-pois / fetch-food /
-      build-city) → per-city `public/locations.<id>.json` (St. Pete 376 +
+      build-city) → per-city `public/locations.<id>.json` (St. Pete 375 +
       4 cities); the app loads the selected city's file; validated by a test.
 - [x] Applied Alex's decisions: 0–100 linear scoring, midnight-ET rollover,
       clues hidden by default, whole-city start zoom.

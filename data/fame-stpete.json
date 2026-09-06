@@ -3998,11 +3998,12 @@
   },
   {
     "id": "the-neon-lunchbox",
-    "status": "open",
+    "status": "closed",
     "currentName": "",
     "fameScore": 25,
     "reviewCount": 13,
-    "hasWikipedia": false
+    "hasWikipedia": false,
+    "statusNote": "Closed 2026-08-29 (Patch: owners cited rising costs, building maintenance, health, economy). Opened Mar 2024 in the former Hideaway Cafe space, 1756 Central Ave."
   },
   {
     "id": "the-oyster-bar",
