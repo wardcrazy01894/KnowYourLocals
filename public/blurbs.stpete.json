@@ -226,20 +226,6 @@
       },
       "writtenOn": "2026-09-06"
     },
-    "baba": {
-      "text": "George and Debbie Sayegh, the couple behind Bodega, opened Baba in June 2019 as a Greek-Lebanese restaurant named for their fathers: baba means dad in both languages. In 2023 they added Barbouni, a nine-seat sister spot. Both closed after service on July 3, 2026, with longtime team members reopening the space as Barra Barra and Kaixo.",
-      "descriptor": "Greek-Lebanese restaurant at 2701 Central in the Grand Central District (2019-2026)",
-      "sources": [
-        "https://stpeterising.com/home/baba-and-barbouni-to-close-in-grand-central-district-making-way-for-barra-barra-and-kaixo",
-        "https://www.eatatbaba.com/about"
-      ],
-      "writtenFor": {
-        "name": "Baba",
-        "lat": 27.77131,
-        "lng": -82.67016
-      },
-      "writtenOn": "2026-09-06"
-    },
     "bad-mother": {
       "text": "A multi-roaster coffee bar that opened in 2022 on the ground floor of Station House, the century-old brick-and-beam building on 1st Ave S, in the spot a tea bar had left vacant. Founders Chris Reynolds and Emily Demikat partner with roasters elsewhere rather than roasting their own, and pour espresso and pour-overs in a space set off by the building's old bank vault door.",
       "descriptor": "Multi-roaster specialty coffee bar inside Station House on 1st Ave S",
@@ -2515,6 +2501,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "macnastys-sports-bar-grill": {
+      "text": "",
+      "descriptor": "Sports bar and grill on Gulf Blvd in St. Pete Beach",
+      "sources": [],
+      "writtenFor": {
+        "name": "MacNasty's Sports Bar & Grill",
+        "lat": 27.73456,
+        "lng": -82.74602
+      },
+      "writtenOn": "2026-09-06"
+    },
     "mad-hatters-ethnobotanical-tea-bar": {
       "text": "A late-night kava and kratom bar painted floor to ceiling in Alice in Wonderland murals — its motto is 'It's always tea time.' Kava is served in shells with a Fijian 'Bula!' toast, and the place doubles as a hangout with a pool table, ping-pong, hookah and a covered patio, open until 2 a.m. (3 a.m. Thursday through Saturday).",
       "descriptor": "Alice in Wonderland-themed kava and kratom bar on 28th Street N",
@@ -2596,17 +2593,6 @@
         "name": "Maximo Park",
         "lat": 27.7111,
         "lng": -82.68227
-      },
-      "writtenOn": "2026-09-06"
-    },
-    "mcnastys-bar-and-grill": {
-      "text": "",
-      "descriptor": "Sports bar on Gulf Blvd in St. Pete Beach",
-      "sources": [],
-      "writtenFor": {
-        "name": "McNasty's Bar and Grill",
-        "lat": 27.73456,
-        "lng": -82.74602
       },
       "writtenOn": "2026-09-06"
     },
@@ -3375,6 +3361,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "rewind-st-pete": {
+      "text": "Opened on 1 August 2026 in the room that had been the sports bar Who's On First, whose co-owner Mike Jennings is among the four owners here. The theme is 1990s and 2000s nostalgia: murals of characters from the era's cartoons, films, games and adverts, roller-rink carpet, period music, and a Blockbuster-themed menu.",
+      "descriptor": "'90s and 2000s themed bar at 119 1st Ave N, open since August 2026",
+      "sources": [
+        "https://www.tampabaybeacons.com/2026/08/10/rewind-st-pete-bar-opens-downtown/"
+      ],
+      "writtenFor": {
+        "name": "Rewind St Pete",
+        "lat": 27.77228,
+        "lng": -82.63444
+      },
+      "writtenOn": "2026-09-06"
+    },
     "ricks-reef": {
       "text": "Something has been serving food on this corner since 1939, when Larry's Luncheonette opened as a drive-up hot dog stand; the owners say the original floor is still underfoot. After runs as Capt. Zak's, Spoonbills, Bobby's Place and The Reef, a regular bought the place and reopened it as Rick's Reef in August 2012, keeping the old name.",
       "descriptor": "Casual seafood-and-burger bar on Gulf Blvd at 68th Ave, St. Pete Beach",
@@ -3728,15 +3727,15 @@
       },
       "writtenOn": "2026-09-06"
     },
-    "shrimpys-blues-bistro": {
-      "text": "Open since 2012 and run by a family that moved down from Atlanta, Shrimpy's pairs Florida seafood with New Orleans cooking — shrimp and grits, po'boys, jambalaya, a shrimp boil — from a deck on the Intracoastal at the north end of St. Pete Beach, with live music on the schedule. It now trades as Shrimpy's Waterfront.",
+    "shrimpys-waterfront": {
+      "text": "Open since 2012 and run by a family that moved down from Atlanta, Shrimpys pairs Florida seafood with New Orleans cooking — shrimp and grits, po'boys, jambalaya, a shrimp boil — with indoor and outdoor seating on the Intracoastal and live music on the schedule. It traded for years as Shrimpy's Blues Bistro before rebranding to Shrimpys Waterfront.",
       "descriptor": "Waterfront seafood with a New Orleans accent on Blind Pass Rd since 2012",
       "sources": [
         "https://www.shrimpysbluesbistro.com/",
         "https://www.shrimpysbluesbistro.com/about"
       ],
       "writtenFor": {
-        "name": "Shrimpys Blues Bistro",
+        "name": "Shrimpys Waterfront",
         "lat": 27.75583,
         "lng": -82.75974
       },
@@ -4522,20 +4521,6 @@
       },
       "writtenOn": "2026-09-06"
     },
-    "thirsty-first": {
-      "text": "CLOSED July 26, 2026. Thirsty First opened on 1st Ave N in 2016 as a craft-cocktail lounge with lockers where regulars kept their own bottles, then grew into a sports bar and in May 2025 moved into the former Acropolis Greek Taverna building at 515 Central: nearly 9,000 square feet, two stories and 69 TVs. Owner Greg Mikurak shut it down in 2026 after a lease dispute and rising costs.",
-      "descriptor": "Two-story sports bar with 69 TVs at 515 Central Ave (closed 2026)",
-      "sources": [
-        "https://stpetecatalyst.com/sports-bar-thirsty-first-to-close-its-doors-sunday/",
-        "https://ilovetheburg.com/thirsty-first-arrives-downtown/"
-      ],
-      "writtenFor": {
-        "name": "Thirsty First",
-        "lat": 27.77146,
-        "lng": -82.64064
-      },
-      "writtenOn": "2026-09-06"
-    },
     "three-birds-tavern": {
       "text": "The 140-year-old farmhouse, one of the original home sites in southern Pinellas County, had already housed restaurants for years when Robin and Jack King bought what was then Limey's in June 2009. Robin named it after Bob Marley's 'Three Little Birds,' a song she tied to her late mother, and the couple's restoration of the house and its towering oaks won a city beautification award in 2015; they sold to John and Haley Ruetz in 2021.",
       "descriptor": "American tavern in a 140-year-old farmhouse on 4th St N with oak-shaded patios",
@@ -4856,20 +4841,6 @@
       },
       "writtenOn": "2026-09-06"
     },
-    "whos-on-first": {
-      "text": "Named for Abbott and Costello's 1938 baseball routine, this 'Southern Cuban fusion' sports bar opened in September 2024 in the old Thirsty First space, with neon inspired by the Rays' City Connect jerseys and vintage-TV murals by the Vitale Bros. It closed in July 2026, and the room reopened on Aug. 1, 2026 as the '90s-themed Rewind St. Pete.",
-      "descriptor": "Former Southern-Cuban sports bar at 119 1st Ave N (closed July 2026)",
-      "sources": [
-        "https://ilovetheburg.com/whos-on-first-downtown-st-pete/",
-        "https://www.tampabaybeacons.com/2026/08/10/rewind-st-pete-bar-opens-downtown/"
-      ],
-      "writtenFor": {
-        "name": "Who's On First",
-        "lat": 27.77228,
-        "lng": -82.63444
-      },
-      "writtenOn": "2026-09-06"
-    },
     "wild-child": {
       "text": "Opened in summer 2020 in the former NuMex space by St. Pete natives Matt Kaye (also behind The Bends) and chef Rob Reinsmith, who came home after years in New York restaurants. The menu borrows from Tulum, the Caribbean and beyond — jerk octopus, snapper ceviche, a Korean fried chicken sandwich — under murals by local and Miami artists.",
       "descriptor": "Tropical-leaning neighborhood bistro and cocktail bar on Central Ave in Grand Central",
@@ -4999,6 +4970,21 @@
     }
   },
   "retired": {
+    "baba": {
+      "text": "George and Debbie Sayegh, the couple behind Bodega, opened Baba in June 2019 as a Greek-Lebanese restaurant named for their fathers: baba means dad in both languages. In 2023 they added Barbouni, a nine-seat sister spot. Both closed after service on July 3, 2026, with longtime team members reopening the space as Barra Barra and Kaixo.",
+      "descriptor": "Greek-Lebanese restaurant at 2701 Central in the Grand Central District (2019-2026)",
+      "sources": [
+        "https://stpeterising.com/home/baba-and-barbouni-to-close-in-grand-central-district-making-way-for-barra-barra-and-kaixo",
+        "https://www.eatatbaba.com/about"
+      ],
+      "writtenFor": {
+        "name": "Baba",
+        "lat": 27.77131,
+        "lng": -82.67016
+      },
+      "writtenOn": "2026-09-06",
+      "retiredOn": "2026-09-06"
+    },
     "the-neon-lunchbox": {
       "text": "An '80s/'90s-themed restaurant, bar and music venue that opened in March 2024 in the old Hideaway Cafe space, with murals of nostalgic pop-culture icons, a glow-in-the-dark VIP room, a horror-movie bathroom, and a New Orleans-leaning menu from the couple behind the Half Baked Potato. Patrons could donate vintage items for decor in exchange for a discount. It closed on August 29, 2026, with the owners citing rising costs and health issues.",
       "descriptor": "Retro '80s/'90s restaurant, bar and stage at 1756 Central Ave (closed Aug 2026)",
@@ -5010,6 +4996,36 @@
         "name": "The Neon Lunchbox",
         "lat": 27.7709,
         "lng": -82.65757
+      },
+      "writtenOn": "2026-09-06",
+      "retiredOn": "2026-09-06"
+    },
+    "thirsty-first": {
+      "text": "CLOSED July 26, 2026. Thirsty First opened on 1st Ave N in 2016 as a craft-cocktail lounge with lockers where regulars kept their own bottles, then grew into a sports bar and in May 2025 moved into the former Acropolis Greek Taverna building at 515 Central: nearly 9,000 square feet, two stories and 69 TVs. Owner Greg Mikurak shut it down in 2026 after a lease dispute and rising costs.",
+      "descriptor": "Two-story sports bar with 69 TVs at 515 Central Ave (closed 2026)",
+      "sources": [
+        "https://stpetecatalyst.com/sports-bar-thirsty-first-to-close-its-doors-sunday/",
+        "https://ilovetheburg.com/thirsty-first-arrives-downtown/"
+      ],
+      "writtenFor": {
+        "name": "Thirsty First",
+        "lat": 27.77146,
+        "lng": -82.64064
+      },
+      "writtenOn": "2026-09-06",
+      "retiredOn": "2026-09-06"
+    },
+    "whos-on-first": {
+      "text": "Named for Abbott and Costello's 1938 baseball routine, this 'Southern Cuban fusion' sports bar opened in September 2024 in the old Thirsty First space, with neon inspired by the Rays' City Connect jerseys and vintage-TV murals by the Vitale Bros. It closed in July 2026, and the room reopened on Aug. 1, 2026 as the '90s-themed Rewind St. Pete.",
+      "descriptor": "Former Southern-Cuban sports bar at 119 1st Ave N (closed July 2026)",
+      "sources": [
+        "https://ilovetheburg.com/whos-on-first-downtown-st-pete/",
+        "https://www.tampabaybeacons.com/2026/08/10/rewind-st-pete-bar-opens-downtown/"
+      ],
+      "writtenFor": {
+        "name": "Who's On First",
+        "lat": 27.77228,
+        "lng": -82.63444
       },
       "writtenOn": "2026-09-06",
       "retiredOn": "2026-09-06"

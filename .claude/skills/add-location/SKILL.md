@@ -76,8 +76,12 @@ already pinned.
    **Google Places `userRatingCount`** (`places:searchText`, key in `.env.local`
    `GOOGLE_MAPS_KEY`) and calibrate against the city's existing fame↔reviewCount
    anchors in the cache (St. Pete: Tropicana Field 95/5000rev, 3 Daughters 72/600,
-   Dead Bob's 42/300, McNasty's 22/57, 4th Street Pub 20/30; most bars/restaurants
-   20–60). Down-weight tourist fame, up-weight local ubiquity. A **rename-to-
+   Dead Bob's 42/300, Jack's 40/644, 4th Street Pub 20/30; most bars/restaurants
+   20–60). Down-weight tourist fame, up-weight local ubiquity. **Treat a cached
+   `reviewCount` as provenance, not truth** — several were captured years ago and
+   have drifted badly (McNasty's was cached at 57 but really has 648; Shrimpy's at
+   150 vs 3931). Re-pull the live count whenever you touch a row, and fix the
+   anchor list here if one of the anchors turns out to be the stale one. A **rename-to-
    successor is a different business** — score the new one, don't carry the old
    venue's fame. Set `reviewCount` to the Places count for provenance.
 3. **`public/locations.<city>.json`**: append the same base entry (sorted by id),

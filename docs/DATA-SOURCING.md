@@ -177,9 +177,9 @@ pipeline's dupe rule). Sweep hits must be web-verified before adding — OSM is
 stale (most "missing" hits around a downtown block turn out to be
 already-known closures recorded in the fame cache).
 
-### Status: 375 locations (after the fame pass cleanup + parks/lakes + play-cap re-run)
+### Status: 373 locations (after the fame pass cleanup + parks/lakes + play-cap re-run)
 
-`public/locations.stpete.json` holds **375 St. Pete places** (peaked at 401 after
+`public/locations.stpete.json` holds **373 St. Pete places** (peaked at 401 after
 the +19 parks/lakes pass; the play-cap re-run, §4c/PR #59, re-deduped to 389; +7
 player-requested/nearby-sweep adds; −1 closed bar removed via issue #81; +3
 John's Pass Village adds; −1 closed McAuley's Pub removed; a Google Places
@@ -199,7 +199,8 @@ dropped as junk via issue #160 → 375, then +1 Central Pizza & Subs (6405 Centr
 Ave), the St. Pete pizzeria the dataset was missing — the OSM node named "Central
 Pizza" is the separate Pinellas Park venue since rebranded to Off The Brick New
 York Pizza, renamed in place here → 376, −1 The Neon Lunchbox (closed
-2026-08-29) → **375**,
+2026-08-29) → 375, −2 more closures found by the blurb research (Baba, Thirsty
+First) → **373**,
 all in play, since the cap is 400). It started at ~516
 from the inclusive pull below, then the fame+status pass (§4b) **removed 133** —
 104 permanently-closed, 28 zero-web-presence junk entries (generic OSM nodes like
@@ -369,7 +370,7 @@ benched rows (`inPlay: false`) keep their fame but carry **no `difficulty`** (no
 stale bucket). This keeps the whole scored set in the file — re-capping to a
 different size is a pure re-run of `apply-difficulty.mjs` off the committed
 `data/fame-<city>.json`, no re-research. Daily selection (`src/lib/daily.ts`)
-filters to `inPlay !== false`. Current caps: St. Pete 400 (375 rows, all in
+filters to `inPlay !== false`. Current caps: St. Pete 400 (373 rows, all in
 play), Ann Arbor 300, State College 200, Seattle 500, Chicago 700 (of 4198).
 
 > **Removing a row reshuffles the cap.** Because in-play membership and the
@@ -461,7 +462,7 @@ city's `target` — or, when `target` is **`null`**, keeps **everything** in-bou
 (uncapped; let the fame pass trim the tail). Cities are defined once in the root
 `cities.json` (read by both this script and the app via `src/lib/cities.ts`).
 Current cities (rows in dataset → **in daily play** after the play cap, see
-§4c, post full-vetting + chain-branch re-adds §4e): St. Pete (375 → **375**),
+§4c, post full-vetting + chain-branch re-adds §4e): St. Pete (373 → **373**),
 State College (229 → **200**), Ann Arbor (344 → **300**), Seattle (2463 →
 **500**), Chicago (4198 → **700**) —
 all enriched. (Seattle gained back 12 relocated venues re-added at their verified
@@ -877,13 +878,15 @@ Nothing is re-researched; the same results file spans every run. (The
 Workflow tool's own `resumeFromRunId` also replays cached agents for free when
 the script is unchanged.)
 
-Status: **St. Pete is complete — 375 of 375 in-play locations**, so the recap
-never shows a placeholder there. 322 carry a story, 371 carry a descriptor
+Status: **St. Pete is complete — 373 of 373 in-play locations**, so the recap
+never shows a placeholder there. 320 carry a story, 369 carry a descriptor
 (the four hand-written originals — Sunken Gardens, The Dalí Museum, Demens
 Landing Park, Tampa Bay Watch Discovery Center — have a story but no
-descriptor). One retired entry (`the-neon-lunchbox`) is kept after that venue
-closed. **No other city has a sidecar yet**; State College (200 in play) and
-Ann Arbor (300) are the next runs, one city fully finished before the next.
+descriptor). Four retired entries are kept (`the-neon-lunchbox`, `baba`,
+`thirsty-first` after those venues closed, and `whos-on-first` whose successor
+Rewind St Pete is a different business with its own write-up). **No other city
+has a sidecar yet**; State College (200 in play) and Ann Arbor (300) are the
+next runs, one city fully finished before the next.
 
 ---
 

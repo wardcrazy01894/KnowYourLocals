@@ -46,7 +46,8 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       — the OSM "Central Pizza" node is the separate Pinellas Park venue, renamed
       in place to Off The Brick New York Pizza → 376, −1 The Neon Lunchbox
       (1756 Central Ave, closed 2026-08-29 per Patch; marked closed in the fame
-      cache) → **375**
+      cache) → 375, −2 more closures the blurb research surfaced (Baba, final
+      service 2026-07-03; Thirsty First, 2026-07-26) → **373**
       (all in play — cap is 400).
 - [ ] **Build new cities from OSM + Google Maps, not OSM alone** (owner directive,
       2026-06-16 — "OSM has outdated data"). `build-city.mjs` pulls only live
@@ -130,7 +131,7 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
 - [x] **Play cap per city (`City.playCap`) + non-food floor.** Every enriched
       row stays in the dataset with its `fameScore`; only the top-`playCap` by
       fame are `inPlay` and carry a difficulty (count-bucketed 40% easy / 40%
-      medium / 20% hard). Caps: St. Pete 400 (375 rows, all in play), Ann Arbor
+      medium / 20% hard). Caps: St. Pete 400 (373 rows, all in play), Ann Arbor
       300, State College 200, Seattle 500, Chicago 700. Daily selection filters
       to `inPlay`
       and enforces a **non-food floor** (`MIN_NON_FOOD_PER_DAY = 1`) so
@@ -150,6 +151,21 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       `build-city`.
 
 ## Soon
+
+- [ ] **`syncBlurbs` can't tell a rebrand from a succession.** On a `renamed`
+      fame record it always carries the blurb to the new id, which is right for
+      a rebrand (Shrimpy's Blues Bistro → Shrimpys Waterfront: same business)
+      but wrong for a successor (Who's On First → Rewind St Pete: a different
+      business, which the fame rules already say to score fresh). The successor
+      case currently needs a hand-retire of the old text, which is easy to
+      forget — a PR review caught exactly that. Consider a `successor: true`
+      flag on the fame record that makes the sync retire-and-start-fresh
+      instead of following.
+- [ ] **Add Barra Barra and Kaixo (2701 Central Ave).** Baba and its sister spot
+      Barbouni closed after service on 2026-07-03 and the space reopened as
+      these two concepts (St. Pete Rising). Neither is listed on Google Places
+      yet, so there is nothing to geocode or calibrate fame against — re-check
+      in a month or two and add via the `add-location` skill.
 
 - [ ] **Write location blurbs for every city** — the day recap (PLAN §5.13)
       ships with 4 demo St. Pete entries in `public/blurbs.stpete.json`; every
@@ -290,7 +306,7 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       scoring + reveal, 5-round flow, results + Wordle share, localStorage
       resume + streaks.
 - [x] Data pipeline (M2): Overpass scripts (fetch-pois / fetch-food /
-      build-city) → per-city `public/locations.<id>.json` (St. Pete 375 +
+      build-city) → per-city `public/locations.<id>.json` (St. Pete 373 +
       4 cities); the app loads the selected city's file; validated by a test.
 - [x] Applied Alex's decisions: 0–100 linear scoring, midnight-ET rollover,
       clues hidden by default, whole-city start zoom.
