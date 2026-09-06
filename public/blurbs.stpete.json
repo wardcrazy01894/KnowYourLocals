@@ -3015,6 +3015,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "shrimpys-blues-bistro": {
+      "text": "Open since 2012 and run by a family that moved down from Atlanta, Shrimpy's pairs Florida seafood with New Orleans cooking — shrimp and grits, po'boys, jambalaya, a shrimp boil — from a deck on the Intracoastal at the north end of St. Pete Beach, with live music on the schedule. It now trades as Shrimpy's Waterfront.",
+      "descriptor": "Waterfront seafood with a New Orleans accent on Blind Pass Rd since 2012",
+      "sources": [
+        "https://www.shrimpysbluesbistro.com/",
+        "https://www.shrimpysbluesbistro.com/about"
+      ],
+      "writtenFor": {
+        "name": "Shrimpys Blues Bistro",
+        "lat": 27.75583,
+        "lng": -82.75974
+      },
+      "writtenOn": "2026-09-06"
+    },
     "siam-garden": {
       "text": "St. Pete's longest-running Thai restaurant, opened in 1988 by chef Piboon \"Boone\", who learned to cook in Bangkok and bills it as the city's first Thai restaurant back when the cuisine was still a novelty in Tampa Bay. Its signature offer is \"Bring Your Catch\": hand over the fish you landed (cleaned and fileted) and the kitchen turns it into a multi-course meal with appetizer, soup, entrée and jasmine rice.",
       "descriptor": "Thai restaurant on Dr. MLK Jr. St N in Allendale Park, est. 1988",
@@ -3029,6 +3043,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "sila-thai": {
+      "text": "",
+      "descriptor": "Neighborhood Thai restaurant on 49th St N at 38th Ave N",
+      "sources": ["https://www.openstreetmap.org/way/192516456"],
+      "writtenFor": {
+        "name": "Sila Thai",
+        "lat": 27.80695,
+        "lng": -82.7004
+      },
+      "writtenOn": "2026-09-06"
+    },
     "skyway-jacks": {
       "text": "Founded in 1976 by Jack Thomas as a small shack at O'Neill's Marina feeding commercial boaters and fishermen, the all-day-breakfast joint later moved up to 34th Street South. Look for the giant Humpty Dumpty and rooster out front, and order the scrapple, which the Food Network once crowned Florida's best breakfast dish.",
       "descriptor": "All-day country breakfast diner on 34th St S since 1976",
@@ -3042,6 +3067,17 @@
         "lng": -82.67984
       },
       "writtenOn": "2026-09-05"
+    },
+    "slice-of-the-burg": {
+      "text": "A locally owned slice shop out on Roosevelt Boulevard near Gateway Crossings, doing New York-style pies with housemade sauce and fresh dough alongside wings, cheesesteaks and strombolis. It also claims one of the largest vegan pizza menus in the area — the house motto is \"keeping St. Pete weird, fed, and extra cheesy.\"",
+      "descriptor": "New York-style pizza and cheesesteaks on Roosevelt Blvd in Gateway",
+      "sources": ["https://sliceoftheburg.com/"],
+      "writtenFor": {
+        "name": "Slice of the Burg",
+        "lat": 27.86698,
+        "lng": -82.64568
+      },
+      "writtenOn": "2026-09-06"
     },
     "snappers-sea-grill": {
       "text": "Fisherman-turned-restaurateur Dan Casey opened Snappers on Valentine's Day 1998 after a dozen years running Dan's Beachside Deli, a business he'd started as a hot dog stand on July 4, 1986 with $86 in first-day sales. Fresh grouper from local fishermen was the deli's calling card, and Casey himself won the King of the Beach fishing tournament in 2017; his son Connor now helps run the place.",
@@ -3096,6 +3132,20 @@
         "name": "Southside Craft Coffee Brew Bar",
         "lat": 27.73289,
         "lng": -82.64063
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "spa-beach-bistro": {
+      "text": "The St. Pete Pier's only open-air cafe, sitting at Spa Beach beside the Majeed Foundation splash pad and the first trolley stop — pizza and cold drinks for people coming straight off the sand. The 26-acre Pier District it anchors opened on July 6, 2020.",
+      "descriptor": "Outdoor pizza-and-drinks cafe at Spa Beach on the St. Pete Pier",
+      "sources": [
+        "https://www.spabeachbistro.com/",
+        "https://en.wikipedia.org/wiki/St._Petersburg_Pier"
+      ],
+      "writtenFor": {
+        "name": "Spa Beach Bistro",
+        "lat": 27.77404,
+        "lng": -82.62742
       },
       "writtenOn": "2026-09-06"
     },
@@ -3217,6 +3267,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "sushi-rock-grill": {
+      "text": "",
+      "descriptor": "Sushi bar in the Sun Blvd plaza on Isla del Sol",
+      "sources": ["https://www.sushirockgrill.com/"],
+      "writtenFor": {
+        "name": "Sushi Rock Grill",
+        "lat": 27.71337,
+        "lng": -82.71388
+      },
+      "writtenOn": "2026-09-06"
+    },
     "sushi-sho-rexley": {
       "text": "Brought omakase to downtown St. Pete in January 2018, when brothers Arte and Rexley Kwok, who previously ran Lazy Maguro in Palm Harbor, opened it near 2nd Street North. Chef Rexley, trained under master sushi chef Hiro Ida and making sushi in the area since 1999, serves a chef's-choice progression of up to a dozen courses in an 800-square-foot room; it holds a MICHELIN Recommended listing, retained in the 2026 guide.",
       "descriptor": "Omakase sushi counter on 2nd St N, open since 2018",
@@ -3293,6 +3354,20 @@
         "lng": -82.63416
       },
       "writtenOn": "2026-09-05"
+    },
+    "terra-mar-brazilian-steakhouse": {
+      "text": "A family-run Brazilian churrascaria started in 1999 by Geraldo and Marlete Ferreira, who brought the rodizio format with them from Brazil: carvers work the room with skewers off an open fire until you flip your card. The house's headline cut is picanha, the salt-crusted sirloin cap, backed by a salad bar and whole pineapples glazed in brown sugar and cinnamon.",
+      "descriptor": "Brazilian churrascaria on 49th St N in Pinellas Park since 1999",
+      "sources": [
+        "https://terramarsteakhouse.com/about",
+        "https://terramarsteakhouse.com/"
+      ],
+      "writtenFor": {
+        "name": "Terra Mar Brazilian Steakhouse",
+        "lat": 27.83316,
+        "lng": -82.69948
+      },
+      "writtenOn": "2026-09-06"
     },
     "thai-am": {
       "text": "One of St. Pete's oldest Thai restaurants, a 4th Street North fixture for more than 20 years, run by a Thai-born owner and head chef cooking with ingredients imported from Thailand. The showpiece is Chicken on Fire (gai fai), a fried chicken breast in spicy chili sauce that arrives flaming with whiskey; the cheese-stuffed tempura chicken wings are the other local favorite.",
@@ -3594,20 +3669,6 @@
         "name": "The Library",
         "lat": 27.76401,
         "lng": -82.63977
-      },
-      "writtenOn": "2026-09-06"
-    },
-    "the-neon-lunchbox": {
-      "text": "An '80s/'90s-themed restaurant, bar and music venue that opened in March 2024 in the old Hideaway Cafe space, with murals of nostalgic pop-culture icons, a glow-in-the-dark VIP room, a horror-movie bathroom, and a New Orleans-leaning menu from the couple behind the Half Baked Potato. Patrons could donate vintage items for decor in exchange for a discount. It closed on August 29, 2026, with the owners citing rising costs and health issues.",
-      "descriptor": "Retro '80s/'90s restaurant, bar and stage at 1756 Central Ave (closed Aug 2026)",
-      "sources": [
-        "https://stpetecatalyst.com/the-neon-lunchbox-opens-in-former-hideaway-space/",
-        "https://patch.com/florida/stpete/retro-themed-bar-restaurant-close-grand-central-district"
-      ],
-      "writtenFor": {
-        "name": "The Neon Lunchbox",
-        "lat": 27.7709,
-        "lng": -82.65757
       },
       "writtenOn": "2026-09-06"
     },
@@ -4113,6 +4174,23 @@
         "lng": -82.76476
       },
       "writtenOn": "2026-09-05"
+    }
+  },
+  "retired": {
+    "the-neon-lunchbox": {
+      "text": "An '80s/'90s-themed restaurant, bar and music venue that opened in March 2024 in the old Hideaway Cafe space, with murals of nostalgic pop-culture icons, a glow-in-the-dark VIP room, a horror-movie bathroom, and a New Orleans-leaning menu from the couple behind the Half Baked Potato. Patrons could donate vintage items for decor in exchange for a discount. It closed on August 29, 2026, with the owners citing rising costs and health issues.",
+      "descriptor": "Retro '80s/'90s restaurant, bar and stage at 1756 Central Ave (closed Aug 2026)",
+      "sources": [
+        "https://stpetecatalyst.com/the-neon-lunchbox-opens-in-former-hideaway-space/",
+        "https://patch.com/florida/stpete/retro-themed-bar-restaurant-close-grand-central-district"
+      ],
+      "writtenFor": {
+        "name": "The Neon Lunchbox",
+        "lat": 27.7709,
+        "lng": -82.65757
+      },
+      "writtenOn": "2026-09-06",
+      "retiredOn": "2026-09-06"
     }
   }
 }
