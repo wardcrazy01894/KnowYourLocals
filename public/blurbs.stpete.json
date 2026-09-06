@@ -30,6 +30,19 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "49th-street-pub": {
+      "text": "",
+      "descriptor": "Central Ave dive bar with live music, open mic nights and bar games",
+      "sources": [
+        "https://www.restaurantji.com/fl/saint-petersburg/49th-street-pub-/"
+      ],
+      "writtenFor": {
+        "name": "49th Street Pub",
+        "lat": 27.77084,
+        "lng": -82.69595
+      },
+      "writtenOn": "2026-09-06"
+    },
     "9-bangkok-thai-restaurant": {
       "text": "Owner Yui Chaisurivirat, who came to St. Pete from Thailand in 1985 after running Asian-fusion spots in Lakeland and Orlando, opened 9 Bangkok on the 500 block of Central around 2001, making it one of Central Avenue's original spots. Regulars come for the duck curry, pad Thai, noodle soup and sushi.",
       "descriptor": "Thai and sushi spot at 571 Central Ave downtown, open since about 2001",
@@ -124,6 +137,33 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "angelos-grill-bar": {
+      "text": "Angelo's sits at 536 1st Avenue North with the kitchen and full bar running from 9 a.m. until 3:30 a.m. every day, which makes it the downtown landing spot after last call. Pizza is the house specialty, and the family that runs it has long advertised itself as a \"Best of the Bay\" winner.",
+      "descriptor": "Late-night pizza joint and full bar at 536 1st Ave N downtown",
+      "sources": [
+        "https://web.archive.org/web/20180411020623/http://www.stpeteza.com/",
+        "https://www.openstreetmap.org/node/3401382769"
+      ],
+      "writtenFor": {
+        "name": "Angelo's Grill & Bar",
+        "lat": 27.7719,
+        "lng": -82.6409
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "anthonys-pizza": {
+      "text": "",
+      "descriptor": "Neighborhood pizzeria on 28th St N — pizza by the slice and Italian plates",
+      "sources": [
+        "https://places.singleplatform.com/anthonys-pizzeria-17/menu"
+      ],
+      "writtenFor": {
+        "name": "Anthony's Pizza",
+        "lat": 27.79325,
+        "lng": -82.67098
+      },
+      "writtenOn": "2026-09-06"
+    },
     "astra-pizza": {
       "text": "A family-owned New York/New Jersey-style pizza and sub shop on 16th Street North whose thin-crust pies are reportedly baked in a 1940s-era pizza oven in a tiny storefront.",
       "descriptor": "Family-owned New York-style pizza and sub shop on 16th St N",
@@ -162,6 +202,19 @@
         "lng": -82.73923
       },
       "writtenOn": "2026-09-05"
+    },
+    "azura-coastal-kitchen-bar": {
+      "text": "Azura opened inside St. Pete Beach's Hotel Zamora after a $7.5 million renovation wrapped in January 2025, taking over from the hotel's longtime Castille restaurant. The cooking is coastal with Italian, Greek and Spanish influences, and the separate Azura Rooftop upstairs serves cocktails with sunset views.",
+      "descriptor": "Mediterranean-coastal restaurant inside Hotel Zamora on Gulf Blvd",
+      "sources": [
+        "https://ilovetheburg.com/hotel-zamora-renovation-st-pete-beach/"
+      ],
+      "writtenFor": {
+        "name": "Azura Coastal Kitchen & Bar",
+        "lat": 27.7135,
+        "lng": -82.73699
+      },
+      "writtenOn": "2026-09-06"
     },
     "baba": {
       "text": "George and Debbie Sayegh, the couple behind Bodega, opened Baba in June 2019 as a Greek-Lebanese restaurant named for their fathers: baba means dad in both languages. In 2023 they added Barbouni, a nine-seat sister spot. Both closed after service on July 3, 2026, with longtime team members reopening the space as Barra Barra and Kaixo.",
@@ -216,6 +269,33 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "bar-moxy": {
+      "text": "The street-level bar of the 163-room Moxy St. Pete, which opened in August 2024 as the EDGE District's big new hotel at 1234 Central Avenue. Bar Moxy opens straight onto Central and pours cocktails alongside flatbreads and sushi rolls; the hotel above it added a rooftop pool deck, a coffee bar and a podcast studio.",
+      "descriptor": "Street-level cocktail bar in the Moxy hotel, Central Ave in the EDGE District",
+      "sources": [
+        "https://stpeterising.com/home/moxy-hotel-makes-grand-debut-in-the-edge-district-of-downtown-st-pete"
+      ],
+      "writtenFor": {
+        "name": "Bar Moxy",
+        "lat": 27.771,
+        "lng": -82.65136
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "bar548": {
+      "text": "Creative Loafing has put Bar@548 on its list of St. Pete's essential dive bars more than once — an open-air room at 548 Central with sidewalk tables for people-watching and local artists' work covering the inside walls. Despite the hip exterior and younger crowd, the drinks stay dive-bar cheap.",
+      "descriptor": "Open-air dive bar at 548 Central Ave with local art on the walls",
+      "sources": [
+        "https://www.cltampa.com/food-drink/20-essential-dive-bars-in-st-petersburg-you-should-know-by-now-14491842/",
+        "https://www.cltampa.com/food-drink/the-real-drinkers-guide-to-st-petes-essential-dive-bars-12387309/"
+      ],
+      "writtenFor": {
+        "name": "Bar@548",
+        "lat": 27.77091,
+        "lng": -82.64111
+      },
+      "writtenOn": "2026-09-06"
+    },
     "bartlett-park": {
       "text": "Home of the St. Petersburg Tennis Center, a club founded in 1919 that moved here in 1929 and grew into a 20-court Har-Tru clay complex nicknamed the \"Court of Dreams.\" Bill Tilden, Rod Laver, Arthur Ashe, Billie Jean King and Martina Navratilova all played here, and Chris Evert won her first professional title on the stadium court now named for her. The park also holds the Frank W. Pierce Recreation Center, athletic fields, six pickleball courts and shuffleboard.",
       "descriptor": "South-side city park with the 20-court St. Petersburg Tennis Center",
@@ -254,6 +334,33 @@
         "lng": -82.64788
       },
       "writtenOn": "2026-09-05"
+    },
+    "beangood-coffee": {
+      "text": "",
+      "descriptor": "Small Park Boulevard coffee shop in Pinellas Park, open 8am to 4pm",
+      "sources": [
+        "https://www.openstreetmap.org/openstreetmap.org/node/13376921920"
+      ],
+      "writtenFor": {
+        "name": "Beangood Coffee",
+        "lat": 27.83954,
+        "lng": -82.71935
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "beech-kombucha": {
+      "text": "Beech Kombucha sits at 3100 Freemont Terrace S, where it pours in a botanical garden behind the building. The garden doubles as an event space — it hosts a garden-to-table prix fixe dinner, a themed multi-course affair that the brewery says happens only twice a year.",
+      "descriptor": "Kombucha brewery with a botanical tasting garden on Freemont Terrace S",
+      "sources": [
+        "https://ilovetheburg.com/venue/beech-kombucha/",
+        "https://ilovetheburg.com/event/garden-to-table-dinner-at-beech-kombucha/"
+      ],
+      "writtenFor": {
+        "name": "Beech Kombucha",
+        "lat": 27.76411,
+        "lng": -82.67559
+      },
+      "writtenOn": "2026-09-06"
     },
     "bella-brava": {
       "text": "Born from the owners' 2003 trip through Tuscany, BellaBrava opened in 2005 on Central Avenue and moved to its Beach Drive patio spot in 2010. It's a scratch kitchen that makes its pasta, pizza dough and focaccia daily and fires pizzas in wood-burning Woodstone ovens; the same group later opened Stillwaters Tavern up the street.",
@@ -446,6 +553,17 @@
         "lng": -82.76412
       },
       "writtenOn": "2026-09-05"
+    },
+    "cafe-1001-and-creative-catering-company": {
+      "text": "Cafe Ten-O-One is the storefront half of Creative Catering Company, which dates itself to 1945. It's a weekday breakfast-and-lunch spot at 1001 First Ave N, with the catering kitchen behind it handling weddings, receptions, corporate events and holiday parties.",
+      "descriptor": "Weekday breakfast-and-lunch cafe at 1001 1st Ave N, Edge District",
+      "sources": ["https://www.creativecateringcompany.com/"],
+      "writtenFor": {
+        "name": "Cafe 1001 and Creative Catering Company",
+        "lat": 27.77221,
+        "lng": -82.64828
+      },
+      "writtenOn": "2026-09-06"
     },
     "cafe-cibo": {
       "text": "Chef-owner Frank Schittino, a Golden Spork award winner, has run this family-owned Sicilian-leaning trattoria on 4th Street North since 1999, with a dining room styled after 1950s Sicily and pasta made in house.",
@@ -749,6 +867,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "china-1": {
+      "text": "",
+      "descriptor": "Family-run Chinese takeout at 1950 34th Street N, closed Mondays",
+      "sources": [
+        "https://www.restaurantji.com/fl/saint-petersburg/china-1-/",
+        "https://www.openstreetmap.org/node/7995196017"
+      ],
+      "writtenFor": {
+        "name": "China 1",
+        "lat": 27.78999,
+        "lng": -82.68023
+      },
+      "writtenOn": "2026-09-06"
+    },
     "china-crossings": {
       "text": "",
       "descriptor": "Chinese takeout and delivery on Roosevelt Blvd N",
@@ -759,6 +891,19 @@
         "name": "China Crossings",
         "lat": 27.86801,
         "lng": -82.64464
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "china-kitchen": {
+      "text": "",
+      "descriptor": "Chinese spot on 3rd St S downtown — lo mein, egg rolls, lunch specials",
+      "sources": [
+        "https://www.restaurantji.com/fl/saint-petersburg/china-kitchen-/"
+      ],
+      "writtenFor": {
+        "name": "China Kitchen",
+        "lat": 27.76876,
+        "lng": -82.63579
       },
       "writtenOn": "2026-09-06"
     },
@@ -962,6 +1107,31 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "doubles-sports-bar": {
+      "text": "",
+      "descriptor": "Corner neighborhood sports bar at 54th Ave N and 33rd St N",
+      "sources": ["https://www.openstreetmap.org/way/192566892"],
+      "writtenFor": {
+        "name": "Doubles Sports Bar",
+        "lat": 27.8213,
+        "lng": -82.67767
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "draculas-legacy-wine-bar": {
+      "text": "The bar was started by the Neamtu family, Romanian immigrants who built the place around their homeland's most famous export — Vlad the Impaler. The room leans into gothic and horror decor, with weapons on the walls and throne-like chairs, over a menu of wine flights, fondue, flatbreads and charcuterie. There's a sister location in downtown Tampa.",
+      "descriptor": "Romanian gothic-themed wine bar on 2nd Ave NE downtown",
+      "sources": [
+        "https://draculaslegacywinebar.com/",
+        "https://ilovetheburg.com/venue/draculas-legacy-wine-bar/"
+      ],
+      "writtenFor": {
+        "name": "Dracula's Legacy Wine Bar",
+        "lat": 27.77406,
+        "lng": -82.63363
+      },
+      "writtenOn": "2026-09-06"
+    },
     "driftwood-kava-roastery-st-pete": {
       "text": "",
       "descriptor": "Late-night kava bar and in-house coffee roastery on the 700 block of Central Ave",
@@ -1017,6 +1187,34 @@
         "lng": -82.6389
       },
       "writtenOn": "2026-09-05"
+    },
+    "el-huarache-veloz": {
+      "text": "Named for its signature dish — thick oval masa huaraches piled with toppings — this Pinellas Park spot sits at the end of a small strip mall at 7100 49th Street North and keeps a drive-up window for takeout. Creative Loafing has twice listed it among Tampa Bay's under-the-radar taco spots.",
+      "descriptor": "Strip-mall Mexican spot for huaraches on 49th St N in Pinellas Park",
+      "sources": [
+        "https://www.cltampa.com/food-drink/20-under-the-radar-tampa-bay-taco-spots-everyone-needs-to-try-17687352/",
+        "https://ilovetheburg.com/latin-restaurant-guide/"
+      ],
+      "writtenFor": {
+        "name": "El Huarache Veloz",
+        "lat": 27.83662,
+        "lng": -82.7003
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "el-nica-restaurant": {
+      "text": "Pinellas Park's Nicaraguan kitchen, serving gallo pinto, tajadas con queso, enchiladas and queso frito alongside fresh juices. It bills itself as the only Nicaraguan restaurant in the area, and it stays open to midnight Friday through Sunday.",
+      "descriptor": "Nicaraguan restaurant on Park Blvd in Pinellas Park",
+      "sources": [
+        "https://www.restaurantji.com/fl/pinellas-park/el-nica-restaurant-/",
+        "https://www.openstreetmap.org/node/11136446565"
+      ],
+      "writtenFor": {
+        "name": "El Nica Restaurant",
+        "lat": 27.83959,
+        "lng": -82.71541
+      },
+      "writtenOn": "2026-09-06"
     },
     "elliott-aster": {
       "text": "Opened May 2025 in the Vinoy's former Marchand's Bar & Grill space, a partnership between Chicago's Boka Restaurant Group and chef Lee Wolen, who earned a Michelin star at Boka. The name nods to both Florida's native Elliott's aster wildflower and Gene Elliott, the Vinoy's developer.",
@@ -1113,6 +1311,19 @@
         "name": "FireWater Cuisine & Wellness",
         "lat": 27.77124,
         "lng": -82.66132
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "first-street-coffee": {
+      "text": "",
+      "descriptor": "Coffee shop inside the Hilton St. Petersburg Bayfront on 1st St S",
+      "sources": [
+        "https://ilovetheburg.com/restaurants-and-cafes-near-usf-st-pete/"
+      ],
+      "writtenFor": {
+        "name": "First Street Coffee",
+        "lat": 27.76749,
+        "lng": -82.6342
       },
       "writtenOn": "2026-09-06"
     },
@@ -1267,6 +1478,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "fossil-park": {
+      "text": "Fossil Park is the big north-side recreation complex at 6635 Dr. Martin Luther King Jr. St. N: a public pool, skatepark, baseball complex, playground, trails, four tennis courts, six pickleball courts and the Willis S. Johns Recreation Center all on one site. The pool is the home of the city's annual Dog Swim Day.",
+      "descriptor": "North St. Pete park on Dr. MLK Jr. St N with a pool, skatepark and ballfields",
+      "sources": [
+        "https://www.stpeteparksrec.org/parks___facilities/fossil_park.php",
+        "https://ilovetheburg.com/dog-swim-day/"
+      ],
+      "writtenFor": {
+        "name": "Fossil Park",
+        "lat": 27.83348,
+        "lng": -82.6455
+      },
+      "writtenOn": "2026-09-06"
+    },
     "fourth-street-shrimp-store": {
       "text": "The building went up in 1928 as a Model T service station, later became a laundromat with a little seafood market tucked inside, and that market started frying shrimp baskets and grouper sandwiches in 1984. The Shrimp Store outgrew the space and expanded in 1997.",
       "descriptor": "Fried-shrimp and grouper joint in a 1928 ex-gas station on 4th St N, since 1984",
@@ -1277,6 +1502,20 @@
         "lng": -82.6388
       },
       "writtenOn": "2026-09-05"
+    },
+    "foxtail-coffee": {
+      "text": "Foxtail started as a single Winter Park cafe in 2016 and roasts its own beans in Orlando; this downtown St. Pete shop is the company's first location in the Tampa Bay area. Alongside espresso it pours beer and wine and scoops Kelly's Homemade Ice Cream.",
+      "descriptor": "Orlando-roasted craft coffee, the chain's first Tampa Bay cafe, on 4th St N",
+      "sources": [
+        "https://foxtailcoffee.com/our-story/",
+        "https://www.foxtailcoffee.com/locations/foxtail-coffee-st.-pete"
+      ],
+      "writtenFor": {
+        "name": "Foxtail Coffee",
+        "lat": 27.77982,
+        "lng": -82.63875
+      },
+      "writtenOn": "2026-09-06"
     },
     "frays-donut-house": {
       "text": "A 'Burg institution since 1993 housed in groovy retro buildings with drive-thrus; each Fray's shop has its own owner, but the donuts are made fresh overnight for a 5:30 a.m. open, and the cronuts and sausage rolls routinely sell out early. Unsold donuts get donated to a local church.",
@@ -1470,6 +1709,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "grassroots-kava": {
+      "text": "Grassroots opened in January 2017 and grew into one of downtown St. Pete's default remote-work hangouts — fast wifi, board games, and a menu built on Vanuatu kava, kratom and locally roasted coffee. Founder Kenneth Hoyumpa added Ybor City and Seminole Heights locations in 2020.",
+      "descriptor": "Vanuatu kava and coffee bar on Central Ave, doubles as a coworking spot",
+      "sources": [
+        "https://voyagetampa.com/interview/hidden-gems-meet-kenneth-hoyumpa-of-grassroots-kava-house/",
+        "https://kavafam.com/bars/grassroots-kava-house-st-petersburg-fl"
+      ],
+      "writtenFor": {
+        "name": "Grassroots Kava",
+        "lat": 27.77134,
+        "lng": -82.64808
+      },
+      "writtenOn": "2026-09-06"
+    },
     "grazzi": {
       "text": "Owner Tony Mangiafico has run Gratzzi downtown for more than two decades, and the 'Bada Bing' is the house signature. When the pandemic shut the city down in March 2020, the kitchen started serving free daily lunches to laid-off hospitality workers on March 18 and passed 500 meals within weeks.",
       "descriptor": "Family-run Italian grille at 2nd St S & 2nd Ave S, downtown since ~1999",
@@ -1610,6 +1863,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "hi-5": {
+      "text": "Hi 5 is the sports-bar concept from Forward Hospitality Group, the same outfit behind Good Night John Boy and My Rich Uncle, with a sibling bar in Cleveland. It calls itself \"proudly unpolished & a little loud\" and keeps rotating drafts and TVs on the Bucs, Rays, Lightning and FSU.",
+      "descriptor": "Unpolished downtown sports bar on 1st Ave N with rotating drafts",
+      "sources": ["https://hi5stpete.com/", "https://www.forwardhg.com/"],
+      "writtenFor": {
+        "name": "Hi 5",
+        "lat": 27.7719,
+        "lng": -82.63662
+      },
+      "writtenOn": "2026-09-06"
+    },
     "hooks-sushi": {
       "text": "Founder Hook Atsavinh was an irrepressibly gregarious character and a first-class sushi chef whose motto was \"All fish and no bull.\" He died suddenly in 2009 at age 44, but the restaurant carried on and still bears his name, serving recipes he brought from Thailand, Japan, Korea and China.",
       "descriptor": "Sushi and Thai spot at 1210 9th St N, motto \"all fish and no bull\"",
@@ -1677,6 +1941,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "ichiban-japanese": {
+      "text": "Ichiban runs as an izakaya: charcoal-grilled yakitori skewers and small sharing plates alongside hand-rolled sushi and a run of Thai dishes. New owners took over and renovated the dining room, and the roll list leans local with the St. Petersburg and the Gator.",
+      "descriptor": "Izakaya on 16th St N: charcoal yakitori, hand-rolled sushi and Thai plates",
+      "sources": ["https://ichibanizakayastpete.com/"],
+      "writtenFor": {
+        "name": "Ichiban Japanese",
+        "lat": 27.79093,
+        "lng": -82.65534
+      },
+      "writtenOn": "2026-09-06"
+    },
     "ikigai-with-a-taste-of-saigon": {
       "text": "It opened around 2017 as a sushi spot, then closed for what was meant to be a two-month renovation that stretched to two years. Owner Jason reopened it in 2024 with his friend Au's Vietnamese menu, so pho with a DIY garnish station now sits alongside build-your-own sushi bowls.",
       "descriptor": "Sushi and Vietnamese pho counter in a 54th Ave N strip plaza",
@@ -1718,6 +1993,20 @@
         "lng": -82.65954
       },
       "writtenOn": "2026-09-05"
+    },
+    "indian-bistro": {
+      "text": "It's the second location of Clearwater's oldest Indian restaurant, which opened here in 2023 in the Publix plaza across from the public beach access. The dining room has all of five tables, so plenty of the curries, biryani, samosas and garlic naan go out the door as takeout.",
+      "descriptor": "Indian restaurant at 4785 Gulf Blvd, St. Pete Beach",
+      "sources": [
+        "https://ilovetheburg.com/indian-bistro-st-pete-beach/",
+        "https://www.openstreetmap.org/node/13430890101"
+      ],
+      "writtenFor": {
+        "name": "Indian Bistro",
+        "lat": 27.72324,
+        "lng": -82.73979
+      },
+      "writtenOn": "2026-09-06"
     },
     "intermezzo-coffee-cocktails": {
       "text": "Started around 2016 as a three-month pop-up at 1111 Central Ave by 23-year-old USF St. Pete grad Jarrett Sabatini, modeled on 1950s Roman cafés (marble tables, Boston's Caffé Vittoria). It outlasted its lease by six and a half years, then moved down the block in 2023 into the old Independent Bar space when its original building was slated for a hotel project.",
@@ -1786,6 +2075,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "jimmys-sports-bar": {
+      "text": "",
+      "descriptor": "Neighborhood sports bar in north St. Petersburg",
+      "sources": ["https://www.openstreetmap.org/way/192545493"],
+      "writtenFor": {
+        "name": "Jimmy's Sports Bar",
+        "lat": 27.80408,
+        "lng": -82.67988
+      },
+      "writtenOn": "2026-09-06"
+    },
     "jinju": {
       "text": "Opened on 34th St N just before the pandemic shutdown forced it to close its doors, then rebuilt a following on cook-it-yourself Korean barbecue over charcoal tabletop grills, with a sushi bar on the side. Galbi short ribs, seafood pancake and kimchi fried rice are the menu standouts.",
       "descriptor": "Korean BBQ with charcoal tabletop grills plus sushi, on 34th St N",
@@ -1841,6 +2141,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "kahunas": {
+      "text": "Kahuna's has held its Gandy Boulevard spot since 1994 — a pool-tables-and-dart-boards bar known for wings, burgers and fajitas, with the kitchen running to 1 a.m. on weekends. The week fills up with live music, trivia, open-mic jams, karaoke and DJ nights.",
+      "descriptor": "Gandy Blvd sports bar and grill since 1994, wings and live music",
+      "sources": ["https://kahunasbarandgrill.com/"],
+      "writtenFor": {
+        "name": "Kahuna's",
+        "lat": 27.86703,
+        "lng": -82.62853
+      },
+      "writtenOn": "2026-09-06"
+    },
     "kahwa-coffee": {
       "text": "",
       "descriptor": "Local-roaster coffee shop with a drive-thru on Park St N near Bay Pines",
@@ -1881,6 +2192,19 @@
         "lng": -82.63586
       },
       "writtenOn": "2026-09-05"
+    },
+    "kalinas-coffee-european-food": {
+      "text": "",
+      "descriptor": "Coffee and European food shop on MLK Jr St N",
+      "sources": [
+        "https://www.facebook.com/people/Kalinas-Coffee-European-Food/100063786330259/"
+      ],
+      "writtenFor": {
+        "name": "Kalina’s Coffee & European Food",
+        "lat": 27.83068,
+        "lng": -82.64618
+      },
+      "writtenOn": "2026-09-06"
     },
     "kao-thai-kitchen": {
       "text": "Open since 2017 on 66th Street North, Kao Thai cooks home-style Thai from family recipes — northern khao soi, shrimp-paste fried rice — alongside playful crossovers like tom yum wings and pad thai wings, now run by new owner Dee, who has been part of the family since 2021.",
@@ -2069,6 +2393,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "los-guerreros-mexican-restaurant": {
+      "text": "",
+      "descriptor": "Sit-down Mexican spot on 66th St N in Pinellas Park, fajitas and margaritas",
+      "sources": [
+        "https://www.losguerreros.org/",
+        "https://restauranteamexicana.com/mexican-restaurants-near-me/los-guerreros-mexican-restaurant"
+      ],
+      "writtenFor": {
+        "name": "Los Guerreros Mexican Restaurant",
+        "lat": 27.86004,
+        "lng": -82.72783
+      },
+      "writtenOn": "2026-09-06"
+    },
     "lotus-vegetarian": {
       "text": "",
       "descriptor": "Vietnamese vegan restaurant on Park Blvd in Pinellas Park",
@@ -2079,6 +2417,17 @@
         "name": "Lotus Vegetarian",
         "lat": 27.83944,
         "lng": -82.72785
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "lucky-star": {
+      "text": "",
+      "descriptor": "Vietnamese restaurant on 66th Street North in Pinellas Park",
+      "sources": ["https://www.openstreetmap.org/way/238509058"],
+      "writtenFor": {
+        "name": "Lucky Star",
+        "lat": 27.80972,
+        "lng": -82.72819
       },
       "writtenOn": "2026-09-06"
     },
@@ -2260,6 +2609,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "mr-empanada": {
+      "text": "A family-run Tampa Bay chain started by Audrey Perez with Al Perez and Lisa Ferras, which held its grand opening in 2003 and now lists nine locations around the bay. The draw is the empanada case — beef and cheese, pizza, guava and cream cheese — alongside Cuban sandwiches, black bean soup and cafe con leche.",
+      "descriptor": "Latin counter for empanadas and Cuban sandwiches, part of a Tampa Bay chain",
+      "sources": [
+        "https://mrempanada.com/about-us/",
+        "https://mrempanada.com/"
+      ],
+      "writtenFor": {
+        "name": "Mr. Empanada - Edge District",
+        "lat": 27.76785,
+        "lng": -82.64615
+      },
+      "writtenOn": "2026-09-06"
+    },
     "mr-mrs-crab": {
       "text": "By the company's own telling, its founders came home from a spring 2016 trip to New Orleans hooked on Louisiana seafood boils and recreated them in Florida with an Asian twist: the house special seasoning blends Cajun, lemon pepper, garlic butter and Szechuan spices, and everything arrives in a boil bag with no fork or knife required.",
       "descriptor": "Cajun-Asian seafood-boil chain outpost on US 19 in Pinellas Park",
@@ -2298,6 +2661,20 @@
         "lng": -82.63186
       },
       "writtenOn": "2026-09-05"
+    },
+    "natures-table": {
+      "text": "This is an outpost of Nature's Table, a health-food cafe franchise that bills itself as a legacy brand dating to 1977. The menu is the chain's: sandwiches, wraps, salads, protein bowls, smoothies and acai bowls, mostly feeding the downtown weekday lunch crowd — it closes by 7 p.m. and doesn't open weekends.",
+      "descriptor": "Nature's Table cafe off Sunshine Lane N — wraps, salads, smoothies",
+      "sources": [
+        "https://naturestable.com/franchising/",
+        "https://www.openstreetmap.org/node/1950032207"
+      ],
+      "writtenFor": {
+        "name": "Nature's Table",
+        "lat": 27.77264,
+        "lng": -82.63687
+      },
+      "writtenOn": "2026-09-06"
     },
     "neighborhood-joe": {
       "text": "A mostly vegan neighborhood café known for its vegan BLT (marinated tempeh, avocado, arugula and sprouts) and hard-to-resist blueberry muffins. It closed its original spot just up the block on MLK at the end of December and reopened six weeks later on February 15, 2024, in the plaza next to Trip's Diner, with more patio space.",
@@ -2458,6 +2835,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "one-night-stand": {
+      "text": "",
+      "descriptor": "Small smoking bar at 149 1st Ave N in downtown St. Petersburg",
+      "sources": ["https://www.openstreetmap.org/node/2010038909"],
+      "writtenFor": {
+        "name": "One Night Stand",
+        "lat": 27.7723,
+        "lng": -82.63482
+      },
+      "writtenOn": "2026-09-06"
+    },
     "overflow-brewing-company": {
       "text": "Sour-beer specialist opened in spring 2018 in a converted office building behind the Morean Arts Center by Troy Bledsoe, a homebrewer-turned-Rapp Brewing brewer, with friends Ryan Sarno and Jessica Holder. Its tap handles were built from Bledsoe's own childhood Legos, some 30 years old. After eight years, it poured its last beers in August 2026.",
       "descriptor": "Sour-focused microbrewery on 1st Ave N with Lego-built tap handles (2018–2026)",
@@ -2511,6 +2899,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "pana-kava-java": {
+      "text": "A neighborhood kava bar more than a coffeehouse: the house pour is kava made fresh daily, served alongside kratom brews, nitrogen-infused teas and locally roasted coffee. It's one of five Pana locations around Tampa Bay, and the greeting on the wall is the South Pacific toast that comes with the shell — \"Shells up, Bula!\"",
+      "descriptor": "Kava bar and coffee shop on 66th Street North in Pinellas Park",
+      "sources": ["https://panakavajava.com"],
+      "writtenFor": {
+        "name": "Pana Kava Java",
+        "lat": 27.86598,
+        "lng": -82.7281
+      },
+      "writtenOn": "2026-09-06"
+    },
     "paolos-pizza-subs": {
       "text": "Actually spelled Paulo's, this pizza-and-sub shop has been run by Joe and Maria Santos since 1983. Regulars swear by the sauce and the calzones.",
       "descriptor": "Family-run pizza and sub shop in St. Petersburg, since 1983",
@@ -2521,6 +2920,20 @@
         "lng": -82.72189
       },
       "writtenOn": "2026-09-05"
+    },
+    "paradeco-coffee-roasters": {
+      "text": "Owners Tom and Sonya built the name out of \"paradise\" — their word for St. Pete — and the art deco look they love. It's independent rather than a franchise, roasts its own beans in-house on a zero-emission Bellwether roaster, and has a second, poolside bar at SkyBeach Resort.",
+      "descriptor": "In-house coffee roaster at 111 2nd Ave NE, off Beach Drive",
+      "sources": [
+        "https://paradecocoffee.com/about",
+        "https://paradecocoffee.com/"
+      ],
+      "writtenFor": {
+        "name": "ParaDeco Coffee Roasters",
+        "lat": 27.77371,
+        "lng": -82.63356
+      },
+      "writtenOn": "2026-09-06"
     },
     "paradise-grille-pass-a-grille": {
       "text": "This beachfront site held the La Plaza Hotel and then the Pass-a-Grille Hotel, both lost to fire (1922 and 1967), before record producer Phil Gernhard, of 'Snoopy vs. the Red Baron' fame, convinced the city in 1970 to let him build a concession stand so kids would stop crossing the road for sodas. It is still the only concession directly on Pass-a-Grille Beach, and each evening someone rings the old ship's bell at sunset.",
@@ -2575,6 +2988,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "parkside-cafe": {
+      "text": "A 7 a.m.-to-2 p.m. neighborhood diner — omelets, breakfast skillets, Cuban sandwiches and a bakery case — that also runs a full liquor bar, so mimosas and bloody marys are on the breakfast menu. Closed Tuesdays.",
+      "descriptor": "Breakfast-and-lunch diner at 8180 49th St N, Pinellas Park",
+      "sources": [
+        "https://www.myparksidecafe.com",
+        "https://www.openstreetmap.org/way/230856223"
+      ],
+      "writtenFor": {
+        "name": "Parkside Cafe",
+        "lat": 27.84624,
+        "lng": -82.70045
+      },
+      "writtenOn": "2026-09-06"
+    },
     "pasadena-yacht-country-club": {
       "text": "Opened in 1924 as the golf club for Jack Taylor's boom-era Pasadena-on-the-Gulf development, with golf legend Walter Hagen as co-owner and first club pro. It was Bear Creek, then Boca Ciega, before settling on this name; U.S. Steel reconfigured the course and added the marina in the 1980s, and the club says Babe Ruth, Arnold Palmer and Michael Jordan have all teed it up here.",
       "descriptor": "Private golf and yacht club in Gulfport, founded 1924",
@@ -2586,6 +3013,20 @@
         "name": "Pasadena Yacht & Country Club",
         "lat": 27.75087,
         "lng": -82.72169
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "pee-pas-garage-craft-brewery": {
+      "text": "Jim Brown spent nearly 40 years running North St. Pete Collision, then built a brewing setup for himself in Georgia and decided \"why should I have all the fun?\" — so the old collision shop became Pee-Pa's Garage. It pours house beers, distills small-batch moonshine and bourbon, grills burgers at the Wood Shed Grill, and throws axes in the Hatchet Barn.",
+      "descriptor": "Craft brewery and distillery in a former collision shop, 6340 49th St N",
+      "sources": [
+        "https://www.peepasgaragecraftbrewery.com/",
+        "https://ilovetheburg.com/venue/pee-pas-garage-craft-brewery/"
+      ],
+      "writtenFor": {
+        "name": "Pee-Pa's Garage Craft Brewery",
+        "lat": 27.83028,
+        "lng": -82.70043
       },
       "writtenOn": "2026-09-06"
     },
@@ -2616,6 +3057,17 @@
         "lng": -82.6312
       },
       "writtenOn": "2026-09-05"
+    },
+    "pho-ha-tien": {
+      "text": "",
+      "descriptor": "Vietnamese pho house on Park Blvd in Pinellas Park",
+      "sources": ["https://www.openstreetmap.org/node/2850801315"],
+      "writtenFor": {
+        "name": "Phở Hà Tiên",
+        "lat": 27.83954,
+        "lng": -82.71931
+      },
+      "writtenOn": "2026-09-06"
     },
     "pho-kien-giang": {
       "text": "A Pinellas Park pho institution that stays packed without social media, marketing or even an updated website. In August 2025 it moved a few blocks down 49th Street into the former Nam Viet building, and regulars lined up for the first service. Known for beef-bone pho, ultra-crispy chicken wings and bún bowls, with a second location planned at 5800 34th St N.",
@@ -2713,6 +3165,19 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "poke-island": {
+      "text": "A counter-service poke shop at 7093 66th Street North where bowls get assembled in front of you off a topping line; the sushi burrito is the other signature order, and there's bubble tea alongside. Regulars mostly talk about the portion size — one bowl routinely stretches into two meals.",
+      "descriptor": "Build-your-own poke bowls and sushi burritos on 66th St N, Pinellas Park",
+      "sources": [
+        "https://www.restaurantji.com/fl/pinellas-park/poke-island-/"
+      ],
+      "writtenFor": {
+        "name": "Poke Island",
+        "lat": 27.83644,
+        "lng": -82.72807
+      },
+      "writtenOn": "2026-09-06"
+    },
     "poppos-taquiera": {
       "text": "A family-run taqueria named after the owner's grandfather, \"Poppo,\" that models its burritos and tacos on the Mission District street food of San Francisco — homemade flour and corn tortillas, fresh and organic ingredients, and 12-inch flour-tortilla burritos, served from a storefront at 1033 Central Ave.",
       "descriptor": "Cali-style Mexican street food counter at 1033 Central Ave with homemade tortillas",
@@ -2794,6 +3259,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "riptides": {
+      "text": "A no-kitchen beach dive at 7618 Blind Pass Road that runs 1 p.m. to 3 a.m. seven days a week — snacks only, plus a jukebox, a pool table and dart boards. The late-night crowd is beach regulars, off-duty service workers and people not ready to call it a night.",
+      "descriptor": "Late-night dive bar on Blind Pass Road in St. Pete Beach",
+      "sources": [
+        "https://www.restaurantji.com/fl/saint-pete-beach/riptides-/"
+      ],
+      "writtenFor": {
+        "name": "Riptides",
+        "lat": 27.7439,
+        "lng": -82.75155
+      },
+      "writtenOn": "2026-09-06"
+    },
     "rococo-steak": {
       "text": "Opened in October 2013 inside the historic 1920s former YWCA building on 2nd Avenue South. Named for the ornate Rococo art period, it set out to break the idea that a steakhouse is only for special occasions, pairing a modern steak menu with a wine list that has run to more than 600 labels.",
       "descriptor": "Upscale modern steakhouse in the 1920s former YWCA building on 2nd Ave S, opened 2013",
@@ -2807,6 +3285,30 @@
         "lng": -82.64263
       },
       "writtenOn": "2026-09-05"
+    },
+    "roses": {
+      "text": "",
+      "descriptor": "Coffee shop at 1234 Central Ave, downtown St. Petersburg",
+      "sources": ["https://www.openstreetmap.org/node/12647449754"],
+      "writtenFor": {
+        "name": "Rose’s",
+        "lat": 27.77089,
+        "lng": -82.65138
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "round-lake": {
+      "text": "The surrounding Round Lake Historic District — about a thousand historic buildings roughly bounded by 5th and 13th Avenues N — was added to the National Register of Historic Places on September 29, 2003. The neighborhood has since merged with S. Crescent and Uptown to become Historic Uptown.",
+      "descriptor": "Small lake in St. Pete's Historic Uptown neighborhood",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Round_Lake_Historic_District_(St._Petersburg,_Florida)"
+      ],
+      "writtenFor": {
+        "name": "Round Lake",
+        "lat": 27.77911,
+        "lng": -82.6398
+      },
+      "writtenOn": "2026-09-06"
     },
     "rubys-elixir": {
       "text": "Ruby's grew out of Central Cigars, a cigar shop that opened on Central Avenue in the late 1990s; in 2011 the owners bolted on Ruby's Elixir as a live-music lounge. It now books musicians every night of the week, and the Thursday jazz sessions in its leather-clad \"Havana Room\" are the local draw.",
@@ -2931,6 +3433,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "saltys-tiki-bar-beach-lounge": {
+      "text": "It's a beach bar at the TradeWinds Island Grand, a 28-acre, 381-room resort at 5500 Gulf Blvd — the one with the waterway you can ride a paddleboat down and a three-story waterslide.",
+      "descriptor": "Beach bar at the TradeWinds Island Grand resort, St. Pete Beach",
+      "sources": [
+        "https://www.tradewindsresort.com/island-grand-beach-resort/dining",
+        "https://www.tradewindsresort.com/island-grand-beach-resort"
+      ],
+      "writtenFor": {
+        "name": "Salty‘s Tiki Bar & Beach Lounge",
+        "lat": 27.7298,
+        "lng": -82.74575
+      },
+      "writtenOn": "2026-09-06"
+    },
     "sams-sushi": {
       "text": "Sam had run just one restaurant before, a small Chinese place in Minnesota, and was nearly 15 years out of the business when he and his wife opened this spot in late 2019 next to the movie theater in the Shoppes at Park Place. Locals come for Chef Nini's rolls, including a Tiger Roll with mango salsa and an oversized lobster roll served half in a martini glass.",
       "descriptor": "Sushi restaurant next to the movie theater at Shoppes at Park Place, since 2019",
@@ -2942,6 +3458,20 @@
         "name": "Sam's Sushi",
         "lat": 27.83665,
         "lng": -82.68622
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "sawatdee-thai-and-sushi": {
+      "text": "",
+      "descriptor": "Thai kitchen and sushi bar on Park Boulevard in Pinellas Park",
+      "sources": [
+        "https://sawatdeethaiandsushi.com/",
+        "https://www.restaurantji.com/fl/pinellas-park/sawatdee-thai-and-sushi-/"
+      ],
+      "writtenFor": {
+        "name": "Sawatdee Thai and Sushi",
+        "lat": 27.83888,
+        "lng": -82.69424
       },
       "writtenOn": "2026-09-06"
     },
@@ -2970,6 +3500,17 @@
         "name": "Sculley's Waterfront Restaurant",
         "lat": 27.78496,
         "lng": -82.78231
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "seasons-cafe-bakery": {
+      "text": "It opened in 2011 as a small coffee shop and grew into a full-service cafe. The kitchen now runs Vietnamese, Thai, Lao and Korean side by side, with the Vietnamese sandwiches as the calling card.",
+      "descriptor": "Vietnamese-Thai-Lao cafe and bakery on US 19 in Pinellas Park",
+      "sources": ["https://myseasonscafe.com/"],
+      "writtenFor": {
+        "name": "Seasons Cafe & Bakery",
+        "lat": 27.83823,
+        "lng": -82.68252
       },
       "writtenOn": "2026-09-06"
     },
@@ -3160,6 +3701,20 @@
         "name": "Special Pho",
         "lat": 27.78533,
         "lng": -82.68011
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "spring-garden": {
+      "text": "A neighborhood takeout counter at 850 49th Street North working the full American-Chinese canon — General Tso's, sesame chicken, egg foo young, lo mein, and a \"Happy Family\" that piles crab meat, pork, shrimp, beef and chicken into one plate.",
+      "descriptor": "American-Chinese takeout counter on 49th Street North",
+      "sources": [
+        "https://www.springgardenfl.com/",
+        "https://www.springgardenfl.com/order/main/house-specialties"
+      ],
+      "writtenFor": {
+        "name": "Spring Garden - Disston Heights",
+        "lat": 27.78011,
+        "lng": -82.70077
       },
       "writtenOn": "2026-09-06"
     },
@@ -3700,6 +4255,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "the-pizza-joint-fl": {
+      "text": "A locally owned slice counter with chef Ariel Hernandez in the kitchen: the specialty slice rotates by the day (buffalo chicken lands on Wednesdays), and two slices with a drink is the standing cheap-lunch deal. Beyond pizza it runs a full red-sauce menu — mussels marinara with linguine and chicken parmigiana among them.",
+      "descriptor": "Slice shop on 49th Street N in Pinellas Park with a daily specialty slice",
+      "sources": [
+        "https://www.thepizzajointfl.com/",
+        "https://www.restaurantji.com/fl/pinellas-park/the-pizza-joint-fl-/"
+      ],
+      "writtenFor": {
+        "name": "The Pizza Joint FL",
+        "lat": 27.83313,
+        "lng": -82.69964
+      },
+      "writtenOn": "2026-09-06"
+    },
     "the-tap-room": {
       "text": "The in-house restaurant of the Hollander Hotel on 4th Ave N, serving breakfast through dinner seven days a week. It's known for filet mignon, grouper nuggets and a Cuban quesadilla, plus a bakery case of pastries and cakes poured alongside locally roasted Kahwa coffee; locals get 25% off on Thursdays.",
       "descriptor": "Breakfast-to-dinner restaurant and bar inside the Hollander Hotel on 4th Ave N",
@@ -3839,6 +4408,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "trailer-daddy": {
+      "text": "Trailer Daddy opened in March 2026 in the old Glamper space at 217 Central Ave, kitted out with vintage campers, lawn flamingos, year-round Christmas lights and a turf-floored outdoor bar. Its backstory is invented: a Pensacola used-car salesman named Waylon \"Daddy\" Whitley who hit a $50,000 gas-station scratch-off. Inside there's a Mullet Hall of Fame, stocked by a Best Mullet Contest on opening weekend.",
+      "descriptor": "Retro trailer-park-themed bar on Central Ave, open since March 2026",
+      "sources": ["https://ilovetheburg.com/trailer-daddy-downtown-st-pete/"],
+      "writtenFor": {
+        "name": "Trailer Daddy",
+        "lat": 27.77141,
+        "lng": -82.63585
+      },
+      "writtenOn": "2026-09-06"
+    },
     "treasure-bay-resort-and-marina": {
       "text": "",
       "descriptor": "Budget hotel and marina across the street from the beach in Treasure Island",
@@ -3958,6 +4538,20 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "victors-kitchen": {
+      "text": "A hole-in-the-wall breakfast counter at 5571 Park Blvd that opens at 7am and locks up at 2:30pm, closed Mondays. Regulars come for the pancakes, biscuits and gravy, French toast and country fried steak rather than anything fancy.",
+      "descriptor": "Breakfast-and-lunch diner on Park Blvd, Pinellas Park; closed Mondays",
+      "sources": [
+        "https://www.restaurantji.com/fl/pinellas-park/victors-kitchen-/",
+        "https://www.openstreetmap.org/node/2850630474"
+      ],
+      "writtenFor": {
+        "name": "Victor's Kitchen",
+        "lat": 27.83952,
+        "lng": -82.70988
+      },
+      "writtenOn": "2026-09-06"
+    },
     "vinoy-park": {
       "text": "This 11.6-acre stretch of downtown waterfront takes its name from the neighboring Vinoy Park Hotel, built in 1925. It is the city's go-to outdoor event lawn, hosting the Tampa Bay Blues Festival, Ribfest, concerts, art festivals and triathlons.",
       "descriptor": "Downtown waterfront park and festival lawn beside the Vinoy hotel",
@@ -4056,6 +4650,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "whiskey-on-park": {
+      "text": "",
+      "descriptor": "Pinellas Park bar on Park Blvd with pool tables, darts and karaoke",
+      "sources": [
+        "https://www.restaurantji.com/fl/pinellas-park/whiskey-on-park-/"
+      ],
+      "writtenFor": {
+        "name": "Whiskey on Park",
+        "lat": 27.83947,
+        "lng": -82.72647
+      },
+      "writtenOn": "2026-09-06"
+    },
     "whos-on-first": {
       "text": "Named for Abbott and Costello's 1938 baseball routine, this 'Southern Cuban fusion' sports bar opened in September 2024 in the old Thirsty First space, with neon inspired by the Rays' City Connect jerseys and vintage-TV murals by the Vitale Bros. It closed in July 2026, and the room reopened on Aug. 1, 2026 as the '90s-themed Rewind St. Pete.",
       "descriptor": "Former Southern-Cuban sports bar at 119 1st Ave N (closed July 2026)",
@@ -4108,6 +4715,17 @@
         "lng": -82.6639
       },
       "writtenOn": "2026-09-05"
+    },
+    "world-vegan-cuisine": {
+      "text": "Everything here is plant-based: the kitchen makes freshly prepared vegan dishes drawn from cuisines all over the world. It sits in a suite on 34th Street North, away from St. Pete's downtown restaurant strips.",
+      "descriptor": "All-vegan kitchen on 34th St N serving globally inspired plates",
+      "sources": ["https://worldvegancuisine.com"],
+      "writtenFor": {
+        "name": "World Vegan Cuisine",
+        "lat": 27.80252,
+        "lng": -82.67923
+      },
+      "writtenOn": "2026-09-06"
     },
     "wrigleys-pizza": {
       "text": "A Chicago-transplant hangout on 4th Street North that used to trade as Paul's Chicago Pizza before rebranding as Wrigley's. It serves thin-crust (not deep-dish) Chicago pizza and Italian beef on Turano bread shipped from Chicago, with 22 TVs, every Cubs game on the MLB package and official Bears-bar status.",
