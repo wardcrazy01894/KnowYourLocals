@@ -11,12 +11,15 @@ export const ACCEPTED_CONFIDENCE = new Set(['high', 'medium'])
 const collapse = (s) => s.replace(/\s+/g, ' ').trim()
 
 /**
- * Hosts that are never "read more" material: geocoders, map/search result
- * pages. A research agent sometimes cites the lookup it used to confirm an
- * address; that's fine as provenance in `note`, not as a player-facing link.
+ * Hosts that are never "read more" material: geocoders, search engines, and
+ * raw map-DATA pages. A research agent sometimes cites the lookup it used to
+ * confirm an address — including an openstreetmap.org node/way page, which is
+ * a database record of tags, not something a player would read. That belongs
+ * in the `note` as provenance, never as a player-facing link. (This also
+ * catches nominatim.openstreetmap.org and malformed doubled-domain OSM URLs.)
  */
 const JUNK_SOURCE =
-  /^https:\/\/([^/]*\.)?(nominatim\.openstreetmap\.org|google\.[a-z.]+|bing\.com|duckduckgo\.com|yahoo\.com)\//i
+  /^https:\/\/([^/]*\.)?(openstreetmap\.org|google\.[a-z.]+|bing\.com|duckduckgo\.com|yahoo\.com)\//i
 
 /**
  * Has this sidecar entry been written? A descriptor-only entry (researched,

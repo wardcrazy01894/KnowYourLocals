@@ -877,9 +877,13 @@ Nothing is re-researched; the same results file spans every run. (The
 Workflow tool's own `resumeFromRunId` also replays cached agents for free when
 the script is unchanged.)
 
-Status: **St. Pete has 4 demo entries** (Sunken Gardens, The Dalí Museum,
-Demens Landing Park, Tampa Bay Watch Discovery Center) written to preview the
-feature; no other city has a sidecar yet. Bulk authoring is a backlog item.
+Status: **St. Pete is complete — 375 of 375 in-play locations**, so the recap
+never shows a placeholder there. 322 carry a story, 371 carry a descriptor
+(the four hand-written originals — Sunken Gardens, The Dalí Museum, Demens
+Landing Park, Tampa Bay Watch Discovery Center — have a story but no
+descriptor). One retired entry (`the-neon-lunchbox`) is kept after that venue
+closed. **No other city has a sidecar yet**; State College (200 in play) and
+Ann Arbor (300) are the next runs, one city fully finished before the next.
 
 ---
 

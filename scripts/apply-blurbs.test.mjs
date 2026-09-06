@@ -138,7 +138,7 @@ describe('normalizeBlurbResults', () => {
     expect(soft.skipped['already written (use --force)']).toEqual(['a'])
   })
 
-  it('drops geocoder/search/map URLs from sources (not "read more" material)', () => {
+  it('drops geocoder/search/map-data URLs from sources (not "read more" material)', () => {
     const { accepted } = normalizeBlurbResults(
       [
         row('a', {
@@ -147,6 +147,11 @@ describe('normalizeBlurbResults', () => {
             'https://www.google.com/maps/place/x',
             'https://www.google.com/search?q=x',
             'https://duckduckgo.com/?q=x',
+            // Raw OSM database pages are map DATA, not reading — same class.
+            'https://www.openstreetmap.org/node/2850801315',
+            'https://openstreetmap.org/way/192516456',
+            // Malformed doubled-domain URL (404s in practice).
+            'https://www.openstreetmap.org/openstreetmap.org/node/13376921920',
             'https://ilovetheburg.com/some-story/',
           ],
         }),
