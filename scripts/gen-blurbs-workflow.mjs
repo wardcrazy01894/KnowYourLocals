@@ -72,6 +72,23 @@ if (preFlag >= 0) {
       preRows.set(r.id, r)
 }
 
+// Local outlets worth naming per city — a research agent given real mastheads
+// finds far better stories than one told to look for "local press". Mirrors the
+// per-city ANCHORS map in gen-fame-workflow.mjs. Add a row when adding a city;
+// an unlisted city just gets the generic instruction.
+const LOCAL_PRESS = {
+  stpete:
+    'the Tampa Bay Times, Creative Loafing, St. Pete Catalyst, St. Pete Rising, I Love the Burg, The Gabber',
+  statecollege:
+    'the Centre Daily Times, StateCollege.com, Onward State, the Daily Collegian, State College Magazine',
+  annarbor:
+    'MLive / The Ann Arbor News, the Michigan Daily, Concentrate Media, the Ann Arbor Observer',
+  seattle:
+    'the Seattle Times, The Stranger, Seattle Met, Capitol Hill Seattle Blog, Eater Seattle',
+  chicago:
+    'the Chicago Tribune, the Sun-Times, Block Club Chicago, Chicago Reader, Eater Chicago, Time Out Chicago',
+}
+
 const cities = JSON.parse(
   readFileSync(new URL('../cities.json', import.meta.url), 'utf8'),
 )
@@ -125,6 +142,7 @@ const script = `export const meta = {
 const LOCS = ${JSON.stringify(tuples)}
 const PRE = ${JSON.stringify(pre)}
 const CITY = ${JSON.stringify(city.name)}
+const PRESS = ${JSON.stringify(LOCAL_PRESS[CITY] || 'reputable local newspapers, city magazines and neighbourhood blogs')}
 const BATCH = ${BATCH}
 const batches = []
 for (let i = 0; i < LOCS.length; i += BATCH) batches.push(LOCS.slice(i, i + BATCH))
@@ -149,7 +167,7 @@ const SCHEMA = {
 
 const researchPrompt = (batch, i) => \`You are writing short, accurate "why this place matters" blurbs for a daily map-guessing game about \${CITY}. Players see the blurb AFTER guessing, next to the real location.
 
-For EACH location below, research it on the web (web search + fetch: Wikipedia, the venue's own site, local press like the Tampa Bay Times / Creative Loafing / St. Pete Catalyst / I Love the Burg, the city's own pages, Atlas Obscura). Do NOT use Google Maps/Places APIs.
+For EACH location below, research it on the web (web search + fetch: Wikipedia, the venue's own site, local press (\${PRESS}), the city's own pages, Atlas Obscura). Do NOT use Google Maps/Places APIs.
 
 For each, produce TWO things:
 1. descriptor — ONE short factual line (max ~80 characters) saying what kind of place it is: cuisine or style, the neighborhood/street, a signature item or since-year if known. E.g. "Cuban sandwich counter on Central Ave since 1985", "Neighborhood dive bar with a tiki patio", "Waterfront park with a sailing center on Bayboro Harbor". This should exist for essentially EVERY spot — the venue's own site, Yelp/TripAdvisor listings, or a local roundup is enough. Do NOT include star ratings or review counts.
