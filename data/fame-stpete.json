@@ -173,11 +173,12 @@
   },
   {
     "id": "baba",
-    "status": "open",
+    "status": "closed",
     "currentName": "",
-    "fameScore": 42,
-    "reviewCount": 286,
-    "hasWikipedia": false
+    "fameScore": 72,
+    "reviewCount": 666,
+    "hasWikipedia": false,
+    "statusNote": "Closed after final service 2026-07-03 (St. Pete Rising); Baba and sister spot Barbouni both closed, the 2701 Central Ave space reopening as Barra Barra and Kaixo. The Google listing still reads OPERATIONAL (stale). Successors are not yet listed anywhere and cannot be geocoded/scored — see BACKLOG."
   },
   {
     "id": "babalu",
@@ -2364,11 +2365,12 @@
   },
   {
     "id": "mcnastys-bar-and-grill",
-    "status": "open",
-    "currentName": "",
-    "fameScore": 22,
-    "reviewCount": 57,
-    "hasWikipedia": false
+    "status": "renamed",
+    "currentName": "MacNasty's Sports Bar & Grill",
+    "fameScore": 46,
+    "reviewCount": 648,
+    "hasWikipedia": false,
+    "statusNote": "Correct name is \"MacNasty's Sports Bar & Grill\" (OSM had McNasty's). Verified 2026-09-06 via Google Places: OPERATIONAL, ~6m from the pin, 648 ratings. Fame recalibrated from a stale 57-review figure."
   },
   {
     "id": "mekong-vietnamese-restaurant",
@@ -2979,9 +2981,10 @@
     "id": "quan-ngon-bistro",
     "status": "open",
     "currentName": "",
-    "fameScore": 28,
-    "reviewCount": 38,
-    "hasWikipedia": false
+    "fameScore": 38,
+    "reviewCount": 354,
+    "hasWikipedia": false,
+    "statusNote": "Re-verified 2026-09-06 via Google Places: OPERATIONAL, ~2m from the pin, 354 ratings — a third-party listing flagging it \"temporarily closed\" is stale. Fame recalibrated from a stale 38-review figure."
   },
   {
     "id": "que-pasa-mexican-cantina",
@@ -3326,11 +3329,12 @@
   },
   {
     "id": "shrimpys-blues-bistro",
-    "status": "open",
-    "currentName": "",
-    "fameScore": 32,
-    "reviewCount": 150,
-    "hasWikipedia": false
+    "status": "renamed",
+    "currentName": "Shrimpys Waterfront",
+    "fameScore": 72,
+    "reviewCount": 3931,
+    "hasWikipedia": false,
+    "statusNote": "Rebranded to \"Shrimpys Waterfront\" — same business, same address (9524 Blind Pass Rd). Verified 2026-09-06 via Google Places: OPERATIONAL, ~5m from the pin, 3931 ratings. Fame recalibrated from a stale 150-review figure."
   },
   {
     "id": "siam-garden",
@@ -4105,11 +4109,12 @@
   },
   {
     "id": "thirsty-first",
-    "status": "open",
+    "status": "closed",
     "currentName": "",
-    "fameScore": 40,
-    "reviewCount": 280,
-    "hasWikipedia": false
+    "fameScore": 58,
+    "reviewCount": 1121,
+    "hasWikipedia": false,
+    "statusNote": "Closed 2026-07-26 (St. Pete Catalyst; lease dispute and rising costs). Confirmed 2026-09-06 via Google Places: CLOSED_PERMANENTLY."
   },
   {
     "id": "three-birds-tavern",
@@ -4509,11 +4514,12 @@
   },
   {
     "id": "whos-on-first",
-    "status": "open",
-    "currentName": "",
-    "fameScore": 28,
-    "reviewCount": 82,
-    "hasWikipedia": false
+    "status": "renamed",
+    "currentName": "Rewind St Pete",
+    "fameScore": 18,
+    "reviewCount": 13,
+    "hasWikipedia": false,
+    "statusNote": "Closed July 2026; the 119 1st Ave N room reopened 2026-08-01 as the '90s-themed Rewind St Pete. Verified 2026-09-06 via Google Places: Rewind St Pete OPERATIONAL at that address, 13 ratings. Scored fresh as a NEW business per the rename-to-successor rule, not carried over."
   },
   {
     "id": "bobs-side-piece",
