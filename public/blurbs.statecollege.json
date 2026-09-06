@@ -2,6 +2,34 @@
   "version": 1,
   "city": "statecollege",
   "blurbs": {
+    "3-dots": {
+      "text": "3 Dots Downtown is a 501(c)(3) arts nonprofit in downtown State College, tax-exempt since July 2019, that programs monthly alcohol-free dance parties with DJs and craft mocktails. In a town built around bars, that's the point — executive director Erica Quinn said 3 Dots is \"honored to be one such space\" for intergenerational experiences that don't revolve around alcohol.",
+      "descriptor": "Nonprofit arts and community event space in downtown State College",
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/834518375",
+        "https://onwardstate.com/2022/09/07/3-dots-to-host-monthly-dance-party-series-starting-september-8/"
+      ],
+      "writtenFor": {
+        "name": "3 Dots",
+        "lat": 40.79426,
+        "lng": -77.85938
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "abba-java-coffeehouse": {
+      "text": "Abba Java has handed out coffee, tea and snacks for free since 2003 — nothing on the menu has a price. It is run by Penn State's Wesley Foundation beneath St. Paul's United Methodist at 250 E. College Ave., stocked largely with donated food from nearby shops and the Central Pennsylvania Food Bank, and its wifi password is \"you are welcome here.\"",
+      "descriptor": "Free-coffee student coffeehouse in a church building at 250 E. College Ave.",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/abba-java-coffee-house-provides-free-coffee-and-a-warm-welcome/",
+        "https://www.statecollege.com/articles/local-news/abba-java-coffee-house-serves-up-more-than-coffee/"
+      ],
+      "writtenFor": {
+        "name": "Abba Java Coffeehouse",
+        "lat": 40.79624,
+        "lng": -77.85833
+      },
+      "writtenOn": "2026-09-06"
+    },
     "adams-apple": {
       "text": "Adam's Apple is the bar side of The Tavern, which two Penn State students and WWII veterans, John O'Connor and Ralph Yeager, opened on May 12, 1948 in a building that had been storage for Harvey Brothers' Bakery. After seven expansions The Tavern spans three connected buildings — the brick one became Adam's Apple — and the walls are hung with Penn State and Pennsylvania history.",
       "descriptor": "The Tavern Restaurant's bar, in a brick building on East College Avenue",
@@ -27,6 +55,30 @@
         "name": "Allen Street Grill",
         "lat": 40.79423,
         "lng": -77.86165
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "allen-street-pizza": {
+      "text": "Opened in September 2022 by the owners of College Pizza, in the South Allen Street storefront Jersey Mike's vacated when it moved out to Hills Plaza. Toppings run from buffalo chicken to a veggie vindaloo, and the everyday deal is any two slices, breadsticks and a fountain drink for $7.",
+      "descriptor": "Late-night slice shop at 128 S. Allen St. from the College Pizza owners",
+      "sources": [
+        "https://www.statecollege.com/articles/business/allen-street-pizza-opens-in-downtown-state-college/"
+      ],
+      "writtenFor": {
+        "name": "Allen Street Pizza",
+        "lat": 40.79375,
+        "lng": -77.86096
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "alumni-garden": {
+      "text": "Five linked gardens — Obelisk, Rainbow, Secret, University House Terrace and Water — were completed in 2005 and dedicated in 2006 around the Hintz Family Alumni Center. The stone building they wrap is the oldest on campus and was the Penn State president's residence from 1864 until 1970.",
+      "descriptor": "Five linked gardens around Penn State's Hintz Family Alumni Center",
+      "sources": ["https://alumni.psu.edu/about/hintz/"],
+      "writtenFor": {
+        "name": "Alumni Garden",
+        "lat": 40.79471,
+        "lng": -77.86342
       },
       "writtenOn": "2026-09-06"
     },
@@ -96,6 +148,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "beijing-osaka": {
+      "text": "",
+      "descriptor": "Paired Chinese and Japanese sushi-hibachi kitchens at 450 E. College Ave.",
+      "sources": [
+        "https://www.statecollege.com/business-directory/254670/osaka-bei-jing/"
+      ],
+      "writtenFor": {
+        "name": "Beijing & Osaka",
+        "lat": 40.79885,
+        "lng": -77.85556
+      },
+      "writtenOn": "2026-09-06"
+    },
     "big-bowl-noodle-house": {
       "text": "A cheap, generous downtown standby for noodle soups, steamed dumplings and house special fried rice, tucked next to and underneath McLanahan's on College Avenue — it also pours boba in 33 flavors.",
       "descriptor": "Chinese-Taiwanese noodle house under McLanahan's on East College Avenue",
@@ -107,6 +172,17 @@
         "name": "Big Bowl Noodle House",
         "lat": 40.79807,
         "lng": -77.85654
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "big-deans-hot-chicken": {
+      "text": "Big Dean's grew out of a 5,000-mile road trip in search of the best Nashville hot chicken, then three weeks of tasting and three months of kitchen testing. The State College shop keeps its menu deliberately short — chicken, slaw and fries — chasing a balance of hot, sweet, creamy and crunchy in every order.",
+      "descriptor": "Nashville hot chicken shop in downtown State College",
+      "sources": ["https://www.bigdeanshotchicken.com/about/"],
+      "writtenFor": {
+        "name": "Big Dean’s Hot Chicken",
+        "lat": 40.79328,
+        "lng": -77.86293
       },
       "writtenOn": "2026-09-06"
     },
@@ -201,6 +277,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "cafe-alina": {
+      "text": "",
+      "descriptor": "Café at 421 E. Calder Way serving international cuisine",
+      "sources": [
+        "https://www.statecollege.com/articles/columns/inside-outside-state-college-the-vast-expansion-of-outdoor-seating-downtown/"
+      ],
+      "writtenFor": {
+        "name": "Cafe Alina",
+        "lat": 40.79798,
+        "lng": -77.85586
+      },
+      "writtenOn": "2026-09-06"
+    },
     "cafe-laura": {
       "text": "Cafe Laura is a working classroom: a \"living lab\" where Penn State hospitality-management students cook and run the front of house toward the 1,000 hours of professional experience their degree requires. The program behind it, founded in 1937, is one of the oldest hospitality programs in North America, and the same operation also serves the Statler Executive Dining Room.",
       "descriptor": "Student-run teaching restaurant of Penn State's hospitality school",
@@ -209,6 +298,31 @@
         "name": "Cafe Laura",
         "lat": 40.79877,
         "lng": -77.87011
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "cafe-lemont": {
+      "text": "Jodi Hakes and Michael Beck opened Cafe Lemont in 2010 in the historic village of Lemont, in a building called the Lemont House, mostly because they wanted good coffee near their neighbors. They roast coffee on site through the week, and the cafe is a standard stop for hikers coming down off Mount Nittany.",
+      "descriptor": "Lemont village coffee house roasting coffee on site since 2010",
+      "sources": [
+        "https://www.cafelemont.org/ourstory",
+        "https://www.cafelemont.org/where-are-we"
+      ],
+      "writtenFor": {
+        "name": "Cafe Lemont",
+        "lat": 40.80894,
+        "lng": -77.81882
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "cafe-wow": {
+      "text": "",
+      "descriptor": "Asian cafe and dessert counter at 234 E. College Ave.",
+      "sources": [],
+      "writtenFor": {
+        "name": "Cafe Wow",
+        "lat": 40.79594,
+        "lng": -77.85908
       },
       "writtenOn": "2026-09-06"
     },
@@ -223,6 +337,34 @@
         "name": "Canyon Pizza",
         "lat": 40.7949,
         "lng": -77.85852
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "carters-table": {
+      "text": "Shawn Carter, a 2003 Penn State grad who got his start in kitchens as a dishwasher, ran Carter's Table as a catering business from 2018 and built a following at the State College farmers market before opening the brick-and-mortar shop on E. Beaver Ave. The tacos and quesadillas run to Lebanese, Asian, Greek and Peruvian flavors on one menu.",
+      "descriptor": "Globally spiced taco and quesadilla shop at 407 E. Beaver Ave",
+      "sources": [
+        "https://onwardstate.com/2022/09/16/carters-table-brings-tacos-with-world-wide-flavors-to-state-college/",
+        "https://carterstable.com/"
+      ],
+      "writtenFor": {
+        "name": "Carter's Table",
+        "lat": 40.79718,
+        "lng": -77.85574
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "central-reservation": {
+      "text": "Opened in 2021 on the corner of Beaver and Allen, Central Reservation was built as downtown's special-occasion room: a raw bar, hanger steak and lobster mac and cheese next to a serious cocktail list. The name comes from a Beth Orton song — one of the partners was listening to it when the group needed a name, and it stuck.",
+      "descriptor": "Cocktail bar and seafood-and-steak spot at Beaver Ave. and Allen St.",
+      "sources": [
+        "https://www.statecollege.com/town-and-gown/eclectic-eatery-central-reservation-serves-up-steak-seafood-and-specialty-cocktails/",
+        "https://onwardstate.com/2024/09/12/the-best-bar-in-state-college-for-each-type-of-alcoholic-drink/"
+      ],
+      "writtenFor": {
+        "name": "Central Reservation",
+        "lat": 40.79356,
+        "lng": -77.86031
       },
       "writtenOn": "2026-09-06"
     },
@@ -342,6 +484,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "dalevue-park": {
+      "text": "Dalevue is one of three College Township parks, along with Spring Creek and Slab Cabin, that came out of state and federal park-acquisition grants the township landed in 1967. Its 14.78 acres hold a playground, picnic area, ball fields, a pavilion, basketball and tennis courts, a sledding hill and bikeway access.",
+      "descriptor": "14.8-acre College Township park with tennis, ball fields and a sledding hill",
+      "sources": [
+        "https://www.collegetownship.org/DocumentCenter/View/2376",
+        "https://www.collegetownship.org/DocumentCenter/View/3036"
+      ],
+      "writtenFor": {
+        "name": "Dalevue Park",
+        "lat": 40.79803,
+        "lng": -77.82489
+      },
+      "writtenOn": "2026-09-06"
+    },
     "discovery-space": {
       "text": "A nonprofit science center envisioned in 2002 by the Downtown State College Improvement District and established in 2007, it acquired and opened its first home at 112 W. Foster Ave. in 2010-11, then relocated to the larger North Atherton space in 2017. It runs camps and traveling exhibits alongside its hands-on STEM exhibits, plus a makerspace called The Rivet.",
       "descriptor": "Hands-on children's science center at 1224 N. Atherton Street",
@@ -350,6 +506,20 @@
         "name": "Discovery Space",
         "lat": 40.80202,
         "lng": -77.88232
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "doggies-pizza": {
+      "text": "Doggie's Pizza sits in the same Calder Way complex as Doggie's Pub — the bar that has been at 108 S. Pugh St. since 1933, when it opened just after Prohibition ended as the Rathskeller and Garden. C.C. \"Doggie\" Alexander bought it in 1934 and renamed it the All-American Rathskeller; when new owners reopened the bar in 2018, a trademark suit from its former operator made them drop \"Rathskeller\" and go by Doggie's Pub.",
+      "descriptor": "Pizza counter on East Calder Way, part of the Doggie's Pub complex",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/doggies-drops-rathskeller-from-bars-name/",
+        "https://www.statecollege.com/articles/business/expansion-planned-for-doggies-pub/"
+      ],
+      "writtenFor": {
+        "name": "Doggie's Pizza",
+        "lat": 40.79478,
+        "lng": -77.86023
       },
       "writtenOn": "2026-09-06"
     },
@@ -364,6 +534,62 @@
         "name": "Doggie's Pub",
         "lat": 40.79504,
         "lng": -77.86025
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "douglas-albert-gallery": {
+      "text": "Doug Albert has sold art in State College since 1981, when he opened in a former ski shop in the alleyway beside The Tavern — a spot regulars called the town's best-kept secret. After 40 years the building's owners declined to renew the lease, and in 2022 the gallery moved to 126 E. College Ave. Albert also runs Uncle Eli's, the artist marketplace he started years before the gallery.",
+      "descriptor": "Art gallery and frame shop on E. College Ave., in business since 1981",
+      "sources": [
+        "https://onwardstate.com/2017/11/13/the-douglas-albert-gallery-state-colleges-best-kept-secret/",
+        "https://onwardstate.com/2022/03/28/douglas-albert-gallery-to-move-to-new-college-ave-location/"
+      ],
+      "writtenFor": {
+        "name": "Douglas Albert Gallery",
+        "lat": 40.7956,
+        "lng": -77.85945
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "edge-pollock": {
+      "text": "The Pollock Commons branch of Penn State's Edge coffee bar opened in 2019 in the space left by campus vendor MIX. In fall 2020 the university switched every Edge location to serving Starbucks; before that the coffee and bagels came from Irving Farm.",
+      "descriptor": "Penn State's Edge coffee bar in Pollock Commons, serving Starbucks",
+      "sources": [
+        "https://onwardstate.com/2020/09/17/edge-coffee-bar-now-serving-starbucks-at-all-penn-state-locations/",
+        "https://onwardstate.com/2024/01/09/on-campus-edge-locations-launch-coffee-loyalty-program/"
+      ],
+      "writtenFor": {
+        "name": "Edge @ Pollock",
+        "lat": 40.8019,
+        "lng": -77.85647
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "edwin-w-zoller-gallery": {
+      "text": "Penn State's School of Visual Arts runs this 2,200-square-foot gallery on the entrance level of the Visual Arts Building; it was established in 1971. It's named for Edwin W. Zoller, a 1921 Penn State graduate who joined the faculty in 1931 teaching painting and design and retired in 1960 as professor of fine arts emeritus. Shows range from juried undergraduate work to MFA thesis exhibitions, traveling exhibitions and artist residencies.",
+      "descriptor": "Penn State art gallery in the Visual Arts Building",
+      "sources": [
+        "https://arts.psu.edu/facilities/zoller-gallery/",
+        "https://arts.psu.edu/academics/school-of-visual-arts/"
+      ],
+      "writtenFor": {
+        "name": "Edwin W. Zoller Gallery",
+        "lat": 40.8009,
+        "lng": -77.86526
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "el-jefes-taqueria": {
+      "text": "El Jefe's started in Harvard Square and now runs nine locations; the State College one at 352 E. Calder Way serves tacos and burritos from 8 a.m. to 4 a.m. daily. Every fall it donates 100% of a 20-hour day of sales to THON — the fourth annual run, in October 2025, drew 2,201 customers and raised $30,864, and the chain has pledged to keep holding it until there's a cure for childhood cancer.",
+      "descriptor": "Late-night taqueria on E. Calder Way, open 8 a.m. to 4 a.m.",
+      "sources": [
+        "https://eljefestaqueria.com/",
+        "https://onwardstate.com/2025/10/21/el-jefes-taqueria-raises-over-30k-during-thon-fundraiser/"
+      ],
+      "writtenFor": {
+        "name": "El Jefe's Taqueria",
+        "lat": 40.79713,
+        "lng": -77.85681
       },
       "writtenOn": "2026-09-06"
     },
@@ -409,6 +635,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "faculty-cottages": {
+      "text": "",
+      "descriptor": "Pine Cottage, a historic house on Penn State's campus",
+      "sources": [],
+      "writtenFor": {
+        "name": "Faculty Cottages",
+        "lat": 40.79981,
+        "lng": -77.86177
+      },
+      "writtenOn": "2026-09-06"
+    },
     "famous-ernies-steaks": {
       "text": "Named for Ernie Oelbermann, a WWII B-17 pilot with a master's in physics who ran The Phyrst next door from 1968 to 2000 and led the Phyrst Phamily singalongs that became a Penn State ritual. He died in 2015 at 90, and the cheesesteak counter on East Beaver Avenue still carries his name.",
       "descriptor": "Cheesesteak counter at 111 E. Beaver Ave, next door to The Phyrst",
@@ -451,6 +688,19 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "foundry-park": {
+      "text": "Penn State's old Foundry Building stood on this spot, and when it was torn down the crucible once used for melting iron there was left in place as a monument — it's still the park's centerpiece. The small green sits just above Hammond Building on the southwest side of campus, and was last renovated in 2006.",
+      "descriptor": "Small campus park above Hammond Building, with an old foundry crucible",
+      "sources": [
+        "https://sites.psu.edu/nmbpassionblog/2022/09/22/foundry-park/"
+      ],
+      "writtenFor": {
+        "name": "Foundry Park",
+        "lat": 40.79385,
+        "lng": -77.86345
+      },
+      "writtenOn": "2026-09-06"
+    },
     "fuji-jade-garden-my-thai": {
       "text": "",
       "descriptor": "Chinese and Thai menus in one Northland Center storefront",
@@ -459,6 +709,17 @@
         "name": "Fuji Jade Garden & My Thai",
         "lat": 40.80356,
         "lng": -77.88809
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "good-day-cafe": {
+      "text": "Strawberry Fields, Inc. opened Good Day Cafe in 2018 as a direct response to the roughly 80% unemployment rate among people with disabilities — it's a nonprofit coffee shop staffed by adults with disabilities, and has employed 18 of them so far. The coffee is locally roasted Rothrock, and the kitchen does breakfast sandwiches and paninis.",
+      "descriptor": "Nonprofit coffee shop in Hamilton Square that employs adults with disabilities",
+      "sources": ["https://www.gooddaycafe.org/about-us"],
+      "writtenFor": {
+        "name": "Good Day Cafe",
+        "lat": 40.78678,
+        "lng": -77.85734
       },
       "writtenOn": "2026-09-06"
     },
@@ -490,6 +751,34 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "hibachi-san": {
+      "text": "Hibachi-San is one of the food counters in the HUB-Robeson Center, the student union on Penn State's University Park campus. It joined the HUB dining lineup around 2016 and is best known there for its poke bowls.",
+      "descriptor": "Hibachi and poke bowl counter in the HUB-Robeson Center food court",
+      "sources": [
+        "https://www.psucollegian.com/culture_lifestyle/best-places-a-nittany-lion-can-eat-in-penn-state-s-hub-robeson-center-blog/article_cb896348-7cad-11ec-bf68-db3a634f716d.html",
+        "https://onwardstate.com/2022/01/11/your-guide-to-updated-campus-dining-hall-hours-offerings/"
+      ],
+      "writtenFor": {
+        "name": "HIBACHI-SAN",
+        "lat": 40.79826,
+        "lng": -77.86108
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "high-point-park": {
+      "text": "BMX champion Jamie Bestwick first pitched a public skatepark for State College in 2013; it finally opened here in May 2026. The $2.4 million High Point Action Sports Park covers 20,000 square feet of ledges, stairs, rails, quarterpipes and a volcano around a granite centerpiece, on what had been an unused baseball field — its concept co-designed by State College native and pro skateboarder Jake Johnson.",
+      "descriptor": "Borough park at 855 W. Whitehall Rd. with State College's public skatepark",
+      "sources": [
+        "https://www.statecollege.com/articles/community/long-planned-public-skatepark-opens-in-state-college/",
+        "https://www.statecollege.com/centre-county-gazette/state-college-celebrates-opening-of-high-point-action-sports-park/"
+      ],
+      "writtenFor": {
+        "name": "High Point Park",
+        "lat": 40.77154,
+        "lng": -77.85938
+      },
+      "writtenOn": "2026-09-06"
+    },
     "hiway-pizza-pub": {
       "text": "The Zangrilli family opened HiWay Pizza on Hiester Street in 1963; the original shop later moved to North Atherton, and this West College Avenue pub opened in November 2017 — the owners said it felt good to be \"back in the neighborhood.\" Now run by Dante's Restaurants, it serves five house-made dough styles, including the trademark flaky crust behind the Vodka Flaky with prosciutto.",
       "descriptor": "State College pizza pub serving HiWay's pies since 1963, W College Ave",
@@ -515,6 +804,20 @@
         "name": "H.O. Smith Botanic Gardens",
         "lat": 40.80554,
         "lng": -77.86764
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "holmes-foster-park": {
+      "text": "An 11-acre borough park off Westerly Parkway with pavilions, picnic tables, charcoal grills, a children's play area, a basketball court and a horseshoe pit. It shares its name with the Holmes-Foster neighborhood, whose Colonial Revival, Tudor Revival and bungalow blocks joined the National Register in 1995 as the Holmes-Foster-Highlands Historic District.",
+      "descriptor": "11-acre borough park at 901 Westerly Pkwy with pavilions and a horseshoe pit",
+      "sources": [
+        "https://www.statecollegepa.us/borough-parks",
+        "https://en.wikipedia.org/wiki/Holmes-Foster-Highlands_Historic_District"
+      ],
+      "writtenFor": {
+        "name": "Holmes-Foster Park",
+        "lat": 40.78316,
+        "lng": -77.86483
       },
       "writtenOn": "2026-09-06"
     },
@@ -560,6 +863,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "k2-roots": {
+      "text": "The juice bar was opened by Penn State wrestling great David Taylor — a two-time NCAA champion and Olympic gold medalist — and his wife Kendra, serving cold-pressed, raw organic juice made on a slow masticating juicer. It moved from 109 S. Fraser Street into the old Bar Bleu space at 114 S. Garner Street, sharing the building with Vitality Wellness Club, which Taylor co-founded with four-time world champion wrestler Kyle Dake.",
+      "descriptor": "Cold-pressed juice bar on S. Garner St., shared with a wellness club",
+      "sources": [
+        "https://www.statecollege.com/articles/business/k2-roots-moving-to-new-location-with-wellness-club/",
+        "https://www.k2roots.com/"
+      ],
+      "writtenFor": {
+        "name": "K2 Roots",
+        "lat": 40.79769,
+        "lng": -77.85675
+      },
+      "writtenOn": "2026-09-06"
+    },
     "kamrai-thai-sushi": {
       "text": "Kamrai serves Thai food and sushi out of a Victorian manor house on Pike Street in Lemont, the village at the foot of Mount Nittany, and it's BYOB. When the owners opened a spin-off, Maxx Sushi & Ramen, down the street in April 2019, they said they would keep Kamrai exactly as it is and put the ramen on the new menu instead.",
       "descriptor": "Thai and sushi BYOB in a Victorian house on Pike Street in Lemont",
@@ -571,6 +888,46 @@
         "name": "Kamrai Thai & Sushi",
         "lat": 40.80953,
         "lng": -77.81865
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "kitchen-garden": {
+      "text": "Kitchen Garden is run by three Turkish families who opened it on S. Atherton Street in spring 2025, serving Turkish and Mediterranean plates alongside American breakfast. The Kitchen Garden Mix pulls specialties from different regions of Turkey, and the staff speak six languages between them.",
+      "descriptor": "Turkish and Mediterranean restaurant on S. Atherton St., open since 2025",
+      "sources": [
+        "https://onwardstate.com/2026/04/15/kitchen-garden-celebrates-one-year-since-opening/"
+      ],
+      "writtenFor": {
+        "name": "Kitchen Garden",
+        "lat": 40.78577,
+        "lng": -77.83016
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "kondu": {
+      "text": "Kondu came up from Harrisburg in September 2017 and brought the sushi burrito to downtown State College — owner Ricky Chen said the idea hit him after watching a YouTube video about a California shop. Its signature roll, the Nittany Lion (originally the \"El Toro\"), is stuffed with grilled steak, shrimp tempura and jalapeños.",
+      "descriptor": "Sushi-burrito and bubble tea counter at 132 S. Allen St.",
+      "sources": [
+        "https://www.psucollegian.com/features/fast-food-fad-the-sushi-burrito-has-rolled-into-downtown-state-college/article_bf7c76d2-a253-11e7-a052-9b5b33f6223a.html"
+      ],
+      "writtenFor": {
+        "name": "Kondu",
+        "lat": 40.79368,
+        "lng": -77.86084
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "lederer-park": {
+      "text": "Lederer Park's walking paths wind through the James Evans Oak Arboretum, where the trees are labeled for visitors. Lederer, Walnut Springs Park and Thompson Woods Preserve connect to form one sizeable natural area in the midst of State College, supporting local streams and wildlife and reducing impacts from flooding.",
+      "descriptor": "Wooded 21.8-acre borough park with walking trails on University Drive",
+      "sources": [
+        "https://centredoutdoors.org/destinations/lederer-park/",
+        "https://www.statecollegepa.us/borough-parks"
+      ],
+      "writtenFor": {
+        "name": "Lederer Park",
+        "lat": 40.79607,
+        "lng": -77.84055
       },
       "writtenOn": "2026-09-06"
     },
@@ -640,6 +997,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "lt-michael-p-murphy-penn-state-veterans-plaza": {
+      "text": "The 2011 senior class gift, dedicated in September 2012, honors Lt. Michael P. Murphy — a 1998 Penn State graduate and Navy SEAL killed in Afghanistan in 2005 after moving into open ground under enemy fire to call for help for his ambushed team, and awarded the Medal of Honor posthumously. The plaza carries the Spartan phrase \"With it or on it,\" about a warrior returning with his shield or carried on it.",
+      "descriptor": "Memorial plaza beside Old Main honoring Penn State's veterans",
+      "sources": [
+        "https://www.psucollegian.com/archives/veterans-plaza-gift-revealed/article_cb0cc272-2883-5b23-9e9d-a353e15f9cf8.html",
+        "https://en.wikipedia.org/wiki/Michael_P._Murphy"
+      ],
+      "writtenFor": {
+        "name": "Lt. Michael P. Murphy Penn State Veterans Plaza",
+        "lat": 40.79733,
+        "lng": -77.86288
+      },
+      "writtenOn": "2026-09-06"
+    },
     "lubrano-park": {
       "text": "Medlar Field at Lubrano Park opened in June 2006 beside Beaver Stadium and is shared by Penn State baseball and the State College Spikes. It was deliberately designed so Mount Nittany rises unobstructed beyond the outfield wall. Its dimensions mirror Pittsburgh's PNC Park with one exception: the right-field wall stands 18.55 feet instead of 21 — a nod to Penn State's 1855 founding.",
       "descriptor": "5,570-seat ballpark by Beaver Stadium; Penn State baseball and the Spikes",
@@ -665,6 +1036,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "lychee": {
+      "text": "",
+      "descriptor": "Chinese takeout and delivery spot at 1341 S. Atherton St.",
+      "sources": ["https://statecollegelychee.com/"],
+      "writtenFor": {
+        "name": "Lychee",
+        "lat": 40.78495,
+        "lng": -77.84289
+      },
+      "writtenOn": "2026-09-06"
+    },
     "maine-bay-berry-co": {
       "text": "Co-owner Shaun Knight, a Winter Harbor, Maine native who taught at Penn State's Smeal College for 15 years, kept getting asked to bring lobster back from home. In July 2017 he and Christa Stofferahn were driving back from Maine late at night, spotted an empty produce stand on Shiloh Road and leased it, opening that August. They moved into The Barn at Lemont in January 2018; Knight still drives to Maine three or four times a month.",
       "descriptor": "Maine seafood market and lobster rolls at The Barn at Lemont on Elmwood St",
@@ -676,6 +1058,19 @@
         "name": "Maine Bay & Berry Co.",
         "lat": 40.81071,
         "lng": -77.82822
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "margaritas-pizzeria-and-italian-cuisine": {
+      "text": "Margaret and Juan Cruz have run this downtown pizza shop at 222 W. Beaver Ave since 2006. They met working at Dino's Pizza in Altoona and ran pizzerias in New Jersey and Florida before State College stuck. Regulars get their usual without asking, and students from the apartment complex next door drop in for food, conversation and the odd box or trash bag.",
+      "descriptor": "Family-run pizzeria and Italian kitchen on W. Beaver Ave since 2006",
+      "sources": [
+        "https://www.psucollegian.com/news/borough/downtown-margaritas-pizzeria-celebrates-business-family/article_ec9d6052-661c-11e4-8d57-001a4bcf6878.html"
+      ],
+      "writtenFor": {
+        "name": "Margarita's Pizzeria and Italian Cuisine",
+        "lat": 40.79202,
+        "lng": -77.862
       },
       "writtenOn": "2026-09-06"
     },
@@ -732,6 +1127,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "mercato-mio": {
+      "text": "An Italian dining room and bar tucked inside the Hilton Garden Inn at 1221 E. College Ave, serving classic Italian dishes and cocktails at dinner plus a hotel breakfast. Its only sibling is a second Mercato Mio inside the Penn Harris Hotel in Camp Hill.",
+      "descriptor": "Italian restaurant inside the Hilton Garden Inn on East College Avenue",
+      "sources": ["https://mercatomiodining.com"],
+      "writtenFor": {
+        "name": "Mercato Mio",
+        "lat": 40.80908,
+        "lng": -77.8352
+      },
+      "writtenOn": "2026-09-06"
+    },
     "millbrook-marsh-nature-center": {
       "text": "Millbrook Marsh covers 62 acres off Puddintown Road, roughly 50 of them wetland, crossed by a boardwalk that lets visitors walk out into the marsh. Its wetlands slow flooding and filter water heading into Spring Run, Thompson Run and Slab Cabin Run and eventually the Chesapeake Bay. Centre Region Parks and Recreation runs the center, a restored bank barn anchors the site, and a ClearWater Conservancy easement with Penn State keeps the marsh from being developed.",
       "descriptor": "62-acre wetland preserve with a boardwalk off Puddintown Road",
@@ -742,6 +1148,46 @@
         "name": "Millbrook Marsh Nature Center",
         "lat": 40.81322,
         "lng": -77.83796
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "momotaro": {
+      "text": "Momotaro opened in spring 2017 and brought Thai rolled ice cream to State College — a milk-and-cream base frozen on a stone slab, then scraped into rolls — alongside coffee, tea and pastries. The name means \"peach boy,\" from the Japanese folk tale, and owner Ben Yu turned the peach in the logo upside down on purpose: \"it looks like a butt. So it's easy to remember.\"",
+      "descriptor": "Thai rolled ice cream shop at 220 W. College Ave, open since 2017",
+      "sources": [
+        "https://onwardstate.com/2017/03/27/new-restaurant-momotaro-bringing-thai-ice-cream-to-state-college/",
+        "https://onwardstate.com/2017/04/19/os-reviews-momotaro/"
+      ],
+      "writtenFor": {
+        "name": "Momotaro",
+        "lat": 40.79285,
+        "lng": -77.86312
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "monte-carlos-pizza-wings": {
+      "text": "Monte Carlo's sits off the main downtown strip on West College Avenue, away from the usual late-night crawl. Onward State's ranking of Penn State's best late-night slices called it \"the underdog,\" serving Sicilian slices and pasta alongside a wide variety of Italian food — and said it \"definitely does the job.\"",
+      "descriptor": "Sicilian slices, pasta and wings on W. College Ave.",
+      "sources": [
+        "https://onwardstate.com/2025/10/20/penn-states-best-late-night-slices/"
+      ],
+      "writtenFor": {
+        "name": "Monte Carlo's Pizza & Wings",
+        "lat": 40.78954,
+        "lng": -77.86789
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "mosul-grill": {
+      "text": "Mahmood Alshekhkder came to State College from Iraq with his family in 2011 and opened Mosul Grill in September 2025 as a family business run with his wife and four children. Everything is halal and grilled to order — lahmacun, kebabs, biryani, pide and gyros. \"We want the people of State College to experience a different flavor,\" he told StateCollege.com.",
+      "descriptor": "Halal Iraqi grill at 434 E. College Ave., in the old Jimmy John's",
+      "sources": [
+        "https://www.statecollege.com/articles/business/new-downtown-state-college-restaurant-offers-authentic-iraqi-dishes/"
+      ],
+      "writtenFor": {
+        "name": "Mosul Grill",
+        "lat": 40.79829,
+        "lng": -77.85613
       },
       "writtenOn": "2026-09-06"
     },
@@ -785,6 +1231,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "orchard-park": {
+      "text": "The playground here was designed by local kids, who drew their dream playgrounds at a KaBOOM! design day and then voted on the finalists — right down to the plum, lime and tangerine color scheme. Volunteers put the 2,500-square-foot result together over a few days in June 2013, with the main build finished in about three hours before thunderstorms rolled in.",
+      "descriptor": "Borough park on Bayberry Dr with ball fields, courts and a playground",
+      "sources": ["https://www.statecollegepa.us/borough-parks"],
+      "writtenFor": {
+        "name": "Orchard Park",
+        "lat": 40.77564,
+        "lng": -77.8626
+      },
+      "writtenOn": "2026-09-06"
+    },
     "original-waffle-shop": {
       "text": "Greek immigrant John Dimakopoulos opened his first Waffle Shop downtown and ran the family's shops on a \"fresh, fast and fun\" credo for 52 years before selling to Chris and Michelle Paret in January 2025. This North Atherton shop and its West College Avenue sibling are breakfast-and-lunch only, closing at 3 p.m., with omelets and waffles the headliners.",
       "descriptor": "Breakfast-and-lunch diner at 1229 N. Atherton St. — omelets, waffles, cheesesteaks",
@@ -796,6 +1253,17 @@
         "name": "Original Waffle Shop",
         "lat": 40.8034,
         "lng": -77.88307
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "osaka": {
+      "text": "",
+      "descriptor": "Japanese sushi and hibachi restaurant at 450 E. College Ave",
+      "sources": [],
+      "writtenFor": {
+        "name": "Osaka",
+        "lat": 40.79882,
+        "lng": -77.8556
       },
       "writtenOn": "2026-09-06"
     },
@@ -813,6 +1281,34 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "panzer-stadium": {
+      "text": "Penn State's men's and women's lacrosse teams play here, in a stadium named for Ken Panzer, a 1982 graduate and former men's lacrosse co-captain who gave $3.55 million with business partner Jordan Kaplan to rebuild it. The project traded the old grassy spectator hillside on University Drive for 1,300 seats, a press box built for ESPN and BTN broadcasts, and a high-definition video board.",
+      "descriptor": "Penn State's lacrosse stadium on the University Park campus",
+      "sources": [
+        "https://onwardstate.com/2018/10/03/photo-story-panzer-stadium-is-ready-for-penn-state-lacrosse/",
+        "https://www.statecollege.com/articles/local-news/penn-state-lacrosse-take-a-look-at-panzer-field-project/"
+      ],
+      "writtenFor": {
+        "name": "Panzer Stadium",
+        "lat": 40.80733,
+        "lng": -77.85352
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "park-ave-lower-intramural-fields": {
+      "text": "Penn State calls this its largest recreation complex: 12 acres of grass north of East Halls, given over to intramural competitions, student activities and pickup games. Once a year it turns into a concert ground — Movin' On, Penn State's annual student music festival and one of the top five largest student-run music festivals in the country, sets up on the Park Avenue IM Fields.",
+      "descriptor": "Penn State's 12-acre intramural field complex north of East Halls",
+      "sources": [
+        "https://studentaffairs.psu.edu/health-wellbeing/recreation/facilities",
+        "https://www.psu.edu/news/university-park/story/movin-concert-impact-parking-and-traffic-friday-may-1"
+      ],
+      "writtenFor": {
+        "name": "Park Ave Lower Intramural Fields",
+        "lat": 40.8092,
+        "lng": -77.86345
+      },
+      "writtenOn": "2026-09-06"
+    },
     "penang": {
       "text": "",
       "descriptor": "Malaysian and Southeast Asian fusion on N. Atherton St; roti canai, char kuey teow",
@@ -824,6 +1320,20 @@
         "name": "Penang",
         "lat": 40.80297,
         "lng": -77.88204
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "penn-kebab": {
+      "text": "Sait Satici opened Penn Kebab in January 2012 after running a doner shop in Germany, and brought the German-style gyro with him: beef-and-lamb and chicken wraps served in a narrow storefront of brick walls and a bar-like counter, with Turkish pastries and hot black tea. He told the Collegian he moved the idea to Pennsylvania because \"Americans like gyros.\"",
+      "descriptor": "Turkish gyro and doner counter on E. College Ave., open since 2012",
+      "sources": [
+        "https://www.psucollegian.com/archives/penn-kebab-offers-roasted-meat-staple-to-downtown-state-college/article_dd6dceb4-ad07-11e4-8494-1726358245aa.html",
+        "https://onwardstate.com/2018/04/16/best-state-college-drunk-food-bracket-crowning-champion/"
+      ],
+      "writtenFor": {
+        "name": "Penn Kebab",
+        "lat": 40.79811,
+        "lng": -77.85648
       },
       "writtenOn": "2026-09-06"
     },
@@ -881,6 +1391,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "pilato-studios": {
+      "text": "This is the downtown studio where State College–raised muralist Michael Pilato works with Yuriy Karabash, his painting partner of some thirty years. Pilato is the artist behind the \"Inspiration\" mural on Heister Street — a \"living mural\" of local faces he has kept repainting for years as the community's story changed.",
+      "descriptor": "Muralists' working studio and gallery on East Calder Way",
+      "sources": [
+        "https://www.statecollege.com/town-and-gown/michael-pilato-historical-mural-coming-to-mural-lane/",
+        "https://www.statecollege.com/articles/local-news/pilato-paints-back-halos-to-inspiration-mural/"
+      ],
+      "writtenFor": {
+        "name": "Pilato Studios",
+        "lat": 40.79674,
+        "lng": -77.8577
+      },
+      "writtenOn": "2026-09-06"
+    },
     "pita-cabana": {
       "text": "A halal Mediterranean counter owned by Hitham Hiyajneh, who also runs Yallah Taco, Underground Burger and Dulce Luca Cafe as part of a small downtown restaurant group. The menu is Lebanese-inspired — fattoush, lentil soup, gyro platters, shawarma — with vegetarian and vegan options throughout.",
       "descriptor": "Halal Lebanese-inspired pita, gyro and shawarma spot on East Calder Way",
@@ -895,6 +1419,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "ramyun-studio": {
+      "text": "Owner Don Kim, who ran the downtown Cold Stone Creamery for seven years, opened Ramyun Studio in fall 2024 around a Hangang Ramyun Cooker — a self-cook machine that's common in Korea and still rare in the US. You order at a kiosk, get a tray of instant ramyun and toppings like egg, green onion, Spam and dumplings, and cook the bowl yourself in a few minutes while K-pop plays.",
+      "descriptor": "Self-serve Korean ramyun bar on E. Calder Way, opened 2024",
+      "sources": [
+        "https://www.statecollege.com/articles/business/build-your-own-korean-ramyun-bar-opening-in-state-college/",
+        "https://ramyunstudio.com"
+      ],
+      "writtenFor": {
+        "name": "Ramyun Studio",
+        "lat": 40.79515,
+        "lng": -77.85949
+      },
+      "writtenOn": "2026-09-06"
+    },
     "robeson-gallery": {
       "text": "One of the HUB-Robeson Galleries on the first floor of Penn State's student union, showing rotating contemporary exhibitions by student, local and visiting artists — free and open to all, Monday through Friday. The building's Robeson half was renamed in 1986 for Paul Robeson, in recognition of his contributions to the civil rights movement.",
       "descriptor": "Free contemporary-art gallery inside Penn State's HUB-Robeson Center",
@@ -906,6 +1444,20 @@
         "name": "Robeson Gallery",
         "lat": 40.79812,
         "lng": -77.86137
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "roots-natural-kitchen": {
+      "text": "The Charlottesville-born fast-casual chain, started in 2015 by two UVA grads, opened its fifth location here on July 1, 2019, on the ground floor of The Edge building. Produce is chopped every morning and grains are rotated hourly; the Balboa bowl is a known favorite with Penn State football players.",
+      "descriptor": "Build-your-own grain bowls and salads on East Beaver Ave since 2019",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/roots-natural-kitchen-opening-in-state-college/",
+        "https://www.statecollege.com/articles/community/taste-of-the-month-custom-fresh-made-bowls-at-roots-natural-kitchen/"
+      ],
+      "writtenFor": {
+        "name": "Roots Natural Kitchen",
+        "lat": 40.79542,
+        "lng": -77.85741
       },
       "writtenOn": "2026-09-06"
     },
@@ -931,6 +1483,20 @@
         "name": "Sakura Asian Restaurant",
         "lat": 40.78558,
         "lng": -77.83776
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "sauly-boys": {
+      "text": "Opened in October 2016 by the owners of Irving's Bagels and Fiddlehead, Sauly Boy's took over a South Allen storefront that had sat empty since Philly Pretzel Factory left in 2013 — and before that housed Graham's Newsstand and a Ben & Jerry's. The menu runs to gourmet hot dogs, a Sauly Burger under the house Sauly Sauce, a PB&J burger, and hand-cut loaded fries.",
+      "descriptor": "Gourmet hot dogs, burgers and loaded fries at 124 S. Allen St.",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/sauly-boys-opens-on-south-allen-street/",
+        "https://saulyboys.com"
+      ],
+      "writtenFor": {
+        "name": "Sauly Boy's",
+        "lat": 40.79381,
+        "lng": -77.86103
       },
       "writtenOn": "2026-09-06"
     },
@@ -961,6 +1527,30 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "sher-hot-chicken": {
+      "text": "Sher spent six years as a halal cart at Pugh and Beaver before owner Nanat Rahmaa opened this storefront in the Baroutsis Building in August 2024, in a space that had been a florist's. The menu crosses Nashville-style hot chicken with halal standards like lamb shank and shawarma, and the kitchen runs until 3 a.m. Monday through Saturday.",
+      "descriptor": "Nashville hot chicken and halal grill at 145 S. Allen St.",
+      "sources": [
+        "https://www.statecollege.com/articles/business/sher-hot-chicken-opens-in-downtown-state-college/"
+      ],
+      "writtenFor": {
+        "name": "Sher Hot Chicken",
+        "lat": 40.79371,
+        "lng": -77.8605
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "sichuan-house": {
+      "text": "",
+      "descriptor": "Szechuan lunch-and-dinner spot at 147 S. Allen St. downtown",
+      "sources": ["https://www.sichuanhousepsu.com/"],
+      "writtenFor": {
+        "name": "Sichuan House",
+        "lat": 40.79366,
+        "lng": -77.86043
+      },
+      "writtenOn": "2026-09-06"
+    },
     "sidney-friedman-park": {
       "text": "The block held the Frazier Street School, built in 1897 as State College's second schoolhouse, until it closed in 1955; the Post Office bought two-thirds and the borough leased the rest, opening it as Central Parklet in 1966. It was renamed in 2009 for Sidney Friedman, the developer who bought the Corner Room, Hotel State College and the Cathaum, created Calder Square, and donated the State Theatre to Penn State.",
       "descriptor": "Downtown pocket park on S. Fraser St, home to summer movie nights",
@@ -972,6 +1562,19 @@
         "name": "Sidney Friedman Park",
         "lat": 40.79173,
         "lng": -77.85985
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "sip-and-slurp": {
+      "text": "",
+      "descriptor": "Bubble tea and hand-pulled noodle shop at 432 E. College Ave.",
+      "sources": [
+        "https://www.restaurantji.com/pa/state-college/sip-and-slurp-/"
+      ],
+      "writtenFor": {
+        "name": "Sip and Slurp",
+        "lat": 40.79829,
+        "lng": -77.85627
       },
       "writtenOn": "2026-09-06"
     },
@@ -1054,6 +1657,34 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "suburban-park": {
+      "text": "Suburban Park packs pickleball and tennis courts, a softball and youth baseball field, horseshoe pits, fitness equipment and a playground into 10 acres between Vairo Boulevard and East Aaron Drive. A 2023–24 overhaul relocated the stream running through it, added four pedestrian bridges, an asphalt perimeter path tied into the regional bike route and more than 100 new trees.",
+      "descriptor": "10-acre Ferguson Township park at 101 Suburban Ave off Vairo Blvd",
+      "sources": [
+        "https://www.twp.ferguson.pa.us/1624/Suburban-Park",
+        "https://www.twp.ferguson.pa.us/1625/Update-on-Suburban-Park-Upgrades"
+      ],
+      "writtenFor": {
+        "name": "Suburban Park",
+        "lat": 40.81062,
+        "lng": -77.8873
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "sunset-park": {
+      "text": "At 20 acres, Sunset Park is one of State College Borough's 13 parks, with pavilions and restrooms with running water, a basketball court, a youth baseball field, horseshoe pits and children's play areas. It sits in the College Heights neighborhood and connects to the Gerhold Wildflower Trail.",
+      "descriptor": "20-acre borough park at 850 McKee St in College Heights",
+      "sources": [
+        "https://www.statecollegepa.us/borough-parks",
+        "https://en.wikipedia.org/wiki/State_College,_Pennsylvania"
+      ],
+      "writtenFor": {
+        "name": "Sunset Park",
+        "lat": 40.80415,
+        "lng": -77.87498
+      },
+      "writtenOn": "2026-09-06"
+    },
     "tadashi-japanese-restaurant": {
       "text": "When Tadashi opened on College Avenue it was a rarity for State College — an izakaya-style Japanese restaurant built around ramen and yakitori skewers rather than sushi and teriyaki, with tako wasabi and chicken-gizzard and quail-egg skewers on the menu. Owner Jerry Gao opened a second downtown location in The Metropolitan in 2019, saying simply that \"the old place is too small.\"",
       "descriptor": "Izakaya-style Japanese spot downtown known for ramen and yakitori",
@@ -1068,6 +1699,32 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "tasty-k": {
+      "text": "Owner Andy Lee, who moved from South Korea as a teenager and later took a business and marketing degree at Penn State, opened Tasty K in late 2023 with a deliberately tiny menu: Korean fried chicken, rice and fries. The chicken is hand-breaded and double-fried at two temperatures, then served with a sweet, tangy gochujang-style sauce.",
+      "descriptor": "Korean fried chicken counter on East Calder Way since 2023",
+      "sources": [
+        "https://www.statecollege.com/articles/community/tasty-k-small-menu-big-flavor/"
+      ],
+      "writtenFor": {
+        "name": "Tasty K",
+        "lat": 40.79683,
+        "lng": -77.8576
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "teafe": {
+      "text": "",
+      "descriptor": "Boba tea and coffee cafe in State College",
+      "sources": [
+        "https://web.archive.org/web/20250123172427/https://teafeusa.com/"
+      ],
+      "writtenFor": {
+        "name": "TeaFé",
+        "lat": 40.81041,
+        "lng": -77.89501
+      },
+      "writtenOn": "2026-09-06"
+    },
     "the-arboretum-at-penn-state": {
       "text": "The arboretum's first tree, a white oak, was dedicated in 2005, and the H.O. Smith Botanic Gardens were dedicated on April 25, 2010, funded by a $10 million gift from Charles \"Skip\" Smith. The Childhood's Gate Children's Garden opened in 2014, and the rebuilt Palmer Museum of Art opened next door in June 2024.",
       "descriptor": "370-acre campus arboretum with the H.O. Smith Botanic Gardens",
@@ -1076,6 +1733,20 @@
         "name": "The Arboretum at Penn State",
         "lat": 40.81217,
         "lng": -77.8749
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "the-arena-bar-grill": {
+      "text": "The Arena shares a 37,500-square-foot building with Northland Bowl's 32 lanes and the 16-room Northland Motel, a complex rebuilt in 1994 that still draws more than 5,000 visitors a week. The bar took over the space from The Last Cowboy, and now runs live music, karaoke, poker, darts and billiards.",
+      "descriptor": "Bar and grill attached to the Northland Bowl complex on Martin Street",
+      "sources": [
+        "https://www.statecollege.com/articles/business/northland-bowl-property-listed-for-sale-but-current-owners-have-no-plans-for-it-to-close/",
+        "https://www.thearenabarandgrill.com/"
+      ],
+      "writtenFor": {
+        "name": "The Arena Bar & Grill",
+        "lat": 40.80545,
+        "lng": -77.89167
       },
       "writtenOn": "2026-09-06"
     },
@@ -1134,6 +1805,34 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "the-greek": {
+      "text": "John and Lisa Dimakopoulos, the family behind State College's Original Waffle Shop, opened The Greek on Sept. 28, 2011, on Clinton Avenue just off North Atherton. It's BYOB and counter-service under a Mediterranean-blue ceiling; the spanakopita and moussaka regularly sell out, and the tomato basil soup is the owner's grandmother's recipe.",
+      "descriptor": "Family-run Greek BYOB on Clinton Ave near the Original Waffle Shop",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/new-greek-restaurant-opens-in-state-college/",
+        "https://www.statecollege.com/articles/local-news/michele-marchetti-happily-its-all-the-greek-to-me/"
+      ],
+      "writtenFor": {
+        "name": "The Greek",
+        "lat": 40.80418,
+        "lng": -77.88293
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "the-hub-gallery": {
+      "text": "The HUB Gallery is one of the HUB-Robeson Galleries' exhibition spaces, a free set of rotating shows — student, local and visiting artists — on the first floor of Penn State's student union. The union's \"Robeson\" half honors Paul Robeson, whose name the university's Black Cultural Center took in 1986; the center moved into the HUB from the Walnut Building in 1999.",
+      "descriptor": "Free contemporary art gallery on the HUB-Robeson Center's first floor",
+      "sources": [
+        "https://studentaffairs.psu.edu/student-life/arts-entertainment/hub-galleries",
+        "https://en.wikipedia.org/wiki/HUB-Robeson_Center"
+      ],
+      "writtenFor": {
+        "name": "The HUB Gallery",
+        "lat": 40.79817,
+        "lng": -77.86133
+      },
+      "writtenOn": "2026-09-06"
+    },
     "the-land-grant-frescoes": {
       "text": "Muralist Henry Varnum Poor painted these straight onto wet plaster in Old Main's lobby — his daughter Anne applied a fresh section each morning so the pigment became part of the wall itself. The 1940 north-wall panel shows Abraham Lincoln and a student planting a tree, a nod to the 1862 Morrill Land-Grant Act; wing panels of mining, farming and classroom life were added in 1948. The 1,300-square-foot work was restored in 2014.",
       "descriptor": "1,300 sq ft of 1940s fresco murals in Penn State's Old Main lobby",
@@ -1145,6 +1844,20 @@
         "name": "The Land-Grant Frescoes",
         "lat": 40.79646,
         "lng": -77.86282
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "the-lemont-village-green": {
+      "text": "The green is the center of Lemont, the village at the base of Mount Nittany whose historic district joined the National Register in 1979. The Lemont Village Association puts on free Friday-night concerts here from June through September — thunder and lightning move the show into the Granary, described as the last remaining granary in Pennsylvania — plus the Strawberry Festival, running since 1982.",
+      "descriptor": "Village green in Lemont at the foot of Mount Nittany, on Mt. Nittany Road",
+      "sources": [
+        "https://www.lemontvillage.org/related/concerts-on-the-village-green",
+        "https://en.wikipedia.org/wiki/Lemont,_Pennsylvania"
+      ],
+      "writtenFor": {
+        "name": "The Lemont Village Green",
+        "lat": 40.81109,
+        "lng": -77.81719
       },
       "writtenOn": "2026-09-06"
     },
@@ -1201,6 +1914,20 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "thompson-woods-preserve": {
+      "text": "When it was protected in 2000, Thompson Woods was the largest remaining stand of 80-to-90-year-old mixed hardwood forest still contiguous to State College Borough. ClearWater Conservancy raised the funds and holds the easement, with College Township, the borough and Centre Region Parks and Recreation sharing management, as a link in a green corridor running from Millbrook Marsh to the Duck Pond and Walnut Spring Park.",
+      "descriptor": "43-acre old hardwood forest preserve a walk from downtown State College",
+      "sources": [
+        "https://clearwaterconservancy.org/visit/thompson-woods-preserve",
+        "https://clearwaterconservancy.org/visit"
+      ],
+      "writtenFor": {
+        "name": "Thompson Woods Preserve",
+        "lat": 40.80419,
+        "lng": -77.83587
+      },
+      "writtenOn": "2026-09-06"
+    },
     "tom-tudek-memorial-park": {
       "text": "At 91 acres, Tudek is the most frequently visited park in the Centre Region, with a dog park, community gardens, playground, pavilions and a 1.3-mile loop. It is named for Tom Tudek, who died at 17 and loved butterflies — fitting, since the three-acre Snetsinger Butterfly Garden inside it was created by Robert \"Butterfly Bob\" and Wendy Snetsinger to honor their daughter Clare, who also died at 17. Over 30 butterfly species live there.",
       "descriptor": "91-acre park on Herman Drive with a dog park and a butterfly garden",
@@ -1212,6 +1939,20 @@
         "name": "Tom Tudek Memorial Park",
         "lat": 40.80028,
         "lng": -77.89356
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "tripletts": {
+      "text": "The remodeled Nittany Lion Inn's open bar room is named for Wally Triplett — the first Black player on Penn State's varsity football team (1945) and, drafted by Detroit in 1949, the first Black draftee to actually play on an NFL team. In 1946 his teammates voted to turn down a game at segregated Miami rather than leave Triplett and Dennie Hoggard at home.",
+      "descriptor": "Open bar room inside the Nittany Lion Inn, named for Wally Triplett",
+      "sources": [
+        "https://www.statecollege.com/town-and-gown/great-expectations-new-additions-to-state-colleges-beverage-and-nightlife-scene/",
+        "https://www.statecollege.com/articles/local-news/wally-tripletts-life-was-one-not-short-on-history/"
+      ],
+      "writtenFor": {
+        "name": "Triplett's",
+        "lat": 40.79684,
+        "lng": -77.87094
       },
       "writtenOn": "2026-09-06"
     },
@@ -1239,6 +1980,20 @@
         "name": "Uncle Chens",
         "lat": 40.7976,
         "lng": -77.85516
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "vibe-coffee-co": {
+      "text": "Vibe was started by two high school best friends — Penn State grad Ethan Steiger and Temple business alum Tabeel Noel — who wanted \"good coffee, good community, and good vibes\" downtown. The menu splits in two: straight espresso and filter coffee on one side, 14 house creations called Vibes on the other, with Penn State-flavored names like Grilled Stickies, White Out and Mint Nittany.",
+      "descriptor": "Independent coffee shop under The Graduate at 401 W. Beaver Ave.",
+      "sources": [
+        "https://www.statecollege.com/articles/business/vibe-coffee-company-to-open-on-beaver-avenue/",
+        "https://www.statecollege.com/articles/business/vibe-coffee-company-fostering-people-first-cafe-experience-in-state-college/"
+      ],
+      "writtenFor": {
+        "name": "Vibe Coffee Co.",
+        "lat": 40.79078,
+        "lng": -77.86407
       },
       "writtenOn": "2026-09-06"
     },
@@ -1296,6 +2051,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "yallah-chicken-and-taco": {
+      "text": "",
+      "descriptor": "Fast-casual chicken and taco takeout at 1669 N. Atherton St.",
+      "sources": ["https://yallahchickenandtacospa.com/"],
+      "writtenFor": {
+        "name": "Yallah Chicken and Taco",
+        "lat": 40.80841,
+        "lng": -77.89666
+      },
+      "writtenOn": "2026-09-06"
+    },
     "yallah-taco": {
       "text": "Hitham Hiyajneh opened this hole-in-the-wall taco stand in a downtown alley in 2016, pitching \"authentic Mexican flavors with a Mediterranean twist.\" The food is halal, and the tiny shack drew crowds late into the night before a larger second location opened in the former downtown Taco Bell at 310 E. College Ave. in 2020.",
       "descriptor": "Halal Mexican-Mediterranean taco stand in a downtown alley",
@@ -1321,6 +2087,33 @@
         "name": "Yogürt Express",
         "lat": 40.79826,
         "lng": -77.85631
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "yummy-cafe": {
+      "text": "Yummy Cafe hides in the Calder Way alley behind Chipotle, just off the main downtown drag, cooking Sichuan and regional Chinese — cumin beef, braised pork belly, soup dumplings. Onward State once put it head-to-head with China Dragon and came away won over by the tofu and the mango bubble tea.",
+      "descriptor": "Sichuan-leaning Chinese kitchen tucked on East Calder Way",
+      "sources": [
+        "https://www.statecollegeyummycafe.com/",
+        "https://onwardstate.com/2011/09/26/yummy-cafe-vs-dragon/"
+      ],
+      "writtenFor": {
+        "name": "Yummy Cafe",
+        "lat": 40.79666,
+        "lng": -77.85751
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "zen-wings-things": {
+      "text": "",
+      "descriptor": "Wing shop at 433 E. Beaver Ave downtown, with free delivery",
+      "sources": [
+        "https://www.statecollege.com/business-directory/251875/zen-wings-things/"
+      ],
+      "writtenFor": {
+        "name": "Zen Wings & Things",
+        "lat": 40.79753,
+        "lng": -77.85508
       },
       "writtenOn": "2026-09-06"
     },
