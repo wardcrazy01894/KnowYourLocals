@@ -43,6 +43,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "4th-street-pub": {
+      "text": "",
+      "descriptor": "Neighborhood bar on 4th Street N at 54th Ave, north St. Pete",
+      "sources": [],
+      "writtenFor": {
+        "name": "4th Street Pub",
+        "lat": 27.8215,
+        "lng": -82.63833
+      },
+      "writtenOn": "2026-09-06"
+    },
     "9-bangkok-thai-restaurant": {
       "text": "Owner Yui Chaisurivirat, who came to St. Pete from Thailand in 1985 after running Asian-fusion spots in Lakeland and Orlando, opened 9 Bangkok on the 500 block of Central around 2001, making it one of Central Avenue's original spots. Regulars come for the duck curry, pad Thai, noodle soup and sushi.",
       "descriptor": "Thai and sushi spot at 571 Central Ave downtown, open since about 2001",
@@ -362,6 +373,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "beerbusters-movie-bar-bottle-shop": {
+      "text": "Owner Billy Dieli spent nine years working at Blockbuster, then built a bar around the memory. Beerbusters is half taproom, half video store: over 1,000 DVDs rent for $1 a day or $10 a month unlimited, alongside rotating local craft beer, video and board games, comics and action figures. It soft-opened in September 2022.",
+      "descriptor": "Blockbuster-themed movie bar and DVD rental shop on Park Blvd",
+      "sources": ["https://ilovetheburg.com/beerbusters-movie-bar/"],
+      "writtenFor": {
+        "name": "Beerbusters Movie Bar & Bottle Shop",
+        "lat": 27.83872,
+        "lng": -82.7332
+      },
+      "writtenOn": "2026-09-06"
+    },
     "bella-brava": {
       "text": "Born from the owners' 2003 trip through Tuscany, BellaBrava opened in 2005 on Central Avenue and moved to its Beach Drive patio spot in 2010. It's a scratch kitchen that makes its pasta, pizza dough and focaccia daily and fires pizzas in wood-burning Woodstone ovens; the same group later opened Stillwaters Tavern up the street.",
       "descriptor": "Tuscan-inspired Italian restaurant with wood-fired pizza on Beach Drive since 2010",
@@ -414,6 +436,20 @@
         "lng": -82.73848
       },
       "writtenOn": "2026-09-05"
+    },
+    "bobs-side-piece": {
+      "text": "After Dead Bob's moved down the street to 6475 Central, owner Ben Scherlis reopened the original room with Jim Breazeale, whose family has run DeLosa's Pizza in John's Pass Village for over 40 years. Bob's Side Piece quietly debuted in March 2026 doing New York-style pies, big Italian sandwiches, calzones and wings over a cheap full bar.",
+      "descriptor": "Pizza and bar at 6716 Central Ave, in the original Dead Bob's space",
+      "sources": [
+        "https://stpeterising.com/home/bobs-side-piece-quietly-opens-in-former-dead-bobs-space-in-west-st-pete",
+        "https://ilovetheburg.com/bobs-side-piece-pizza/"
+      ],
+      "writtenFor": {
+        "name": "Bob's Side Piece",
+        "lat": 27.77072,
+        "lng": -82.73037
+      },
+      "writtenOn": "2026-09-06"
     },
     "bodega": {
       "text": "Opened in 2013 by Brooklyn transplants George and Debbie Sayegh as a tiny walk-up window at 10th and Central, Bodega built its reputation on pressed Cuban sandwiches made with bread from Tampa's Casino Bakery, with lines around the block on Friday nights. It moved a block west to this larger space at 1180 Central in 2019 and added the Bar Chica speakeasy in back.",
@@ -2141,6 +2177,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "jwags": {
+      "text": "",
+      "descriptor": "Dive bar on 4th St N near Crescent Lake with pool tables, darts and no kitchen",
+      "sources": ["https://restaurantji.com/fl/saint-petersburg/jwags-/"],
+      "writtenFor": {
+        "name": "JWags",
+        "lat": 27.79333,
+        "lng": -82.63873
+      },
+      "writtenOn": "2026-09-06"
+    },
     "kahunas": {
       "text": "Kahuna's has held its Gandy Boulevard spot since 1994 — a pool-tables-and-dart-boards bar known for wings, burgers and fajitas, with the kitchen running to 1 a.m. on weekends. The week fills up with live music, trivia, open-mic jams, karaoke and DJ nights.",
       "descriptor": "Gandy Blvd sports bar and grill since 1994, wings and live music",
@@ -2357,6 +2404,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "lanas-downtown-lounge": {
+      "text": "",
+      "descriptor": "Pub and cocktail bar on 107th Ave in Treasure Island, open 9am to 3am",
+      "sources": ["https://restaurantguru.com/Lanas-Madeira-Beach"],
+      "writtenFor": {
+        "name": "Lana's Downtown Lounge",
+        "lat": 27.76908,
+        "lng": -82.76853
+      },
+      "writtenOn": "2026-09-06"
+    },
     "lanna-thai-sushi-restuarant": {
       "text": "",
       "descriptor": "Thai and sushi restaurant on Park Street N in west St. Pete",
@@ -2417,6 +2475,31 @@
         "name": "Lotus Vegetarian",
         "lat": 27.83944,
         "lng": -82.72785
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "low-tide-kava": {
+      "text": "Low Tide serves kava — a South Pacific root that has been consumed for thousands of years — as a relaxing alternative to alcohol, poured with the island custom of raising a shell and calling out \"Bula,\" a Fijian toast to long life and good health. It opens at 7am, runs to the early hours, and the back courtyard regularly has live music.",
+      "descriptor": "Kava and kratom tea bar with a live-music courtyard on Gulfport's Beach Blvd",
+      "sources": [
+        "https://www.visitstpeteclearwater.com/profile/low-tide-kava-bar/139037",
+        "https://restaurantji.com/fl/gulfport/low-tide-kava-bar-/"
+      ],
+      "writtenFor": {
+        "name": "Low Tide Kava",
+        "lat": 27.74092,
+        "lng": -82.70734
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "lucky-9-juice-bar": {
+      "text": "",
+      "descriptor": "Boba tea and fresh-fruit smoothie counter in the Tyrone Square food court",
+      "sources": [],
+      "writtenFor": {
+        "name": "Lucky 9 Juice Bar",
+        "lat": 27.79298,
+        "lng": -82.73408
       },
       "writtenOn": "2026-09-06"
     },
@@ -2525,6 +2608,17 @@
         "lng": -82.68227
       },
       "writtenOn": "2026-09-05"
+    },
+    "mcnastys-bar-and-grill": {
+      "text": "",
+      "descriptor": "Sports bar on Gulf Blvd in St. Pete Beach with screens, bar food and a 3am close",
+      "sources": [],
+      "writtenFor": {
+        "name": "McNasty's Bar and Grill",
+        "lat": 27.73456,
+        "lng": -82.74602
+      },
+      "writtenOn": "2026-09-06"
     },
     "melt-n-dip": {
       "text": "A Middle Eastern dessert chain (with shops in Lebanon, Iraq and nearly a dozen across the U.S.) that became a viral phenomenon for over-the-top sweets: three towering chocolate fountains greet you at the door, and the menu runs to Belgian-chocolate crepes, pistachio eclair pyramids and Damascus-style ice cream with keshta. It opened in late 2025 in the old Rollbotto Sushi space.",
@@ -2661,6 +2755,20 @@
         "lng": -82.63186
       },
       "writtenOn": "2026-09-05"
+    },
+    "my-rich-uncle": {
+      "text": "It opened at 260 1st Ave N in the space left behind by 260 First, the downtown nightclub that had closed the year before, from Forward Hospitality Group — the group behind Goodnight John Boy. The draw is martinis and a retro lounge, an \"Uncle's Stash\" list that runs to Van Winkle bourbon and Louis XIII cognac, and a Millionaire Monday on the first Monday of the month where the door hands you $10 instead of charging cover.",
+      "descriptor": "Martini bar and retro lounge on 1st Ave N, open Fridays and Saturdays",
+      "sources": [
+        "https://stpeterising.com/home/done-deals-new-bar-debuts-in-downtown-st-pete-county-seeks-affordable-housing-developers-industrial-center-sells",
+        "https://ilovetheburg.com/my-rich-uncle-millionaire-monday"
+      ],
+      "writtenFor": {
+        "name": "My Rich Uncle",
+        "lat": 27.7719,
+        "lng": -82.63662
+      },
+      "writtenOn": "2026-09-06"
     },
     "natures-table": {
       "text": "This is an outpost of Nature's Table, a health-food cafe franchise that bills itself as a legacy brand dating to 1977. The menu is the chain's: sandwiches, wraps, salads, protein bowls, smoothies and acai bowls, mostly feeding the downtown weekday lunch crowd — it closes by 7 p.m. and doesn't open weekends.",
@@ -3082,6 +3190,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "pho-quyen-vietnamese": {
+      "text": "Pho Quyen has been ladling pho in Pinellas Park since 1998, and its own kitchen claims the best noodle soup in the Tampa Bay area. The cooking leans on fresh herbs and vegetables with a light hand on the oil, aiming at both healthy eating and full flavor.",
+      "descriptor": "Vietnamese pho house in Pinellas Park, open since 1998",
+      "sources": ["https://phoquyenpinellas.com"],
+      "writtenFor": {
+        "name": "Pho Quyen Vietnamese",
+        "lat": 27.83988,
+        "lng": -82.69493
+      },
+      "writtenOn": "2026-09-06"
+    },
     "pier-teaki": {
       "text": "The open-air tiki bar on the roof of the Pier head, five floors up at the end of the St. Pete Pier — about as far into Tampa Bay as you can get without getting wet. It sits in the $92 million, 26-acre Pier District that opened July 6, 2020, and is run by the same local owners as Birchwood and The Canopy on Beach Drive.",
       "descriptor": "Rooftop tiki bar on the 5th floor of the St. Pete Pier head",
@@ -3123,6 +3242,20 @@
         "lng": -82.63941
       },
       "writtenOn": "2026-09-05"
+    },
+    "pineapple-espresso": {
+      "text": "Founded by Tara and Laurene, this Dr. MLK Jr Street drive-thru pairs coffee with actual breakfast — avocado toast with eggs on sourdough, a pea and charred carrot frittata, wellness teas. They skipped the speaker box on purpose: orders are taken face to face at the window, because they wanted to know every guest by name.",
+      "descriptor": "Drive-thru coffee and healthy breakfast on Dr. MLK Jr St N",
+      "sources": [
+        "https://pineappleespressostpete.com/about-us/",
+        "https://pineappleespressostpete.com"
+      ],
+      "writtenFor": {
+        "name": "Pineapple Espresso",
+        "lat": 27.80014,
+        "lng": -82.64648
+      },
+      "writtenOn": "2026-09-06"
     },
     "pioneer-park": {
       "text": "This small waterfront park between Central Ave and 1st Ave S honors St. Pete's founders: a 20-foot obelisk at its center carries bronze plaques naming about 600 early settlers who lived in the area before January 1, 1912. Jay B. Starkey Sr. launched the memorial drive in 1976 and the park was dedicated on November 26, 1981; a descendant-run foundation still funds its upkeep after a 2012 revitalization.",
@@ -3206,6 +3339,33 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "quan-ngon-bistro": {
+      "text": "",
+      "descriptor": "Vietnamese buffet on Park Blvd in Pinellas Park — pho, bánh xèo, bò kho",
+      "sources": [
+        "https://www.restaurantji.com/fl/pinellas-park/quan-ngon-fl-/"
+      ],
+      "writtenFor": {
+        "name": "Quan Ngon Bistro",
+        "lat": 27.83957,
+        "lng": -82.71919
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "rec-dec": {
+      "text": "Rec Dec is a bar built around a sandlot: sand volleyball courts outside, an indoor rec room for darts and cornhole, and year-round leagues run through Tampa Bay Club Sport. It sits at 380 105th Terrace NE, with the bar opening at 5:30 p.m. on weekdays and 11 a.m. on weekends.",
+      "descriptor": "Sand volleyball bar in St. Pete with year-round leagues and a rec room",
+      "sources": [
+        "https://www.recdecstpete.com",
+        "https://www.recdecstpete.com/leagues-1"
+      ],
+      "writtenFor": {
+        "name": "Rec Dec",
+        "lat": 27.86826,
+        "lng": -82.63303
+      },
+      "writtenOn": "2026-09-06"
+    },
     "red-white-booze": {
       "text": "For years this waterfront spot on Pass-a-Grille Way was Sea Critters Cafe, a fixture for boaters and beach vacationers; new owners took it over and rebranded it Red, White & Booze in 2022, keeping the docks, local grouper and margaritas and adding live music on the deck.",
       "descriptor": "Dockside seafood bar on the Intracoastal in Pass-a-Grille, pull up by boat",
@@ -3285,6 +3445,20 @@
         "lng": -82.64263
       },
       "writtenOn": "2026-09-05"
+    },
+    "root-clay": {
+      "text": "Root + Clay is the restaurant at 170 47th Avenue NE — the address of the member-owned Racquet Club of St. Petersburg — so a night out here comes with tennis courts next door. The kitchen makes things from scratch, including soups, and runs to braised short ribs, chimichurri chicken and salads, with a full bar and a shaded patio.",
+      "descriptor": "Scratch-kitchen restaurant and bar at the Racquet Club on 47th Ave NE",
+      "sources": [
+        "https://racquetclubstpete.com",
+        "https://www.restaurantji.com/fl/st.-petersburg/root-clay-/"
+      ],
+      "writtenFor": {
+        "name": "Root + Clay",
+        "lat": 27.81407,
+        "lng": -82.63281
+      },
+      "writtenOn": "2026-09-06"
     },
     "roses": {
       "text": "",
@@ -3430,6 +3604,20 @@
         "name": "Saint Petersburg Ale House",
         "lat": 27.84481,
         "lng": -82.64634
+      },
+      "writtenOn": "2026-09-06"
+    },
+    "salems-fresh-eats": {
+      "text": "Salem's started in Tampa in 1988, when founder Salem decided fast food ought to match a sit-down restaurant for quality — nothing gets cooked until you order, from gyros and wings to salads and seafood. It has since grown to 14 Tampa Bay locations, including this one on 34th Street N.",
+      "descriptor": "Cooked-to-order gyros and wings on 34th St N; Tampa Bay chain since 1988",
+      "sources": [
+        "https://salemsfresheats.com/about/",
+        "https://salemsfresheats.com/"
+      ],
+      "writtenFor": {
+        "name": "Salem's Fresh Eats",
+        "lat": 27.78059,
+        "lng": -82.67985
       },
       "writtenOn": "2026-09-06"
     },
@@ -4016,6 +4204,17 @@
       },
       "writtenOn": "2026-09-06"
     },
+    "the-campus-grind": {
+      "text": "",
+      "descriptor": "Coffee shop and breakfast cafe in St. Petersburg",
+      "sources": ["https://thecampusgrind.com/"],
+      "writtenFor": {
+        "name": "The Campus Grind",
+        "lat": 27.76333,
+        "lng": -82.63446
+      },
+      "writtenOn": "2026-09-06"
+    },
     "the-canopy": {
       "text": "The rooftop lounge on top of The Birchwood, a 1924 building that started life as the Lantern Lane Apartments, the only apartments on Beach Drive facing the bay, and later ran as Grayl's Hotel. Developer Chuck Prather bought it at a foreclosure auction, restored it, added two floors and reopened it in 2013 as a boutique hotel, with the Canopy up top giving one of downtown's best views over the waterfront and Tampa Bay.",
       "descriptor": "Rooftop cocktail lounge atop the Birchwood hotel on Beach Drive",
@@ -4513,6 +4712,17 @@
       },
       "writtenOn": "2026-09-05"
     },
+    "twisted-indian": {
+      "text": "",
+      "descriptor": "Indian fusion counter on Central Ave — naanwiches, bowls and tikka masala",
+      "sources": ["https://www.thetwistedindian.com"],
+      "writtenFor": {
+        "name": "Twisted Indian",
+        "lat": 27.77126,
+        "lng": -82.66947
+      },
+      "writtenOn": "2026-09-06"
+    },
     "undertow": {
       "text": "A toes-in-the-sand tiki bar right on the beach at St. Pete Beach: thatched huts, volleyball nets, pool tables and frozen drinks in plastic cups. Its quirk is a \"rubber duck river\" that flows around the bar, and I Love the Burg has called it one of the most scenic beach bars in America.",
       "descriptor": "Open-air tiki beach bar on the sand at 3850 Gulf Blvd, St. Pete Beach",
@@ -4690,6 +4900,17 @@
         "lng": -82.67037
       },
       "writtenOn": "2026-09-05"
+    },
+    "wildlife-acai": {
+      "text": "A Brazilian café where açaí bowls share the menu with tapioca crepes, pão de queijo cheese bread, cuscuz, and drinks made from tropical fruit pulps like cupuaçu and goiaba.",
+      "descriptor": "Brazilian açaí and tapioca café on Park Blvd in Pinellas Park",
+      "sources": ["https://wildlifeacai.com/menu"],
+      "writtenFor": {
+        "name": "Wildlife Açaí",
+        "lat": 27.83958,
+        "lng": -82.71911
+      },
+      "writtenOn": "2026-09-06"
     },
     "williams-park": {
       "text": "St. Petersburg's first park, laid out in 1888 as City Park and renamed for city co-founder John C. Williams; it fills a whole downtown block between 3rd and 4th Streets. A bandstand has stood here since 1894 - the current bandshell, designed by local architect William B. Harvard in 1954, won an AIA Award of Merit the next year - and in 1964 Richard Nixon used it to stump for Barry Goldwater.",
