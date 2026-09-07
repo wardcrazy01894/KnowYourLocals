@@ -161,6 +161,13 @@ flow (CI green → squash-merge → branch auto-deleted). See `CLAUDE.md`.
       forget — a PR review caught exactly that. Consider a `successor: true`
       flag on the fame record that makes the sync retire-and-start-fresh
       instead of following.
+- [ ] **Blurb `writtenOn` / `retiredOn` stamps use UTC, not the city's date.**
+      `apply-blurbs`/`sync-blurbs` both call `new Date().toISOString().slice(0,10)`,
+      so a run made on a US evening stamps tomorrow's date (the State College
+      set is stamped 2026-09-07 for a 2026-09-06 run). Harmless today — nothing
+      compares these to the clock, staleness is name/coords only — but it makes
+      the provenance mildly wrong. Use the city's `timeZone` from cities.json
+      via `getDateKey`, the way `pin-day` already does.
 - [ ] **Add Barra Barra and Kaixo (2701 Central Ave).** Baba and its sister spot
       Barbouni closed after service on 2026-07-03 and the space reopened as
       these two concepts (St. Pete Rising). Neither is listed on Google Places

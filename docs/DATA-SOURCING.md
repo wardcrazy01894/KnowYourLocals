@@ -831,7 +831,9 @@ descriptor is sourced from the venue's site, listings, and local press instead.
   Lead with the hook (the fact a local would tell a visitor), not a category
   description. Say "legend says" for folklore; don't state contested claims.
 - **Source it** via web/LLM research — Wikipedia, the city's own pages, local
-  press, the venue's site — and put the best 1–2 URLs in `sources` (they render
+  press (`gen-blurbs-workflow.mjs` keeps a per-city `LOCAL_PRESS` map of real
+  mastheads and names them in the prompt — add a row when adding a city), the
+  venue's site — and put the best 1–2 URLs in `sources` (they render
   as "read more" links by host). Do **not** spend Google Places quota on this;
   Places is reserved for open/closed + fame verification (§4b).
 - After writing or editing an entry, `npm run sync-blurbs -- <city> --accept
@@ -884,9 +886,14 @@ never shows a placeholder there. 320 carry a story, 369 carry a descriptor
 Landing Park, Tampa Bay Watch Discovery Center — have a story but no
 descriptor). Four retired entries are kept (`the-neon-lunchbox`, `baba`,
 `thirsty-first` after those venues closed, and `whos-on-first` whose successor
-Rewind St Pete is a different business with its own write-up). **No other city
-has a sidecar yet**; State College (200 in play) and Ann Arbor (300) are the
-next runs, one city fully finished before the next.
+Rewind St Pete is a different business with its own write-up).
+
+**State College is complete too — 200 of 200 in-play locations**, 170 with a
+story (85%) and all 200 with a descriptor. That story rate is essentially the
+same as St. Pete's (320 of 373, 86%), so a college town does not obviously
+leave a deeper paper trail than a beach town at this sample size. Ann Arbor
+(300 in play) is the next run, one city fully finished before the next;
+Seattle (500) and Chicago (700) after that.
 
 ---
 
