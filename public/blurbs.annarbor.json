@@ -325,6 +325,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "belize-park": {
+      "text": "Dedicated on June 16, 1975, the park is named for Belize City, one of Ann Arbor's sister cities. Words carved into its wooden retaining wall read \"In memory of Essie Logan who resided here,\" honoring residents killed in a 1965 house fire on the site. The rain garden, added in 1992, was rebuilt in 2016 and won a Rain Garden Leadership Award in Public Stewardship.",
+      "descriptor": "Half-acre neighborhood park with a sledding hill and an award-winning rain garden",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/belize-park/"
+      ],
+      "writtenFor": {
+        "name": "Belize Park",
+        "lat": 42.28862,
+        "lng": -83.75368
+      },
+      "writtenOn": "2026-09-07"
+    },
     "bennys-family-dining": {
       "text": "Benny's has been serving breakfast on S. Industrial since 2000, and its most famous regular was Michael Phelps — a server told Current magazine she used to bring the swimmer his morning food while he trained in Ann Arbor with coach Bob Bowman ahead of the 2008 Beijing Olympics.",
       "descriptor": "All-day breakfast and family diner on S. Industrial Hwy since 2000",
@@ -588,6 +601,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "burr-oak-park": {
+      "text": "The land was set aside as public parkland under the escrow agreement for the 1989 Liberty Glen subdivision, and the homeowners association still runs a park workday here every May. In August 2021 and again in September 2022, the city's Adopt-a-Park program brought in a herd of goats from Twin Willow Ranch to graze down invasive shrubs and poison ivy.",
+      "descriptor": "3.3-acre far-west-side park split by Burr Oak Drive, with native-plant gardens",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/burr-oak-park/"
+      ],
+      "writtenFor": {
+        "name": "Burr Oak Park",
+        "lat": 42.27565,
+        "lng": -83.78815
+      },
+      "writtenOn": "2026-09-07"
+    },
     "bursley-dining-hall": {
       "text": "Bursley is the largest dormitory at the University of Michigan, housing approximately 1,300 students on North Campus, so its dining hall feeds a small town. A $4.5 million renovation in summer 2016 rebuilt the food service area into five distinct stations, each dedicated to a particular type of cuisine, and the building also holds the Blue Market convenience store.",
       "descriptor": "North Campus dining hall inside Bursley, U-M's largest residence hall",
@@ -758,6 +784,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "cloverdale-park": {
+      "text": "The city acquired Cloverdale in 1960 when the surrounding neighborhood's development was approved. It connects to the wooded strip known as the Missing Link — green space set aside in the 1950s for road access that was never used for that purpose. The playground went in in 1999, and trees were planted the following year after a neighborhood controversy over trees that had been cut down.",
+      "descriptor": "Hilly 1.75-acre neighborhood park on Cloverdale Rd, west of Pontiac Trail",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/cloverdale-park/"
+      ],
+      "writtenFor": {
+        "name": "Cloverdale Park",
+        "lat": 42.30593,
+        "lng": -83.7375
+      },
+      "writtenOn": "2026-09-07"
+    },
     "comet-coffee": {
       "text": "Comet hides at 16 Nickels Arcade — the glass-roofed shopping passage off State Street, finished in 1918 and described as perhaps the only remaining free-standing commercial arcade building in Michigan. Its coffee has a following among local baristas: the owner of Espy Cafe worked at Comet before opening his own place.",
       "descriptor": "Small independent coffee bar tucked inside Nickels Arcade",
@@ -824,6 +863,60 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "cottage-inn-pizza-lakewood": {
+      "text": "Cottage Inn began in 1948 at 512 E. William St. as a coffee business that added pies, making it the first place in Ann Arbor to serve pizza; the Michos family bought the original building in 1961. Carryout and delivery arrived in 1978 and franchising in 1986, and the company says it passed 75 stores across Michigan, Ohio and Indiana by its 75th anniversary in 2023. This is the Packard Street shop near campus.",
+      "descriptor": "Carryout pizza on Packard near campus; Cottage Inn started in Ann Arbor in 1948",
+      "sources": [
+        "https://cottageinn.com/about/",
+        "https://en.wikipedia.org/wiki/Cottage_Inn_Pizza"
+      ],
+      "writtenFor": {
+        "name": "Cottage Inn Pizza - Packard Street",
+        "lat": 42.27199,
+        "lng": -83.74213
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cottage-inn-pizza-packard-street": {
+      "text": "Cottage Inn opened in 1948 on E. William St. as Ann Arbor's first pizzeria, added carryout and delivery in 1978, and opened its first franchise in Ypsilanti in 1986; the company says it passed 75 stores across Michigan, Ohio and Indiana by 2023. This is the northeast-side store on Plymouth Road.",
+      "descriptor": "Northeast-side pizza carryout on Plymouth Rd; Ann Arbor chain founded 1948",
+      "sources": [
+        "https://cottageinn.com/about/",
+        "https://en.wikipedia.org/wiki/Cottage_Inn_Pizza"
+      ],
+      "writtenFor": {
+        "name": "Cottage Inn Pizza - Logan",
+        "lat": 42.30409,
+        "lng": -83.7069
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "crary-park": {
+      "text": "Douglas Crary, a University of Michigan geography professor who also served on the Ann Arbor City Council and Planning Commission, acquired this corner lot after a fire destroyed the house on it and kept it as open greenspace for more than 45 years. After he died in 2006, his daughters donated the land to Ann Arbor, and the city formally accepted it as parkland on Dec. 28, 2007.",
+      "descriptor": "1.3-acre corner park at Washtenaw Avenue and Cambridge Road",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/crary-park/"
+      ],
+      "writtenFor": {
+        "name": "Crary Park",
+        "lat": 42.27088,
+        "lng": -83.72485
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "creal-park": {
+      "text": "A 1.5-acre pocket park tucked between Creal Crescent and Argyle Crescent northwest of downtown, with a full basketball court, a lighted asphalt path linking the two streets, an open field, and play structures with swings and a merry-go-round.",
+      "descriptor": "Neighborhood park on Creal Crescent with a basketball court and merry-go-round",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/creal-park/"
+      ],
+      "writtenFor": {
+        "name": "Creal Park",
+        "lat": 42.29476,
+        "lng": -83.77327
+      },
+      "writtenOn": "2026-09-07"
+    },
     "crisler-center": {
       "text": "Opened December 6, 1967 and named for longtime athletic director Fritz Crisler, the arena is nicknamed \"the House That Cazzie Built\": star Cazzie Russell drew basketball crowds too big for Yost Field House, which is what forced the university to build it. It seats about 12,707 and got a $52 million renovation completed in 2012.",
       "descriptor": "Michigan basketball arena since 1967, \"the House That Cazzie Built\"",
@@ -874,6 +967,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "deborah-gimbel-memorial-overlook": {
+      "text": "A named lookout in Nichols Arboretum, the University of Michigan's 128-acre landscape park, established in 1907 and best known for its Main Valley long view and its heirloom peony garden. The view from the overlook carries toward North Campus and the Ann & Robert H. Lurie Carillon — a favorite vantage point in fall color.",
+      "descriptor": "Named memorial overlook in Nichols Arboretum, with a view toward North Campus",
+      "sources": [
+        "https://aadl.org/steve_jensen_0538",
+        "https://en.wikipedia.org/wiki/Nichols_Arboretum"
+      ],
+      "writtenFor": {
+        "name": "Deborah Gimbel Memorial Overlook",
+        "lat": 42.27742,
+        "lng": -83.72408
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "depot-plaza": {
+      "text": "Acquired by the city in 1967 as a right-of-way deed, this flower-garden sliver at Main and Depot is billed by Parks and Recreation as Ann Arbor's smallest park property, and it welcomes drivers coming off the M-14 exit onto Main Street. A pedestrian tunnel off Depot Street connects north to Bandemer and Argo parks on the Border-to-Border trail.",
+      "descriptor": "Ann Arbor's smallest park: a flower garden at Main and Depot streets",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/depot-park/"
+      ],
+      "writtenFor": {
+        "name": "Depot Plaza",
+        "lat": 42.28877,
+        "lng": -83.74711
+      },
+      "writtenOn": "2026-09-07"
+    },
     "detroit-observatory": {
       "text": "U-M president Henry Philip Tappan pitched it in an 1852 speech and Detroit businessmen paid for it — which is why an Ann Arbor building is named for Detroit. Its 12 5/8-inch Fitz refractor was the third-largest refracting telescope in the world when it was installed in 1857, and director James Craig Watson used the place to discover 22 asteroids between 1863 and 1877.",
       "descriptor": "1854 University of Michigan observatory, now a campus museum",
@@ -896,6 +1016,46 @@
         "name": "Detroit Street Filling Station",
         "lat": 42.28337,
         "lng": -83.74632
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "devonshire-park": {
+      "text": "Just over an acre, Devonshire Park is really a shortcut: a paved, snow-plowed path cutting between Devonshire Road and Geddes Avenue that gives the surrounding neighborhood a walking connection to Gallup Park and, beyond it, the Furstenberg Nature Area.",
+      "descriptor": "1.16-acre connector park with a path from Devonshire Rd to Geddes Ave",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/devonshire-park/"
+      ],
+      "writtenFor": {
+        "name": "Devonshire Park",
+        "lat": 42.27413,
+        "lng": -83.7021
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "dicken-elementary-plant-garden": {
+      "text": "A former Dicken parent and a group of volunteers cleared a 20-by-20-foot square of school lawn in spring 2010 and started planting. It has grown into a volunteer-run outdoor classroom — vegetables, milkweed planted by Girl Scouts to draw monarchs, a shed, and a woodland and butterfly area certified as a wildlife habitat — with families adopting plots to keep it tended over the summer.",
+      "descriptor": "Volunteer-run school garden at Dicken Elementary, started in 2010",
+      "sources": [
+        "https://dickenelementaryplantgarden.weebly.com/",
+        "https://dicken.a2schools.org/our-school/plant-garden"
+      ],
+      "writtenFor": {
+        "name": "Dicken Elementary PLANT Garden",
+        "lat": 42.26347,
+        "lng": -83.77683
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "dicken-park": {
+      "text": "Barely half an acre of mowed grass on Maple Road at Tudor Drive, it is named for Carrie L. Dicken, who taught in Ann Arbor Public Schools for four decades. She helped bring about Perry School in 1902, founded a night school in 1913 to help newly arrived immigrants, and was principal of Bach School until she retired in 1934.",
+      "descriptor": "Half-acre mowed-grass neighborhood park on Maple Road at Tudor Drive",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/dicken-park/"
+      ],
+      "writtenFor": {
+        "name": "Dicken Park",
+        "lat": 42.2573,
+        "lng": -83.77772
       },
       "writtenOn": "2026-09-07"
     },
@@ -1040,6 +1200,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "edible-garden": {
+      "text": "Friends of Greenview maintains this demonstration orchard with Pioneer High School and other volunteers as a \"living classroom\" of sustainable, regionally adapted food plants — on land once part of the Wuerth homestead orchard, farmed until the early 1900s. It mixes natives like paw paw, elderberry, chokeberry and wild strawberry with apricots, pear, plum, nectarine, cherry, hazelnut and hardy apple cultivars.",
+      "descriptor": "Public fruit-and-nut orchard in the Greenview & Pioneer Woods Nature Area",
+      "sources": [
+        "https://friendsofgreenview.org/ediblegarden/",
+        "https://friendsofgreenview.org/"
+      ],
+      "writtenFor": {
+        "name": "Edible Garden",
+        "lat": 42.25772,
+        "lng": -83.76322
+      },
+      "writtenOn": "2026-09-07"
+    },
     "eisenhower-park": {
       "text": "The trails here were dug by the neighbors. Volunteer workdays ran from November 2021 through a final push on November 13, 2022 — joined by student groups from the University of Michigan — cutting an unpaved path system through the greenway. The trail now links Churchill Downs Park to the north and Dundee Drive to the south, with a connection out to Scio Church Road.",
       "descriptor": "Ten-acre greenway along I-94, just south of Scio Church Road",
@@ -1075,6 +1249,19 @@
         "name": "El Limón",
         "lat": 42.3038,
         "lng": -83.70689
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "eula-d-marcks-garden": {
+      "text": "A tucked-away courtyard garden at the Michigan League, set with a patio of tables and chairs beneath one large tree — a quiet study spot most students walk past without noticing. It is named for Eula dePriest Marcks, University of Michigan class of 1933, honored there along with her husband.",
+      "descriptor": "Courtyard garden and patio at the Michigan League on N. University",
+      "sources": [
+        "https://sites.google.com/umich.edu/umnamestories/other-um-buildings-places/eula-d-marcks-garden"
+      ],
+      "writtenFor": {
+        "name": "Eula D. Marcks Garden",
+        "lat": 42.27939,
+        "lng": -83.73742
       },
       "writtenOn": "2026-09-07"
     },
@@ -1251,6 +1438,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "garden-homes-park": {
+      "text": "An 11-acre neighborhood park tucked between N. Maple Road and M-14, wooded with open lawn and more than 3,000 feet of paved path. The city developed it in 1974, and a new play structure went in in 2007 after Ann Arbor asked the surrounding neighborhood what it wanted. A rain garden along Miller Avenue, south of the main park, is part of it too.",
+      "descriptor": "11-acre wooded neighborhood park off N. Maple in northwest Ann Arbor",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/garden-homes-park/"
+      ],
+      "writtenFor": {
+        "name": "Garden Homes Park",
+        "lat": 42.29979,
+        "lng": -83.77931
+      },
+      "writtenOn": "2026-09-07"
+    },
     "george-washington-park": {
       "text": "This sliver of park exists for one thing: The Rock, a 23-ton boulder that parks superintendent Eli Gallup pulled from a city gravel pit and installed in 1932 for George Washington's 200th birthday. Visiting Michigan State students painted it in their colors in the mid-1950s, Michigan students painted back, and it has been repainted ever since — the buildup was about five inches thick by 2010.",
       "descriptor": "Traffic-triangle park at Washtenaw and Hill, home of The Rock",
@@ -1262,6 +1462,17 @@
         "name": "George Washington Park",
         "lat": 42.2726,
         "lng": -83.72844
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "get-away-n-play-cafe": {
+      "text": "",
+      "descriptor": "Hospital cafeteria with a Subway, floor 2 of Mott Children's Hospital",
+      "sources": [],
+      "writtenFor": {
+        "name": "Get Away N’ Play Café",
+        "lat": 42.28211,
+        "lng": -83.72708
       },
       "writtenOn": "2026-09-07"
     },
@@ -1284,6 +1495,32 @@
         "name": "Good Time Charley's",
         "lat": 42.27482,
         "lng": -83.73485
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "grand-grounds": {
+      "text": "Grand Grounds opened on Aug. 7, 2024 in the shared lobby of C.S. Mott Children's Hospital and Von Voigtlander Women's Hospital at Michigan Medicine. The counter serves Zingerman's Bakehouse baked goods, coffee and specialty drinks Monday through Friday from 6:30 a.m. to 4 p.m., plus Boar's Head deli sandwiches, snacks and desserts.",
+      "descriptor": "Coffee bar in the Mott Children's Hospital lobby, open since 2024",
+      "sources": [
+        "https://www.facebook.com/EmployeesAtMichiganMedicine/posts/grand-grounds-is-officially-open-today-is-the-grand-opening-of-the-new-coffee-ba/1269728117776331/"
+      ],
+      "writtenFor": {
+        "name": "Grand Grounds",
+        "lat": 42.28198,
+        "lng": -83.72746
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "graydon-park": {
+      "text": "Ann Arbor bought this land from the Michigan State Highway Commission for one dollar in 1966, and for decades it was Rose White Park — named simply for the Rose Avenue and White Street corner it sits on. In 2020 it was renamed Graydon Park in honor of Graydon Krapohl, a park neighbor and former city council member.",
+      "descriptor": "Small playground park on Rose Ave near E. Stadium Blvd",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/graydon-park/"
+      ],
+      "writtenFor": {
+        "name": "Graydon Park",
+        "lat": 42.26204,
+        "lng": -83.73828
       },
       "writtenOn": "2026-09-07"
     },
@@ -1326,6 +1563,19 @@
         "name": "Haifa Falafel",
         "lat": 42.29881,
         "lng": -83.72108
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "hannah-park": {
+      "text": "A one-acre ravine tucked between houses off Mark Hannah Place, deeded to the city in 1969 by the developer of the surrounding neighborhood. Neighbors' invasive-plant removal has let native jewelweed and false Solomon's seal flourish, groundwater seeps support iris, and Cooper's hawks nest in the tall trees.",
+      "descriptor": "One-acre wooded ravine nature area at 206 Mark Hannah Place",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/hannah-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Hannah Park",
+        "lat": 42.2828,
+        "lng": -83.76132
       },
       "writtenOn": "2026-09-07"
     },
@@ -1480,6 +1730,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "hollywood-park": {
+      "text": "The city got these three acres in 1961 from the subdivision's developer, and in 1964 a crew clearing undergrowth drew protests from neighbors and students. Parks director S.S. Sproull defended the work — \"Mother Nature can display considerable beauty without having poison ivy entwined in her hair\" — then met residents in 1965 and compromised. It still has one of the city's richest spring wildflower displays.",
+      "descriptor": "Three-acre woodland park by Abbot Elementary off Sequoia Parkway",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/hollywood-park/"
+      ],
+      "writtenFor": {
+        "name": "Hollywood Park",
+        "lat": 42.29321,
+        "lng": -83.78783
+      },
+      "writtenOn": "2026-09-07"
+    },
     "holocaust-memorial": {
       "text": "The seated, grieving bronze figure is the work of sculptor Leonard Baskin, erected in 1994. It stands in Raoul Wallenberg Plaza next to U-M's Rackham Building, named for the 1935 University of Michigan graduate who saved tens of thousands of Hungarian Jews in 1944.",
       "descriptor": "Leonard Baskin bronze in Wallenberg Plaza beside U-M's Rackham Building",
@@ -1600,6 +1863,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "iroquois-park": {
+      "text": "One of Ann Arbor's smallest parks, squeezed between houses on Iroquois Place near Stadium and Packard. The city acquired it around 1970 and it long served as \"Woodbury Park Access\" — a cut-through from the neighborhood to the Woodbury Gardens housing complex. Neighbors pushed to change that, and city council renamed it Iroquois Park in 2004, around when it also got its path, bench and picnic table.",
+      "descriptor": "Tiny pocket park with a path, bench and picnic table on Iroquois Place",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/iroquois-park/"
+      ],
+      "writtenFor": {
+        "name": "Iroquois Park",
+        "lat": 42.2595,
+        "lng": -83.732
+      },
+      "writtenOn": "2026-09-07"
+    },
     "island-park": {
       "text": "The 5.6-acre park wraps a 1.8-acre island in the Huron River, reached by footbridges — the concrete one on the west end dates to 1918. Its Greek Revival shelter, built in 1914 by low bidder John Koch for about $860 and originally fitted with public restrooms, is the oldest shelter in the Ann Arbor park system and was designated historic by the city in the mid-1990s.",
       "descriptor": "Park on an island in the Huron River, with a 1914 Greek Revival shelter",
@@ -1707,6 +1983,19 @@
         "name": "Kang's",
         "lat": 42.27515,
         "lng": -83.7323
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kelly-park": {
+      "text": "A half acre of playground, paved path and picnic table in Ann Arbor's northwest corner, near Maple Road and Miller Avenue. It takes its name from the circle of houses on nearby Kelly Green Drive, and an open field connects it to Abbot Elementary.",
+      "descriptor": "Half-acre neighborhood playground at 1219 Patricia Ave near Maple and Miller",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/kelly-park/"
+      ],
+      "writtenFor": {
+        "name": "Kelly Park",
+        "lat": 42.2945,
+        "lng": -83.78326
       },
       "writtenOn": "2026-09-07"
     },
@@ -1836,6 +2125,45 @@
         "name": "Lan City Noodle Bar",
         "lat": 42.27517,
         "lng": -83.73332
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "lansdowne-park": {
+      "text": "The city acquired this 2.6-acre park on Lans Way, near Seventh Street in Ann Arbor's southwest corner, in 1963 as the surrounding neighborhood was developed, then built it out slowly: soccer goals in 2000, followed in 2006 by the play structure, seating, paved path and basketball upgrades. A rain garden in the northwest corner handles stormwater.",
+      "descriptor": "2.6-acre neighborhood park on Lans Way with playground and soccer field",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/lansdowne-park/"
+      ],
+      "writtenFor": {
+        "name": "Lansdowne Park",
+        "lat": 42.25317,
+        "lng": -83.75842
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "las-vegas-park": {
+      "text": "Ann Arbor picked up the land around 1960 as the surrounding southwest-side neighborhood was being built out. Just under two acres running between Las Vegas Drive and Granada Avenue, it has a lit half-court, an accessible paved path, and a playground among honeylocusts and other street trees.",
+      "descriptor": "Two-acre neighborhood park on Las Vegas Dr, south of Stadium Blvd",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/las-vegas-park/"
+      ],
+      "writtenFor": {
+        "name": "Las Vegas Park",
+        "lat": 42.26263,
+        "lng": -83.77043
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "lawton-park": {
+      "text": "The park and the elementary school beside it are named for Uriah William Lawton (1831-1905), Ann Arbor's first school superintendent, who served from 1864 to 1867. The City of Ann Arbor and the school system bought the 12-acre site jointly and dedicated Lawton School in October 1964, deliberately pairing classrooms with public recreation land.",
+      "descriptor": "5-acre park with a ball diamond next to Lawton Elementary School",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/lawton-park/"
+      ],
+      "writtenFor": {
+        "name": "Lawton Park",
+        "lat": 42.25459,
+        "lng": -83.76518
       },
       "writtenOn": "2026-09-07"
     },
@@ -2002,6 +2330,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "manchester-park": {
+      "text": "Acquired by the city in 1964 under the name Washtenaw-Manchester Park, this 1.5-acre strip of green between Washtenaw Avenue and Manchester Road once came with a bonus: the city also maintained the adjoining county land. That arrangement ended in 1982, when Washtenaw County took over full management of its own property as County Farm Park.",
+      "descriptor": "1.5-acre greenspace with a paved path beside County Farm Park",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/manchester-park/"
+      ],
+      "writtenFor": {
+        "name": "Manchester Park",
+        "lat": 42.25868,
+        "lng": -83.70979
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mani-osteria-and-bar": {
       "text": "Mani has served Italian osteria food at 341 E. Liberty since 2011. The name is simply the Italian word for \"hands\" — as the restaurant puts it, \"'Mani' means hands, and since 2011 ours have been busy.\"",
       "descriptor": "Italian osteria at 341 E. Liberty St., open since 2011",
@@ -2024,6 +2365,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "maryfield-wildwood-park": {
+      "text": "A 4.55-acre neighborhood park bounded by Westwood, Linwood and Maryfield, just north of Dexter Avenue — playground, half basketball court, volleyball net and a softball backstop on the west side, with a wooded ravine and trail making up the east. Wooden stairs down into the ravine from Wildwood Street carry a 2001 dedication to Bruce Folske.",
+      "descriptor": "4.5-acre west-side park with a wooded ravine, playground and ball backstop",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/maryfield-wildwood-park/"
+      ],
+      "writtenFor": {
+        "name": "Maryfield Wildwood Park",
+        "lat": 42.28282,
+        "lng": -83.76233
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mash": {
       "text": "Mash opened on July 26, 2012 in the cellar beneath Blue Tractor, taking over the space that had been Cafe Habana's salsa-night lounge — mojitos out, bourbon and live bands in. The list runs past 70 bourbons, and all six beers on draft are brewed in-house.",
       "descriptor": "Basement whiskey bar and live-music room under Blue Tractor on E. Washington",
@@ -2035,6 +2389,19 @@
         "name": "mash",
         "lat": 42.28055,
         "lng": -83.74673
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "meadowbrook-park": {
+      "text": "Meadowbrook was developed in the late 1980s as homes were built along Northbrook Drive and at Meadowbrook Village Apartments. Its accessible paved path doubles as a shortcut, connecting the end of Seventh Street through to Northbrook Drive, and the city clears it of snow in winter.",
+      "descriptor": "2.18-acre park at the end of S. Seventh St with a playground and half court",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/meadowbrook-park/"
+      ],
+      "writtenFor": {
+        "name": "Meadowbrook Park",
+        "lat": 42.25018,
+        "lng": -83.76366
       },
       "writtenOn": "2026-09-07"
     },
@@ -2164,6 +2531,19 @@
         "name": "Mitchell Field",
         "lat": 42.28562,
         "lng": -83.72173
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mixtwood-pomona-park": {
+      "text": "This under-half-acre playground at Mixtwood Street and Pomona Road, near Miller Avenue northwest of downtown Ann Arbor, holds one of the city's official Champion Trees: a pignut hickory that is the largest of its species in Ann Arbor. The current play structure, set in the shade of the park's oaks and hickories, went in during 2004, replacing an older one.",
+      "descriptor": "Pocket playground at Mixtwood and Pomona, shaded by oaks and hickories",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/mixtwood-pomona-park/"
+      ],
+      "writtenFor": {
+        "name": "Mixtwood Pomona Park",
+        "lat": 42.29083,
+        "lng": -83.76218
       },
       "writtenOn": "2026-09-07"
     },
@@ -2302,6 +2682,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "newport-creek-nature-area": {
+      "text": "This one-acre pocket of woods on Ann Arbor's far northwest side has no established trails at all — the city explicitly encourages off-trail exploration. The land came to the city from the neighborhood's developer under a 1998 development agreement, the same deal that produced nearby Riverwood Nature Area, and crews are still working to clear out non-native invasive plants.",
+      "descriptor": "One-acre trail-free wooded nature area west of Newport Road, northwest Ann Arbor",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/newport-creek-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Newport Creek Nature Area",
+        "lat": 42.30442,
+        "lng": -83.76888
+      },
+      "writtenOn": "2026-09-07"
+    },
     "nichols-arboretum": {
       "text": "Founded in 1907 after Esther and Walter Nichols donated their 27-acre farm to the university, the Arb was laid out by landscape architect O.C. Simonds, whose \"long views\" still run out to tree-filled horizons from the Main Valley. Its W.E. Upjohn Peony Garden holds roughly 350 cultivars — the largest heirloom peony collection in North America — and Shakespeare in the Arb has staged plays across the grounds since 2000.",
       "descriptor": "128-acre arboretum by the Huron River, \"the Arb,\" with a huge heirloom peony garden",
@@ -2332,6 +2725,58 @@
         "name": "No Thai! - Northside",
         "lat": 42.29843,
         "lng": -83.72145
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "no-thai-bryant-pattengill-east": {
+      "text": "The name comes from the head chef: four friends made a pact in February 2005 to bring a modern Thai restaurant to the community, and when Noerung \"No\" Hang rose to become head chef it became \"No Thai!\". It opened that September 25 in a tiny 675-square-foot space and now runs several Ann Arbor storefronts plus Brighton — this South Industrial address is the delivery operation.",
+      "descriptor": "Delivery kitchen for Ann Arbor's No Thai! chain, on S. Industrial Hwy",
+      "sources": ["https://nothai.com/about/", "https://nothai.com/locations/"],
+      "writtenFor": {
+        "name": "No Thai! - Bryant Pattengill East",
+        "lat": 42.25858,
+        "lng": -83.73801
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "no-thai-burns-park": {
+      "text": "The Ann Arbor-born chain takes its name from head chef Noerung \"No\" Hang and opened its first 675-square-foot store on September 25, 2005; it now lists six Michigan locations after its East Lansing outpost closed in May 2025. This is the South U store at 1300 S. University Ave.",
+      "descriptor": "Thai fast-casual counter on South University Ave at the edge of campus",
+      "sources": [
+        "https://www.nothai.com/about",
+        "https://www.nothai.com/locations"
+      ],
+      "writtenFor": {
+        "name": "No Thai! - Burns Park",
+        "lat": 42.27468,
+        "lng": -83.73289
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "no-thai-kerrytown": {
+      "text": "No Thai! opened on September 25, 2005 in a 675-square-foot Ann Arbor storefront and is named for head chef Noerung \"No\" Hang. The founders estimate they've cooked roughly 8.5 million dishes since, across six Michigan locations; this one sits at 226 N. Fourth Ave. in Kerrytown, just south of the farmers market.",
+      "descriptor": "Thai fast-casual on N. Fourth Ave in Kerrytown, Ann Arbor mini-chain since 2005",
+      "sources": [
+        "https://www.nothai.com/about",
+        "https://www.nothai.com/locations"
+      ],
+      "writtenFor": {
+        "name": "No Thai! - Kerrytown",
+        "lat": 42.28303,
+        "lng": -83.74673
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "north-main-park": {
+      "text": "Half an acre of tall trees just north of downtown, and really a shortcut as much as a park — its accessible paved path connects N. Main Street through to N. Fourth Avenue, and the city clears it of snow in winter. Ann Arbor bought the lot in 1976 for $9,360 and paved the paths the following year; a group of neighbors keeps up the small garden on the east side.",
+      "descriptor": "Half-acre shaded pocket park linking N. Main St to N. Fourth Ave",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/north-main-park/"
+      ],
+      "writtenFor": {
+        "name": "North Main Park",
+        "lat": 42.28645,
+        "lng": -83.74758
       },
       "writtenOn": "2026-09-07"
     },
@@ -2384,6 +2829,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "northside-park": {
+      "text": "The land came out of the old Northside School site and was designated for public park use in 1939; the shelter followed in 1960 and the tennis and basketball courts in 1982. The adjoining CAN Northside Community Center went solar in 2020, becoming the city's first \"resilience hub\" — able to keep refrigeration and power running during an outage.",
+      "descriptor": "5.2-acre park at Pontiac Trail and Taylor St with ball diamonds and a rec center",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/northside-park-and-community-center/"
+      ],
+      "writtenFor": {
+        "name": "Northside Park",
+        "lat": 42.29871,
+        "lng": -83.73565
+      },
+      "writtenOn": "2026-09-07"
+    },
     "northwest-tower-ross": {
       "text": "One of the brick corner towers of Michigan Stadium — the Big House. Its official capacity, 107,601, has carried one unexplained \"extra\" seat since 1956, said to belong to coach Fritz Crisler; nobody knows which seat it is. A record 115,109 crowded in for Notre Dame in September 2013.",
       "descriptor": "Corner tower of Michigan Stadium, the 107,601-seat Big House",
@@ -2397,6 +2855,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "oakridge-nature-area": {
+      "text": "Eight acres of oak-hickory woods on Glazier Way with no trails, no amenities and no parking on site — you walk or bike in from Huron Parkway, or park on Wolverhampton Lane five minutes away. The city counts over 100 native species here, and Miller Creek runs through alongside a small fen, which the city calls a rare type of Michigan wetland.",
+      "descriptor": "Eight acres of trail-free oak-hickory woods on Glazier Way",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/oakridge-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Oakridge Nature Area",
+        "lat": 42.28651,
+        "lng": -83.70252
+      },
+      "writtenOn": "2026-09-07"
+    },
     "old-town-tavern": {
       "text": "Open since 1972 at 122 W. Liberty, the Old Town started as a blue-collar bar that opened at 6 a.m. to accommodate third-shift workers from area factories. It calls itself one of downtown Ann Arbor's most beloved townie bars.",
       "descriptor": "Townie bar at 122 W. Liberty, established 1972",
@@ -2405,6 +2876,19 @@
         "name": "Old Town Tavern",
         "lat": 42.27973,
         "lng": -83.74971
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "onder-park": {
+      "text": "The city bought these 4.2 acres of north-side woods in 2007 from Jan Onder, a local businesswoman who had owned the land with her late husband Ned Shure since 1992; it had been appraised at $480,000 two years earlier. Two small streams and many pockets of wooded wetland make it a green corridor, with trillium and marsh marigolds in the spring.",
+      "descriptor": "4.2-acre wooded nature area with unpaved trails off Brookside Drive",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/onder-park/"
+      ],
+      "writtenFor": {
+        "name": "Onder Park",
+        "lat": 42.30563,
+        "lng": -83.7422
       },
       "writtenOn": "2026-09-07"
     },
@@ -2626,6 +3110,20 @@
         "name": "Poke Poke",
         "lat": 42.27888,
         "lng": -83.74095
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pollinator-garden": {
+      "text": "A volunteer-built demonstration garden just east of the Project Grow site in Greenview Nature Area, expanded to a quarter acre in 2022 and planted over several years with more than 200 native wildflower plugs and grasses. The neighbor-run Friends of Greenview and Pioneer Nature Area have documented more than 50 butterfly species in the park and have used goats to knock back invasive plants.",
+      "descriptor": "Quarter-acre native-plant demonstration garden at Greenview Nature Area",
+      "sources": [
+        "https://friendsofgreenview.org/pollinator-garden/",
+        "https://friendsofgreenview.org/"
+      ],
+      "writtenFor": {
+        "name": "Pollinator Garden",
+        "lat": 42.2582,
+        "lng": -83.7627
       },
       "writtenOn": "2026-09-07"
     },
@@ -3113,6 +3611,34 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "sweetwaters-coffee-tea-kerrytown": {
+      "text": "Wei and Lisa Bee, who both attended the University of Michigan, opened the first Sweetwaters downtown in 1993 and grew it into a small chain built on classic cafe fare and globally influenced coffees and teas. The Kerrytown shop sits in the Kerrytown Market & Shops beside the farmers market, and is the only Ann Arbor location the company flags as serving alcohol.",
+      "descriptor": "Coffee and tea cafe in Kerrytown Market & Shops; Ann Arbor born, 1993",
+      "sources": [
+        "https://www.sweetwaterscafe.com/about/",
+        "https://www.sweetwaterscafe.com/locations/"
+      ],
+      "writtenFor": {
+        "name": "Sweetwater's Coffee & Tea - Kerrytown",
+        "lat": 42.28445,
+        "lng": -83.74601
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "sweetwaters-coffee-tea-old-west-side": {
+      "text": "This Sweetwaters pours inside the Ann Arbor District Library's Westgate branch, which reopened in September 2016 with what the library bills as the first full-service cafe in an AADL building. The chain itself is homegrown: U-M alumni Wei and Lisa Bee opened the first Sweetwaters downtown in 1993.",
+      "descriptor": "Coffeehouse inside the library's Westgate branch on Jackson Ave",
+      "sources": [
+        "https://aadl.org/westgate",
+        "https://www.sweetwaterscafe.com/about/"
+      ],
+      "writtenFor": {
+        "name": "Sweetwater's Coffee & Tea - Lakewood",
+        "lat": 42.27873,
+        "lng": -83.78293
+      },
+      "writtenOn": "2026-09-07"
+    },
     "taq-taqueria-restaurant-bar": {
       "text": "Cynthia Gagalis Messmore opened it as La Taqueria in 2018 at 106 E. Liberty with just eight tables and a half-dozen barstools; it has since moved into the original Pretzel Bell building at Liberty and S. Fourth and more than quadrupled its seating, and a Tribeca offshoot followed in 2023. Her son Mark: \"Just because they're tacos doesn't mean it has to be Mexican food.\"",
       "descriptor": "Gourmet taco and margarita bar in downtown Ann Arbor's Pretzel Bell building",
@@ -3487,6 +4013,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "tuebingen-parkway": {
+      "text": "Named for Tübingen, Germany, which became Ann Arbor's first sister city in 1965 through Eisenhower's People to People program — both are college towns sitting next to bigger industrial cities. The seven acres are mostly natural area with unpaved trails and exercise stations, but the draw is one of the city's only two bike parks: a dirt pump track plus several downhill dirt jump lines.",
+      "descriptor": "7-acre natural area with a dirt bike pump track, northeast side",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/tuebingen-park/"
+      ],
+      "writtenFor": {
+        "name": "Tuebingen Parkway",
+        "lat": 42.30886,
+        "lng": -83.71874
+      },
+      "writtenOn": "2026-09-07"
+    },
     "twigs": {
       "text": "",
       "descriptor": "U-M residential dining hall hidden inside Oxford Housing on Oxford Road",
@@ -3683,6 +4222,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "wellington-park": {
+      "text": "A 1.19-acre neighborhood park on Ann Arbor's west side — abundant mature shade trees, an open grassy field with a baseball and softball field, a playground and a Little Free Library. The land was set aside for public use by the neighborhood's own developer, transferred to the Parks Department in 1948, and approved for development by City Council in 1951.",
+      "descriptor": "1.19-acre neighborhood park with a ball field off Bruce St, west side",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/wellington-park/"
+      ],
+      "writtenFor": {
+        "name": "Wellington Park",
+        "lat": 42.28733,
+        "lng": -83.77259
+      },
+      "writtenOn": "2026-09-07"
+    },
     "west-park": {
       "text": "Land here has been Ann Arbor parkland since 1908, assembled over a century in 28 separate acquisitions. The bandshell, a home-grown structure designed by the city's Department of Public Works in 1938, hosted concerts for decades until it was closed in 2021 over structural issues. The park also holds a 1925 pergola, two city champion trees, and a stretch of historic Native American trail.",
       "descriptor": "27-acre park west of downtown with a 1938 bandshell",
@@ -3707,6 +4259,32 @@
         "name": "Wheeler Park",
         "lat": 42.28784,
         "lng": -83.74539
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "winewood-thaler-park": {
+      "text": "The city bought the land in 1974 and development began in 1977. The 1.72-acre park squeezes in two playground areas, a merry-go-round, a half-court, a woodchip nature trail, and a native wildflower and edible-landscaping garden, plus a paved path connecting Winewood to Carolina Avenue that the city clears in winter.",
+      "descriptor": "West-side pocket park between Winewood and Thaler Aves, with two playgrounds",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/winewood-thaler-park/"
+      ],
+      "writtenFor": {
+        "name": "Winewood Thaler Park",
+        "lat": 42.27662,
+        "lng": -83.77491
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "woodbury-park": {
+      "text": "From 1916 to 1961 this land was the University of Michigan's Botanical Gardens. After the gardens relocated, the Woodbury Gardens apartment development began in 1969, and the nearby streets were named to honor the site's botanical heritage.",
+      "descriptor": "2.5-acre park with tennis courts on Astor Ave, south of Stadium Blvd",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/woodbury-park/"
+      ],
+      "writtenFor": {
+        "name": "Woodbury Park",
+        "lat": 42.2568,
+        "lng": -83.73121
       },
       "writtenOn": "2026-09-07"
     },
