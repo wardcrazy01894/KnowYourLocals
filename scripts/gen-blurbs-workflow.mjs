@@ -18,6 +18,8 @@
 // - [batchSize]: locations per research agent (default 6 — each needs several
 //   searches, so keep batches small).
 // - [--ids]: restrict to these ids.
+// - [--all]: also research BENCHED rows (inPlay:false). Default is in-play only,
+//   since a benched row can never be picked for a daily lineup.
 // - [--limit N]: research at most N batches this run — size a run to finish
 //   inside one session-limit window (agents mid-flight when the limit hits
 //   lose their work; a run that completes loses nothing).
@@ -61,6 +63,11 @@ if (skipFlag >= 0) {
   for (const r of raw.result?.results ?? raw.results ?? raw)
     if (r && typeof r.id === 'string') skipIds.add(r.id)
 }
+// Benched rows (inPlay:false, below the city's playCap) can never appear in a
+// daily lineup, so they are skipped by default. --all includes them: worth it
+// once a city's in-play set is done, and it future-proofs a later cap raise,
+// since a promoted row arrives with its blurb already written.
+const INCLUDE_BENCHED = args.includes('--all')
 const limitFlag = args.indexOf('--limit')
 const LIMIT = limitFlag >= 0 ? Number(args[limitFlag + 1]) : Infinity
 const preFlag = args.indexOf('--pre')
@@ -107,7 +114,7 @@ const existing = existsSync(sidecarUrl)
   : {}
 
 const candidates = locations
-  .filter((l) => l.inPlay !== false)
+  .filter((l) => INCLUDE_BENCHED || l.inPlay !== false)
   .filter((l) => !isWritten(existing[l.id]))
   .filter((l) => !onlyIds || onlyIds.has(l.id))
   .filter((l) => !skipIds.has(l.id))

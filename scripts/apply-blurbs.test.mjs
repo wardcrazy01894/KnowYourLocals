@@ -147,6 +147,12 @@ describe('normalizeBlurbResults', () => {
             'https://www.google.com/maps/place/x',
             'https://www.google.com/search?q=x',
             'https://duckduckgo.com/?q=x',
+            'https://maps.google.com/?cid=123',
+            // Google Maps short links and the search-redirect wrapper.
+            'https://goo.gl/maps/abc123',
+            'https://maps.app.goo.gl/abc123',
+            'https://g.page/some-venue',
+            'https://www.google.com/url?q=https://example.org',
             // Raw OSM database pages are map DATA, not reading — same class.
             'https://www.openstreetmap.org/node/2850801315',
             'https://openstreetmap.org/way/192516456',
@@ -160,6 +166,25 @@ describe('normalizeBlurbResults', () => {
     )
     expect(accepted[0].sources).toEqual([
       'https://ilovetheburg.com/some-story/',
+    ])
+  })
+
+  it('keeps a real page that merely lives on a google.com subdomain', () => {
+    // sites.google.com hosts genuine institutional pages (a university's
+    // building-name histories, say). Only Maps and Search are map data and
+    // result pages; the domain alone is not the signal.
+    const { accepted } = normalizeBlurbResults(
+      [
+        row('a', {
+          sources: [
+            'https://sites.google.com/umich.edu/umnamestories/eula-d-marcks-garden',
+          ],
+        }),
+      ],
+      { knownIds: known },
+    )
+    expect(accepted[0].sources).toEqual([
+      'https://sites.google.com/umich.edu/umnamestories/eula-d-marcks-garden',
     ])
   })
 

@@ -18,8 +18,24 @@ const collapse = (s) => s.replace(/\s+/g, ' ').trim()
  * in the `note` as provenance, never as a player-facing link. (This also
  * catches nominatim.openstreetmap.org and malformed doubled-domain OSM URLs.)
  */
-const JUNK_SOURCE =
-  /^https:\/\/([^/]*\.)?(openstreetmap\.org|google\.[a-z.]+|bing\.com|duckduckgo\.com|yahoo\.com)\//i
+const JUNK_SOURCE = new RegExp(
+  [
+    // Raw OSM database pages and the Nominatim geocoder, any subdomain.
+    String.raw`^https://([^/]*\.)?openstreetmap\.org/`,
+    // Search engines.
+    String.raw`^https://([^/]*\.)?(bing|duckduckgo|yahoo)\.com/`,
+    // Google MAPS and SEARCH only — not the whole domain. sites.google.com
+    // and docs.google.com host real institutional pages (a university's
+    // building-name histories, say), and rejecting those loses good sources.
+    String.raw`^https://maps\.google\.[a-z.]+/`,
+    // /url is Google's own redirect wrapper, /local is a Maps surface.
+    String.raw`^https://(www\.)?google\.[a-z.]+/(maps|search|url|local)\b`,
+    // Google Maps short links, which hide a Maps URL behind another host.
+    String.raw`^https://(maps\.app\.)?goo\.gl/`,
+    String.raw`^https://g\.page/`,
+  ].join('|'),
+  'i',
+)
 
 /**
  * Has this sidecar entry been written? A descriptor-only entry (researched,
