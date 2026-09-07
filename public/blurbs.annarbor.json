@@ -49,6 +49,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "ama-bistro": {
+      "text": "A local, family-owned and operated spot on South State within walking distance of the University of Michigan campus, aMa serves breakfast, lunch and dinner. The dinner menu is where the family's authentic Albanian dishes turn up, sitting alongside Italian pasta and burgers, while lunch runs to sandwiches, wraps, salads and soups.",
+      "descriptor": "Family-run cafe at 215 S. State; breakfast, lunch and Albanian dinner dishes",
+      "sources": ["https://www.amabistro.com/"],
+      "writtenFor": {
+        "name": "ama bistro",
+        "lat": 42.27981,
+        "lng": -83.74067
+      },
+      "writtenOn": "2026-09-07"
+    },
     "amadeus": {
       "text": "The Ann Arbor Observer calls Amadeus \"Ann Arbor's refined Polish-Hungarian restaurant.\" It was founded by Krystyna Aniolczyk, whose son Bart grew up in its kitchen before going on to open his own barbecue place, Jake's BBQ Shack, in Dexter.",
       "descriptor": "Polish-Hungarian restaurant at 122 E. Washington St.",
@@ -137,6 +148,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "argus-museum": {
+      "text": "Argus began as the International Radio Corporation in 1931, making plastic-cased Kadette radios, and pivoted to cameras with the $12.50 Argus A in 1936. Its C3 rangefinder — the boxy \"brick\" — was made from 1939 until 1966, passing two million units. The museum occupies the second floor of the Argus building at 525 W. William St.",
+      "descriptor": "Museum of Argus cameras on the 2nd floor of the old Argus plant, 525 W. William St.",
+      "sources": [
+        "https://argusmuseum.org/history-of-argus/",
+        "https://argusmuseum.org/"
+      ],
+      "writtenFor": {
+        "name": "Argus Museum",
+        "lat": 42.27768,
+        "lng": -83.75457
+      },
+      "writtenOn": "2026-09-07"
+    },
     "ashleys-ann-arbor": {
       "text": "Ashley's has poured beer a few steps from campus at 338 S. State St. since 1983, billing itself as Michigan's Premium Multi-Tap with a global list spanning Belgian beers, Bohemian, South German, Pacific Northwest and Michigan styles. It also runs a serious whiskey program, with a Scotch collection and curated flights.",
       "descriptor": "Multi-tap craft beer pub at 338 S. State St. since 1983",
@@ -211,6 +236,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "bandemer-park-disc-golf": {
+      "text": "The nine-hole course was built in 2007 inside Bandemer Park, 38 acres on the Huron River just west of Argo Pond that the city began assembling in 1974 and reclaimed from a former railroad stockyard, dumping ground and highway staging area. Dirt footpaths wind through the holes with river views, and the park doubles as a Border-to-Border Trail head with a dirt-jump bike course and the Ann Arbor Rowing Club boathouse at its south end.",
+      "descriptor": "Nine-hole disc golf course in Bandemer Park, built in 2007",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/bandemer-park/"
+      ],
+      "writtenFor": {
+        "name": "Bandemer Park Disc Golf",
+        "lat": 42.29957,
+        "lng": -83.74362
+      },
+      "writtenOn": "2026-09-07"
+    },
     "barton-nature-area": {
       "text": "Detroit Edison built Barton Dam here in 1912 — the tallest on the Huron River at the time — and the pond behind it still supplies most of Ann Arbor's drinking water. The city bought the property from Edison in the 1960s. A plant inventory of the old-field oxbow recorded 324 species, and a trail network with two bridges built in 1991 now carries the Border-to-Border Trail.",
       "descriptor": "98-acre Huron River park at the Barton oxbow, with dam and Border-to-Border Trail",
@@ -263,6 +301,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "black-diesel-coffee": {
+      "text": "Nick Ferris opened Black Diesel in 2015 in the corner storefront at Packard and E. Stadium that had housed Caribou Coffee and Peet's, both of which left when their corporate owners pulled out of the region. It began as a multiroaster cafe pouring other roasters' beans, and Ferris also founded BD Barista School, a certified Specialty Coffee Association training campus.",
+      "descriptor": "Multiroaster coffee bar at the corner of Packard and E. Stadium",
+      "sources": [
+        "https://dailycoffeenews.com/2019/05/17/bd-barista-school-building-a-brighter-coffee-community-in-michigan/",
+        "https://annarborobserver.com/caffeine-trio/"
+      ],
+      "writtenFor": {
+        "name": "Black Diesel Coffee",
+        "lat": 42.26098,
+        "lng": -83.73059
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "black-pond-woods-nature-area": {
+      "text": "Black Pond is a vernal pond whose basin was formed by a slow-melting remnant of glacial ice; tannins and humic acids from leaf litter stain the water dark brown and give it its name, and because it fills entirely from rainfall and usually dries out by summer, no fish live in it. The city bought the remaining 34 acres in June 1991 for $1,175,000 — the Michigan DNR covered 75 percent — after residents fought off a housing development, and a floating boardwalk went in in 1997.",
+      "descriptor": "34-acre woods and glacial vernal pond between Traver Rd and Pontiac Trail",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/black-pond-woods-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Black Pond Woods Nature Area",
+        "lat": 42.30369,
+        "lng": -83.72983
+      },
+      "writtenOn": "2026-09-07"
+    },
     "blm-mead-cider": {
       "text": "Founders Lauren and Matt started Bløm after Matt — a brewer and co-owner of Chicago's Begyle Brewing — developed a gluten intolerance and turned to mead and cider. Their session meads are light, dry and carbonated, fermented like a craft cider rather than thick and sweet, and the ingredients are Michigan-sourced.",
       "descriptor": "Downtown taproom at 100 S Fourth Ave pouring session meads and ciders",
@@ -299,6 +364,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "bluffs-nature-area": {
+      "text": "The city describes Bluffs as a roughly 40-acre tract sitting on a glacially formed ridge, an important link in the corridor of natural areas surrounding the Huron River. Footpath trails wind throughout with a lot of ups and downs, some quite steep, and the park has long been a favorite place for bicycles. The city also notes that the largest collection of butternut trees in Ann Arbor can be found here, along with hickories and uncommon understory plants.",
+      "descriptor": "40-acre wooded nature area off N. Main with steep, winding footpaths",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/bluffs-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Bluffs Nature Area",
+        "lat": 42.29452,
+        "lng": -83.74934
+      },
+      "writtenOn": "2026-09-07"
+    },
     "broadway-cafe": {
       "text": "The menu is famously short — a handful of Korean dishes plus a cheesesteak hoagie — and the signature item splits the difference: bulgogi beef piled on a soft bun with melted cheese and sauteed onions. An Observer cheap-eats review found the crowd split about half and half between the Korean plates and the sandwich.",
       "descriptor": "Tiny Korean-and-cheesesteak-hoagie counter at 1139 Broadway St",
@@ -310,6 +388,19 @@
         "name": "Broadway Cafe",
         "lat": 42.29071,
         "lng": -83.73711
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "broadway-park": {
+      "text": "The city assembled this riverfront land mostly by condemnation between 1902 and 1915 and designated it Riverside Park in 1907, but locals called it \"Hobo Park\" from about 1934 until it was officially renamed Broadway Park in 1973. Today the five acres hold a 1.37-acre fenced dog park with separate areas for larger and smaller dogs, plus Turbine, a 2015 sculpture made from repurposed canoes.",
+      "descriptor": "Five-acre Huron River park off Broadway with a fenced dog park",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/broadway-dog-park/"
+      ],
+      "writtenFor": {
+        "name": "Broadway Park",
+        "lat": 42.28754,
+        "lng": -83.74036
       },
       "writtenOn": "2026-09-07"
     },
@@ -337,6 +428,31 @@
         "name": "Burns Park",
         "lat": 42.26581,
         "lng": -83.72817
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "bursley-dining-hall": {
+      "text": "Bursley is the largest dormitory at the University of Michigan, housing approximately 1,300 students on North Campus, so its dining hall feeds a small town. A $4.5 million renovation in summer 2016 rebuilt the food service area into five distinct stations, each dedicated to a particular type of cuisine, and the building also holds the Blue Market convenience store.",
+      "descriptor": "North Campus dining hall inside Bursley, U-M's largest residence hall",
+      "sources": ["https://en.wikipedia.org/wiki/Bursley_Hall"],
+      "writtenFor": {
+        "name": "Bursley Dining Hall",
+        "lat": 42.29383,
+        "lng": -83.721
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cafe-verde": {
+      "text": "Cafe Verde has operated out of the People's Food Co-op on North Fourth Avenue since 2001, remodeled in 2004, pouring fair-trade coffee alongside baked goods and items from the co-op's hot and salad bar. The co-op itself has been on the block since 1971.",
+      "descriptor": "Fair-trade coffee bar inside the People's Food Co-op on N. Fourth Ave",
+      "sources": [
+        "https://annarborobserver.com/cafe-verde/",
+        "https://peoplesfood.coop/"
+      ],
+      "writtenFor": {
+        "name": "Cafe Verde",
+        "lat": 42.28286,
+        "lng": -83.74698
       },
       "writtenOn": "2026-09-07"
     },
@@ -406,6 +522,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "cedar-bend-nature-area": {
+      "text": "One of Ann Arbor's oldest parks: the city bought the land in small parcels in the late 1890s, transferred it to the new Park Commission in May 1905, and hired landscape architect O.C. Simonds that December, whose principle was that \"no landscape gardener can plant as well as nature has planted.\" Steep unpaved trails climb the slope and ridge past the hairpin turn, a remnant of an old road that traced the river's sharp bend.",
+      "descriptor": "19-acre wooded slope above a sharp bend of the Huron River, off Cedar Bend Dr",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/cedar-bend-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Cedar Bend Nature Area",
+        "lat": 42.29239,
+        "lng": -83.72691
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "chans-garden": {
+      "text": "",
+      "descriptor": "Chinese restaurant in Ann Arbor, formerly Chan's Garden, now branded Chan Garden",
+      "sources": [
+        "https://www.changardenannarbor.com/",
+        "https://www.chansgardenannarbor.com/"
+      ],
+      "writtenFor": {
+        "name": "Chan's Garden",
+        "lat": 42.27369,
+        "lng": -83.77769
+      },
+      "writtenOn": "2026-09-07"
+    },
     "chapala-mexican-restaurant": {
       "text": "Cesar Ochoa opened Chapala in the summer of 2020 in the N. Main space vacated by the three-year-old Agave Tequila Bar. He set out to serve \"what Mexicans eat when they go out\" at prices that wouldn't feel stuffy; the signature empapelado marino brings shrimp, scallops and tilapia out inside half a pineapple.",
       "descriptor": "Mexican restaurant and bar at 211 N. Main St., open since 2020",
@@ -431,6 +574,17 @@
         "name": "Chela's Restaurant & Taqueria",
         "lat": 42.27405,
         "lng": -83.77941
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "chicago-reds": {
+      "text": "",
+      "descriptor": "Chicago-style Vienna Beef hot dog counter inside Amer's Deli on S. State",
+      "sources": ["https://www.amersdeli.com/chicagoredsmenu"],
+      "writtenFor": {
+        "name": "Chicago Reds",
+        "lat": 42.27884,
+        "lng": -83.74095
       },
       "writtenOn": "2026-09-07"
     },
@@ -462,6 +616,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "cosa-sabrosa": {
+      "text": "Chef-owner Jeff Gardner launched Cosa Sabrosa — \"tasty thing\" — as a food truck in 2016, tracked down by followers on Facebook. In January 2021 he moved the operation indoors at the Zal Gaz Grotto, a Masonic lodge on W. Stadium Blvd, serving eight fillings across tacos, burritos and nachos, from beef, pork, fish and chorizo to sweet potato and cauliflower.",
+      "descriptor": "Mexican taqueria inside the Zal Gaz Grotto club on W. Stadium Blvd",
+      "sources": [
+        "https://annarborobserver.com/cosa-sabrosa-at-the-grotto/",
+        "https://cosasabrosa.netlify.app/"
+      ],
+      "writtenFor": {
+        "name": "Cosa Sabrosa",
+        "lat": 42.27205,
+        "lng": -83.77478
+      },
+      "writtenOn": "2026-09-07"
+    },
     "cottage-inn-pizza": {
       "text": "Cottage Inn started in 1948 at 512 E. William St. near campus — a coffee business that added pizza and is credited with being the first place in Ann Arbor to serve it. Franchising began in Ypsilanti in 1986, and the chain now runs more than 50 locations across Michigan and Ohio.",
       "descriptor": "Branch of the Ann Arbor pizza chain founded in 1948",
@@ -481,6 +649,20 @@
         "name": "Crisler Center",
         "lat": 42.26504,
         "lng": -83.74671
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "curry-on": {
+      "text": "Owners Rutul Patel and Swetang Patel (no relation, despite the shared surname) first opened as Curry Up, then renamed the place Curry On in March 2014 after Palo Alto's Curry Up Now, which was expanding nationally, objected to the name. The Plymouth Rd. counter does kati rolls, samosa chaat and biryani on a heavily vegetarian menu, plus jalebi and gulab jamun for dessert.",
+      "descriptor": "Indian street-food counter on Plymouth Rd — kati rolls and samosa chaat",
+      "sources": [
+        "https://annarborobserver.com/curry-on/",
+        "https://www.roostcafeandbistro.com/curry-on-48105/"
+      ],
+      "writtenFor": {
+        "name": "Curry On",
+        "lat": 42.3039,
+        "lng": -83.70689
       },
       "writtenOn": "2026-09-07"
     },
@@ -523,6 +705,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "don-juan-mexican-bar-grill": {
+      "text": "The West Stadium Boulevard Don Juan is one of two Ann Arbor restaurants in the Los Amigos Don Juan group, which has nine locations across Michigan and Ohio and describes itself as a family dream built on recipes passed down through generations. The kitchen sticks to traditional plates — tacos al carbon, the Molcajete Maya, mojarra frita and coctel de camaron — alongside the margaritas, a local favorite.",
+      "descriptor": "Mexican bar and grill at 2135 W. Stadium Blvd with margaritas and molcajetes",
+      "sources": [
+        "https://donjuanandlosamigos.net/",
+        "https://donjuanandlosamigos.net/losamigosdonjuan-west-stadium"
+      ],
+      "writtenFor": {
+        "name": "Don Juan Mexican Bar & Grill",
+        "lat": 42.2722,
+        "lng": -83.7763
+      },
+      "writtenOn": "2026-09-07"
+    },
     "earthen-jar": {
       "text": "Ann Arbor's by-weight Indian buffet: everything is vegetarian, much of it vegan, and it's priced by the pound ($10.99) rather than by the plate — a Fifth Ave. fixture since 1997. Dishes like channa masala, mattar paneer and shahi korma sabzi rotate through the steam table, with vegan, gluten-free, kosher and halal options flagged.",
       "descriptor": "Pay-by-the-pound vegetarian Indian buffet on S. Fifth Ave. since 1997",
@@ -531,6 +727,19 @@
         "name": "Earthen Jar",
         "lat": 42.27912,
         "lng": -83.74594
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "east-quad-dining-hall": {
+      "text": "East Quad dates to 1940 and reopened in fall 2013 after a $116 million renovation whose dining hall seats 430 with station-style service — grill, pizza, deli and vegan stations. The building also houses U-M's Residential College with its 15 classrooms and studios, and the renovation removed the basement's old Halfway Inn.",
+      "descriptor": "U-M dining hall inside 1940s East Quad, home of the Residential College",
+      "sources": [
+        "https://www.annarbor.com/news/university-of-michigans-east-quad-open-after-a-116-renovation/"
+      ],
+      "writtenFor": {
+        "name": "East Quad Dining Hall",
+        "lat": 42.27309,
+        "lng": -83.73512
       },
       "writtenOn": "2026-09-07"
     },
@@ -584,6 +793,31 @@
         "name": "Evergreen - Logan",
         "lat": 42.30376,
         "lng": -83.70582
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "evergreen-downtown": {
+      "text": "Greg Guo had run Evergreen on Plymouth Rd. for three decades before opening this second location at 208 W. Liberty, in the brick building behind Bill's Beer Garden that Chow Asian Street Food had occupied. The shorter menu here is pitched as modern Chinese — more seasonal and playful — with wide-noodle beef, cumin lamb and dry pot, a wok-cooked take on hot pot.",
+      "descriptor": "Modern Chinese restaurant at 208 W. Liberty, downtown offshoot of Evergreen",
+      "sources": [
+        "https://annarborobserver.com/evergreen-expands-to-downtown/",
+        "https://www.roostcafeandbistro.com/evergreen-downtown-48104/"
+      ],
+      "writtenFor": {
+        "name": "Evergreen - Old West Side",
+        "lat": 42.27977,
+        "lng": -83.75035
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "first-bite": {
+      "text": "First Bite opened at 108 S. Main in the space left empty when the vegetarian Back2Roots Bistro closed suddenly in late 2016, serving wraps, grain bowls, salads and smoothies built around a chickpea-beet burger and a Thai peanut wrap. As of a 2017 Ann Arbor Observer review, it billed itself as the only place in southeast Michigan where you could get kava, the South Pacific drink made from ground root.",
+      "descriptor": "Health-food counter on S. Main with wraps, bowls, smoothies and kava",
+      "sources": ["https://annarborobserver.com/first-bite/"],
+      "writtenFor": {
+        "name": "First Bite",
+        "lat": 42.28116,
+        "lng": -83.7487
       },
       "writtenOn": "2026-09-07"
     },
@@ -647,6 +881,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "furstenberg-nature-area": {
+      "text": "The land belonged to Albert and Elizabeth Furstenberg until 1971, when Ann Arbor bought it for $90,000 with a HUD Open Space grant; after 1990s restoration work the park had its grand opening in 1996. Its 38 acres hold wetlands, woods, prairie and oak savanna, cared for with controlled burns since 1996, and a quarter-mile of wetland boardwalk connects to Gallup Park.",
+      "descriptor": "38-acre Huron River nature area with wetlands, prairie and a boardwalk",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/furstenberg-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Furstenberg Nature Area",
+        "lat": 42.27996,
+        "lng": -83.70722
+      },
+      "writtenOn": "2026-09-07"
+    },
     "george-washington-park": {
       "text": "This sliver of park exists for one thing: The Rock, a 23-ton boulder that parks superintendent Eli Gallup pulled from a city gravel pit and installed in 1932 for George Washington's 200th birthday. Visiting Michigan State students painted it in their colors in the mid-1950s, Michigan students painted back, and it has been repainted ever since — the buildup was about five inches thick by 2010.",
       "descriptor": "Traffic-triangle park at Washtenaw and Hill, home of The Rock",
@@ -658,6 +905,17 @@
         "name": "George Washington Park",
         "lat": 42.2726,
         "lng": -83.72844
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ginger-deli": {
+      "text": "Ginger Deli was opened in summer 2014 by Te Phan, a former automotive designer and classical pianist who describes the food as \"like a watercolor painting, it's very bold but sensitive and delicate.\" The Vietnamese counter is known for banh mi on bread baked daily and house-made ingredients.",
+      "descriptor": "Vietnamese deli known for banh mi and house-baked bread",
+      "sources": ["https://www.gingerdeli.com/"],
+      "writtenFor": {
+        "name": "Ginger Deli - Northside",
+        "lat": 42.29875,
+        "lng": -83.72178
       },
       "writtenOn": "2026-09-07"
     },
@@ -697,6 +955,17 @@
         "name": "Haifa Falafel",
         "lat": 42.29881,
         "lng": -83.72108
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "heathdale-collection": {
+      "text": "Heathdale is one of the named collections inside Nichols Arboretum, the 128-acre \"Arb\" that opened to the public in 1907 after the Chicago firm of O.C. Simonds drew up plans in 1906. It is planted with ericaceous and Appalachian species — Catawba and rosebay rhododendrons, azaleas and mountain laurel — and some of its specimens trace to plant-collecting expeditions of the 1920s.",
+      "descriptor": "Rhododendron and Appalachian plant valley inside Nichols Arboretum",
+      "sources": ["https://en.wikipedia.org/wiki/Nichols_Arboretum"],
+      "writtenFor": {
+        "name": "Heathdale Collection",
+        "lat": 42.28096,
+        "lng": -83.72378
       },
       "writtenOn": "2026-09-07"
     },
@@ -747,6 +1016,20 @@
         "name": "Holiday's Restaurant",
         "lat": 42.27247,
         "lng": -83.77516
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "hollway-field": {
+      "text": "Hollway Field is Ann Arbor Pioneer High School's football stadium, named for Lou Hollway, a longtime athletic teacher at the school. It is also the home ground of AFC Ann Arbor — \"The Mighty Oak\" — the USL League Two club founded in 2014 that returned to this original home in 2023 after stints at Skyline High, Concordia and Saline.",
+      "descriptor": "Pioneer High football stadium, home ground of AFC Ann Arbor soccer",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bob_Hollway",
+        "https://en.wikipedia.org/wiki/AFC_Ann_Arbor"
+      ],
+      "writtenFor": {
+        "name": "Hollway Field",
+        "lat": 42.25965,
+        "lng": -83.75213
       },
       "writtenOn": "2026-09-07"
     },
@@ -806,6 +1089,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "iggys-eggies": {
+      "text": "Eli Boyer, a U-M grad who also founded the Ferndale seafood bistro Voyager, started Iggy's Eggies as a walk-up window in downtown Detroit before opening this E. Liberty shop in the former Salads UP space in June 2024. The name came from his three-year-old daughter shouting for the Mario Kart character Iggy. The draw is a build-your-own egg sandwich with a runny yolk and a mustard-based house sauce.",
+      "descriptor": "Custom runny-yolk egg sandwiches on E. Liberty, from Detroit, since 2024",
+      "sources": [
+        "https://annarborobserver.com/iggys-eggies-opens/",
+        "https://iggyseggies.com/"
+      ],
+      "writtenFor": {
+        "name": "Iggy's Eggies",
+        "lat": 42.27948,
+        "lng": -83.74148
+      },
+      "writtenOn": "2026-09-07"
+    },
     "ingalls-mall": {
       "text": "The pedestrian mall is where the Ann Arbor Summer Festival stages Top of the Park — free outdoor concerts, Movies by Moonlight and street performances on the campus green.",
       "descriptor": "Campus green on Ingalls Mall, home of the Summer Festival's Top of the Park",
@@ -814,6 +1111,19 @@
         "name": "Ingalls Mall",
         "lat": 42.2795,
         "lng": -83.73824
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "island-park": {
+      "text": "The 5.6-acre park wraps a 1.8-acre island in the Huron River, reached by footbridges — the concrete one on the west end dates to 1918. Its Greek Revival shelter, built in 1914 by low bidder John Koch for about $860 and originally fitted with public restrooms, is the oldest shelter in the Ann Arbor park system and was designated historic by the city in the mid-1990s.",
+      "descriptor": "Park on an island in the Huron River, with a 1914 Greek Revival shelter",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/island-park/"
+      ],
+      "writtenFor": {
+        "name": "Island Park",
+        "lat": 42.2896,
+        "lng": -83.72968
       },
       "writtenOn": "2026-09-07"
     },
@@ -878,6 +1188,17 @@
         "name": "Jolly Pumpkin",
         "lat": 42.27916,
         "lng": -83.74846
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kanbu-sushi-downtown": {
+      "text": "Tiffany Kim took over the downtown Nagomi Sushi space at 241 E. Liberty when its lease came up and reopened it in December 2020 as Kanbu — Japanese for \"executive\" or \"leader.\" The menu leans Japanese-Korean: build-your-own rolls wrapped in seaweed or colored soybean paper, sashimi, cupbop rice bowls, and sushi burritos stuffed with bibimbap, bulgogi or katsu.",
+      "descriptor": "Japanese-Korean sushi and rice bowls on E. Liberty since 2020",
+      "sources": ["https://annarborobserver.com/kanbu-sushi-downtown/"],
+      "writtenFor": {
+        "name": "Kanbu Sushi Downtown",
+        "lat": 42.27965,
+        "lng": -83.74665
       },
       "writtenOn": "2026-09-07"
     },
@@ -969,6 +1290,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "lan-city-noodle-bar": {
+      "text": "This is the second outpost of Lan City Noodles, whose original sits on Washtenaw Ave. in Ypsilanti; owner Soon Heng Gin opened the South University location in September 2021 in a space that had been Social House and, before that, Leo's Coney Island. The draw is Lanzhou-style noodles, hand-pulled or knife-cut, in beef-bone broth. When the Observer called, a manager said they were too short-staffed to want more customers.",
+      "descriptor": "Lanzhou hand-pulled noodle bar on S. University Ave",
+      "sources": [
+        "https://annarborobserver.com/lan-city-noodles/",
+        "https://www.roostcafeandbistro.com/lan-city-noodle-bar-ann-arbor-48104/"
+      ],
+      "writtenFor": {
+        "name": "Lan City Noodle Bar",
+        "lat": 42.27517,
+        "lng": -83.73332
+      },
+      "writtenOn": "2026-09-07"
+    },
     "leslie-park": {
       "text": "The city bought the 207-acre Hagen Farm from Eugene and Emily Leslie in 1963 — the largest property Ann Arbor has ever purchased for parks. The Leslies sold it on $15,000-a-year installments, then forgave the remaining debt in their wills and left a half-million-dollar trust fund on top of it. The farm became Leslie Park, the golf course, Leslie Woods and the Leslie Science Center.",
       "descriptor": "North-side park with ball fields, a sledding hill and a community food forest",
@@ -1020,6 +1355,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "lowertown-bar-cafe": {
+      "text": "The building started life in 1938 as a mechanic's garage, and the restored, cinder-block space now works as a coffee shop by day and a cocktail bar after dark. Mornings run on Hyperion coffee roasted in Ypsilanti, plus pastries from local bakeshops; there's no on-site kitchen, so food trucks park outside most evenings, and the patio keeps fire pits going in winter.",
+      "descriptor": "Coffee by day, cocktail bar by night in Ann Arbor's historic Northside",
+      "sources": ["https://lowertowna2.com/about"],
+      "writtenFor": {
+        "name": "Lowertown Bar & Cafe",
+        "lat": 42.28981,
+        "lng": -83.73871
+      },
+      "writtenOn": "2026-09-07"
+    },
     "lucky-kitchen": {
       "text": "Serving Plymouth Rd. since the late 1990s, Lucky Kitchen leans hard into the university crowd — it accepts U-M shortcodes for catering orders and delivers meals through Ann Arbor Meals on Wheels. It also runs an \"LK Fit\" menu of steamed dishes made with no oil or salt added.",
       "descriptor": "Chinese takeout and delivery on Plymouth Rd. in Ann Arbor",
@@ -1028,6 +1374,20 @@
         "name": "Lucky Kitchen",
         "lat": 42.29836,
         "lng": -83.72117
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "m-36-coffee-roasters": {
+      "text": "M-36's owners, Lisa and Ken, learned the cafe trade at Espresso Royale, the Italian-inspired coffee company they came up through in the late 1980s; when it closed in the COVID-19 shutdown they bought the roasting business and launched M-36 Coffee Roasters in 2020. They roast in Whitmore Lake and pour it at this cafe at 1101 S. University.",
+      "descriptor": "Roaster's cafe on S. University, with coffee roasted in Whitmore Lake",
+      "sources": [
+        "https://m36coffeeroasters.com/pages/about-us",
+        "https://m36coffeeroasters.com/"
+      ],
+      "writtenFor": {
+        "name": "M-36 Coffee Roasters",
+        "lat": 42.27512,
+        "lng": -83.73565
       },
       "writtenOn": "2026-09-07"
     },
@@ -1045,6 +1405,31 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "madras-masala-express": {
+      "text": "Madras Masala spent two decades on Maynard St. downtown until a January 20, 2023 fire that started in its kitchen destroyed the building; owner Gopalsamy Ramanujam, who bought the restaurant from its founder in 2014, said he would reopen in Ann Arbor \"100 percent.\" It came back, including this express counter on Broadway St.",
+      "descriptor": "Indian restaurant on Broadway St, express offshoot of Madras Masala",
+      "sources": [
+        "https://annarborobserver.com/after-the-fire/",
+        "https://localwiki.org/ann-arbor/2023_Maynard_Street_fire"
+      ],
+      "writtenFor": {
+        "name": "Madras Masala - Northside",
+        "lat": 42.29079,
+        "lng": -83.73695
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mama-satto": {
+      "text": "",
+      "descriptor": "Japanese-Korean sushi, ramen and noodle spot on N. University near campus",
+      "sources": ["https://restaurantguru.com/Mama-Satto-Ann-Arbor"],
+      "writtenFor": {
+        "name": "Mama Satto",
+        "lat": 42.27875,
+        "lng": -83.74005
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mani-osteria-and-bar": {
       "text": "Mani has served Italian osteria food at 341 E. Liberty since 2011. The name is simply the Italian word for \"hands\" — as the restaurant puts it, \"'Mani' means hands, and since 2011 ours have been busy.\"",
       "descriptor": "Italian osteria at 341 E. Liberty St., open since 2011",
@@ -1053,6 +1438,17 @@
         "name": "Mani Osteria and Bar",
         "lat": 42.27959,
         "lng": -83.74423
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "markley-dining-hall": {
+      "text": "The dining hall sits inside Mary Markley Hall, the 1503 Washington Heights dorm completed in 1959 for about $6.1 million and named for Mary Butler Markley, a faculty widow active in alumnae affairs. It was built to house roughly 1,000 women students and went coed in 1963, and it is one of only two dining halls serving U-M's Hill neighborhood.",
+      "descriptor": "Dining hall inside U-M's Mary Markley residence hall on the Hill",
+      "sources": ["https://en.wikipedia.org/wiki/Mary_Markley_Hall"],
+      "writtenFor": {
+        "name": "Markley Dining Hall",
+        "lat": 42.28096,
+        "lng": -83.7288
       },
       "writtenOn": "2026-09-07"
     },
@@ -1119,6 +1515,20 @@
         "name": "Mighty Good Coffee",
         "lat": 42.28303,
         "lng": -83.74858
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "minys-mexican-restaurant": {
+      "text": "Miny Morales started her own kitchen on Washtenaw Rd in Ypsilanti in 2017 and built the menu around her own cooking; her three sons, Fernando, Rodolfo and Rudy, all work in the business full-time, and this Lower Town location opened in 2024. Look for hand-made huaraches, squash-blossom quesadillas, pambazos, and the famously oversized \"Miny burrito.\"",
+      "descriptor": "Family-run Mexican kitchen at 1141 Broadway in Lower Town",
+      "sources": [
+        "https://minysmexicanrestaurant.com/about/",
+        "https://minysmexicanrestaurant.com/"
+      ],
+      "writtenFor": {
+        "name": "Miny's Mexican Restaurant",
+        "lat": 42.29075,
+        "lng": -83.73704
       },
       "writtenOn": "2026-09-07"
     },
@@ -1197,6 +1607,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "namaste-flavours": {
+      "text": "",
+      "descriptor": "Indian restaurant on S. Division serving South Indian dishes",
+      "sources": [
+        "https://www.yelp.com/biz/namaste-flavours-ann-arbor-3",
+        "https://www.restaurantji.com/mi/ann-arbor/namaste-flavours-/"
+      ],
+      "writtenFor": {
+        "name": "Namaste Flavours",
+        "lat": 42.27765,
+        "lng": -83.74437
+      },
+      "writtenOn": "2026-09-07"
+    },
     "nelson-meade-county-farm-park": {
       "text": "Washtenaw County has owned this ground since 1836, when it bought 141 acres from Claudius Britton, and from 1837 it was the county poor farm — later the Washtenaw Infirmary, which closed in 1971 and was demolished in 1979. Project Grow began gardening eight acres here in 1972 and it remains the oldest and largest site in its network. The county renamed the park in 2013 for Nelson Meade, who served on its parks commission for more than 40 years.",
       "descriptor": "141-acre county park with trails and Project Grow community garden plots",
@@ -1255,6 +1679,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "north-quad-dining-hall": {
+      "text": "The dining hall anchors North Quadrangle, which opened in fall 2010. The University of Michigan built it as a marketplace-style dining center rather than a single cafeteria line, alongside modern student rooms, a high-tech media gateway, classrooms and seminar spaces, and lounges on each floor.",
+      "descriptor": "Marketplace-style dining hall in North Quad, opened in fall 2010",
+      "sources": [
+        "https://en.wikipedia.org/wiki/University_of_Michigan_student_housing"
+      ],
+      "writtenFor": {
+        "name": "North Quad Dining Hall",
+        "lat": 42.28055,
+        "lng": -83.7399
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "north-star-lounge": {
+      "text": "Phillis Engelbert of Detroit Street Filling Station opened North Star in October 2022 at Fifth and Catherine. The all-vegan bar — billed as Michigan's only one — fills an 1887 building that started life as a horse stable and most recently housed a day spa; the upstairs room hosts live music five nights a week, with themed nights for Hot Club jazz, piano bar and bluegrass.",
+      "descriptor": "All-vegan bar and live-music venue at 301 N. Fifth Ave., opened 2022",
+      "sources": [
+        "https://annarborobserver.com/the-north-star-lounge-opens/",
+        "https://annarborobserver.com/guide/north-star-lounge/"
+      ],
+      "writtenFor": {
+        "name": "North Star Lounge",
+        "lat": 42.28333,
+        "lng": -83.74611
+      },
+      "writtenOn": "2026-09-07"
+    },
     "northside-grill": {
       "text": "Jim Koli has run this Broadway St. diner since 1993, and weekend breakfast lines routinely stretch down the block. The building once housed the Cloverleaf Dairy, and vintage dairy photographs still hang on the walls.",
       "descriptor": "Broadway St. breakfast diner in a former Cloverleaf Dairy, open since 1993",
@@ -1266,6 +1717,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "northwest-tower-ross": {
+      "text": "One of the brick corner towers of Michigan Stadium — the Big House. Its official capacity, 107,601, has carried one unexplained \"extra\" seat since 1956, said to belong to coach Fritz Crisler; nobody knows which seat it is. A record 115,109 crowded in for Notre Dame in September 2013.",
+      "descriptor": "Corner tower of Michigan Stadium, the 107,601-seat Big House",
+      "sources": [
+        "https://mgoblue.com/sports/2017/6/16/facilities-michigan-stadium-html.aspx"
+      ],
+      "writtenFor": {
+        "name": "Northwest Tower (Ross)",
+        "lat": 42.2665,
+        "lng": -83.74994
+      },
+      "writtenOn": "2026-09-07"
+    },
     "old-town-tavern": {
       "text": "Open since 1972 at 122 W. Liberty, the Old Town started as a blue-collar bar that opened at 6 a.m. to accommodate third-shift workers from area factories. It calls itself one of downtown Ann Arbor's most beloved townie bars.",
       "descriptor": "Townie bar at 122 W. Liberty, established 1972",
@@ -1274,6 +1738,17 @@
         "name": "Old Town Tavern",
         "lat": 42.27973,
         "lng": -83.74971
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "one-bowl": {
+      "text": "",
+      "descriptor": "Asian rice-bowl shop on South University in the campus block",
+      "sources": [],
+      "writtenFor": {
+        "name": "One Bowl",
+        "lat": 42.27472,
+        "lng": -83.73329
       },
       "writtenOn": "2026-09-07"
     },
@@ -1316,6 +1791,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "panda-house": {
+      "text": "Owner Eric Cheng, who is from Fujian province, has run Panda House in Maple Village since about 2005, and in 2015 opened a second Ann Arbor restaurant, Chopsticks, with largely the same menu. It serves the American-Chinese standards plus pad Thai — made, Cheng told the Ann Arbor Observer, with the same noodles as the Fujian noodle soup he grew up on, which isn't on the menu here.",
+      "descriptor": "Chinese restaurant in the Maple Village shopping center, owner-run since ~2005",
+      "sources": ["https://annarborobserver.com/eric-cheng-opens-chopsticks/"],
+      "writtenFor": {
+        "name": "Panda House",
+        "lat": 42.28447,
+        "lng": -83.78334
+      },
+      "writtenOn": "2026-09-07"
+    },
     "peony-garden": {
       "text": "William E. Upjohn, a U-M medical alumnus, donated his personal peony collection to the Arb in 1922, and the garden opened in 1927 with 280 cultivars. About 196 of those originals still grow among roughly 350 cultivars today — the largest public collection of heirloom, pre-1950 herbaceous peonies in North America. Peak bloom is late May into early June.",
       "descriptor": "Heirloom peony garden in Nichols Arboretum; blooms late May–early June",
@@ -1335,6 +1821,34 @@
         "name": "Pilar’s Tamales",
         "lat": 42.27369,
         "lng": -83.77756
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pita-kabob-grill": {
+      "text": "A small counter-service Mediterranean shop at 619 E. William, a block off central campus, built around made-to-order shawarma, grilled kabobs, pita wraps and falafel. The menu leans Lebanese, and it keeps student-friendly late hours six days a week, closing entirely on Sundays.",
+      "descriptor": "Counter-service Mediterranean shawarma and kabob shop on E. William St",
+      "sources": [
+        "https://pitakabobgrill.com/",
+        "https://www.restaurantji.com/mi/ann-arbor/pita-kabob-grill-/"
+      ],
+      "writtenFor": {
+        "name": "Pita Kabob Grill",
+        "lat": 42.27797,
+        "lng": -83.74112
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pita-king": {
+      "text": "",
+      "descriptor": "Middle Eastern pita and shawarma counter on E. Stadium Blvd",
+      "sources": [
+        "https://pitakingannarbor.com/",
+        "https://pitakingannarbor.com/?page_id=11"
+      ],
+      "writtenFor": {
+        "name": "Pita King",
+        "lat": 42.25889,
+        "lng": -83.71245
       },
       "writtenOn": "2026-09-07"
     },
@@ -1360,6 +1874,31 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "pizza-pazza": {
+      "text": "Pizza Pazza started as a wood-fired food truck before growing into a permanent home inside Kerrytown Market & Shops. The kitchen keeps to Neapolitan rules — poolish-fermented dough fired at 900 degrees in about three minutes, and a sauce that is plum tomatoes, olive oil and sea salt, nothing more.",
+      "descriptor": "Wood-fired Neapolitan pizzeria inside Kerrytown Market on N. Fifth Ave",
+      "sources": ["https://pizzapazzaa2.com/"],
+      "writtenFor": {
+        "name": "Pizza Pazza",
+        "lat": 42.28455,
+        "lng": -83.7464
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "poke-poke": {
+      "text": "Poke Poke landed at 312 S. State St. in 2019 — the fifth poke place to open in Ann Arbor inside a single year — as an outpost of a Southfield-based chain that now lists a dozen Michigan locations plus three in the Tampa area. The pitch is \"sushi unrolled\": one build-your-own counter, vegan and gluten-free items labeled on the menu, and basement seating students use for studying.",
+      "descriptor": "Build-your-own poke bowls at 312 S. State St. near North University",
+      "sources": [
+        "https://annarborobserver.com/sushi-unrolled-at-poke-poke/",
+        "https://eatpokepoke.com/"
+      ],
+      "writtenFor": {
+        "name": "Poke Poke",
+        "lat": 42.27888,
+        "lng": -83.74095
+      },
+      "writtenOn": "2026-09-07"
+    },
     "pretzel-bell": {
       "text": "The original Pretzel Bell ran from 1934 to 1985 at 120 E. Liberty, a gathering place for townies and students where celebrations meant ringing the house bell and the Michigan Daily staff, the Men's Glee Club and bluegrass band the RFD Boys were regulars. The name was revived at 226 S. Main, where the P-Bell still trades on that U-M history.",
       "descriptor": "U-M-themed bar and grill at 226 S. Main",
@@ -1374,6 +1913,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "professors-monument": {
+      "text": "A half-broken limestone column on a low pedestal at the southeast corner of the Hatcher Graduate Library — the snapped shaft is the old symbol for a life cut short. Its plaques honor early U-M professors, among them Douglass Houghton, Michigan's first state geologist and the \"father of copper mining,\" who drowned in Lake Superior in 1845 at 36.",
+      "descriptor": "Broken-column memorial at the SE corner of Hatcher Graduate Library",
+      "sources": ["https://en.wikipedia.org/wiki/Douglass_Houghton"],
+      "writtenFor": {
+        "name": "Professors’ Monument",
+        "lat": 42.27609,
+        "lng": -83.73769
+      },
+      "writtenOn": "2026-09-07"
+    },
     "project-grow-gardens": {
       "text": "Project Grow has run organic community gardens in Ann Arbor since 1972, and now manages roughly two dozen sites and more than 350 plots around the city. This one sits on the Leslie Science & Nature Center grounds and has 37 raised beds.",
       "descriptor": "Community garden plots at Leslie Science & Nature Center",
@@ -1385,6 +1935,31 @@
         "name": "Project Grow Gardens",
         "lat": 42.30121,
         "lng": -83.72921
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "quickly": {
+      "text": "Quickly is the American arm of Taiwan's Kuai Ke Li tapioca-milk-tea franchise, founded by Nancy Yang and now past 2,000 stores worldwide. The U.S. side launched in California in 1996 and marketed itself as an Asian-fusion cafe rather than a plain boba stand, later adding frozen yogurt and Hong Kong-style egg puffs.",
+      "descriptor": "Taiwanese bubble tea cafe on S. University Ave",
+      "sources": ["https://en.wikipedia.org/wiki/Quickly"],
+      "writtenFor": {
+        "name": "Quickly",
+        "lat": 42.27491,
+        "lng": -83.73348
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "rappourt": {
+      "text": "Rappourt took over the Plymouth Road Mall space that had long been the Wine Seller, reopening in 2017 as a north-side pub built around forty-some beers and communal tables. The Ann Arbor Observer found a menu wandering from kung pao wings to moussaka lasagnette, though the bartender's summary was simpler: \"This is a bar in Michigan, so basically we serve burgers.\"",
+      "descriptor": "Family-owned gastropub with 36 rotating taps in the Plymouth Road Mall",
+      "sources": [
+        "https://annarborobserver.com/rappourt-brew-chew/",
+        "https://www.rappourt.com/"
+      ],
+      "writtenFor": {
+        "name": "Rappourt",
+        "lat": 42.30418,
+        "lng": -83.70671
       },
       "writtenOn": "2026-09-07"
     },
@@ -1501,6 +2076,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "saica": {
+      "text": "Saica has fed the Plymouth Road side of town since 1998 from a small storefront under three orange awnings in a courtyard of one-story shops, mixing Japanese and Korean cooking — sushi rolls next to curry udon, gyoza and seaweed salad. Owner You Na's stated rule: she'll only serve customers food she would feed her own kids.",
+      "descriptor": "Japanese-Korean sushi and noodle spot on Plymouth Rd, open since 1998",
+      "sources": [
+        "https://saicarestaurant.com/",
+        "https://www.ecurrent.com/food/saica-is-a-pitch-perfect-blend-of-japanese-and-korean-cuisine/"
+      ],
+      "writtenFor": {
+        "name": "Saica",
+        "lat": 42.29875,
+        "lng": -83.72164
+      },
+      "writtenOn": "2026-09-07"
+    },
     "savas": {
       "text": "Sava Lelcaj opened a 24-seat cafe on State St. in 2007; when Zanzibar across the street closed in 2009 she moved into its space and expanded to 300 seats. Now Sava Farah, she has built the Pulpo Group around it, which also runs Aventura, the Dixboro Project and Orijin Bakery.",
       "descriptor": "All-day restaurant and brunch spot at 216 S. State St.",
@@ -1526,6 +2115,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "sculpture-plaza": {
+      "text": "This small plaza on the seam between downtown Ann Arbor and Kerrytown is anchored by the Kerrytown Arch, an 18-foot corten-steel sculpture by David Heberling erected in 1977 with a Michigan Council for the Arts grant and restored in 2007–08 after graffiti damage. Picnic tables, seating and bike racks sit beneath it, and the People's Food Co-op tends two large gardens here through the city's Adopt-a-Park program.",
+      "descriptor": "Pocket park at 230 N. Fourth Ave. under the 18-foot Kerrytown Arch",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/sculpture-plaza/"
+      ],
+      "writtenFor": {
+        "name": "Sculpture Plaza",
+        "lat": 42.283,
+        "lng": -83.74693
+      },
+      "writtenOn": "2026-09-07"
+    },
     "seva": {
       "text": "Steve Bellock and Barney Greenbaum started Seva Longevity Cookery in Columbus in 1971; Bellock moved to Ann Arbor in 1973 and turned the Soybean Cellars restaurant — in a former VFW hall on E. Liberty — into Seva, an all-vegetarian menu at a time that was nearly unheard of. Head cook Maren Jackson and her husband Jeff bought it in 1997, and in 2014 it left downtown for Westgate at Jackson and Maple.",
       "descriptor": "Vegetarian restaurant at Westgate on Jackson Ave., in Ann Arbor since 1973",
@@ -1548,6 +2150,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "side-biscuit": {
+      "text": "Jordan Balduf started Side Biscuit out of his own driveway in spring 2020, built a following at pop-ups around Ann Arbor and Michigan, and then took a permanent shop on Packard Street. The namesake side — the Weckscuit — is a buttermilk drop biscuit with caraway and smoked sea salt, served with horseradish crema.",
+      "descriptor": "Wing shop on Packard St with its namesake buttermilk biscuits",
+      "sources": ["https://side-biscuit.site.tryotter.com/"],
+      "writtenFor": {
+        "name": "Side Biscuit",
+        "lat": 42.26525,
+        "lng": -83.73475
+      },
+      "writtenOn": "2026-09-07"
+    },
     "slurping-turtle": {
       "text": "Chef Takashi Yagihashi — a Top Chef Masters fan favorite whose Chicago original took a Michelin Bib Gourmand in 2013 — brought Slurping Turtle from Chicago to E. Liberty in spring 2014. The noodles are made in house, and the turtle in the name is a Japanese symbol of longevity and good luck.",
       "descriptor": "Japanese ramen and sushi on E. Liberty from chef Takashi Yagihashi",
@@ -1559,6 +2172,20 @@
         "name": "Slurping Turtle",
         "lat": 42.27927,
         "lng": -83.7416
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "songbird-cafe": {
+      "text": "Jenny Song's original Songbird Café on Plymouth Rd. was an instant success even with a Starbucks nearby, which pushed her to open a smaller second Songbird on Jackson Ave. in 2015 — \"something smaller, where we could edit down our menu.\" The west-side spinoff closed in June 2021 for staffing shortages and reopened in February 2022; the Plymouth Rd. original never closed.",
+      "descriptor": "Breakfast-and-lunch cafe on Plymouth Rd with espresso and baked goods",
+      "sources": [
+        "https://annarborobserver.com/a-second-songbird-cafe-opens/",
+        "https://annarborobserver.com/songbird-west-flies-again/"
+      ],
+      "writtenFor": {
+        "name": "Songbird Café",
+        "lat": 42.30368,
+        "lng": -83.70683
       },
       "writtenOn": "2026-09-07"
     },
@@ -1600,6 +2227,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "spiedo": {
+      "text": "Brad Greenhill — a Cleveland-born U-M engineering grad turned self-taught chef, best known for the acclaimed Detroit restaurant Takoi — opened Spiedo in September 2023 after delays from equipment supply-chain trouble, break-ins and DIY general contracting. Nearly everything comes off two vertical rotisseries and a griddle, about half the menu is vegetarian, and the space was Chela's before he took it.",
+      "descriptor": "\"Mediterranean-ish\" rotisserie and griddle at 307 S. Fifth Ave., opened 2023",
+      "sources": [
+        "https://annarborobserver.com/spiedo-opens-at-last/",
+        "https://www.spiedoa2.com/"
+      ],
+      "writtenFor": {
+        "name": "Spiedo",
+        "lat": 42.27921,
+        "lng": -83.74597
+      },
+      "writtenOn": "2026-09-07"
+    },
     "sweetwaters-coffee-tea": {
       "text": "Wei and Lisa Bee founded the first Sweetwaters in downtown Ann Arbor in 1993, near their alma mater, pairing classic café fare with globally influenced coffees and teas. The brand has since franchised well beyond Michigan, and the founders remain part of daily life in the stores.",
       "descriptor": "Coffee and tea house at 123 W. Washington St.; Ann Arbor-born since 1993",
@@ -1611,6 +2252,20 @@
         "name": "Sweetwater's Coffee & Tea - Old West Side",
         "lat": 42.28042,
         "lng": -83.74966
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "taq-taqueria-restaurant-bar": {
+      "text": "Cynthia Gagalis Messmore opened it as La Taqueria in 2018 at 106 E. Liberty with just eight tables and a half-dozen barstools; it has since moved into the original Pretzel Bell building at Liberty and S. Fourth and more than quadrupled its seating, and a Tribeca offshoot followed in 2023. Her son Mark: \"Just because they're tacos doesn't mean it has to be Mexican food.\"",
+      "descriptor": "Gourmet taco and margarita bar in downtown Ann Arbor's Pretzel Bell building",
+      "sources": [
+        "https://annarborobserver.com/an-expansion-for-taq/",
+        "https://www.taqrestaurants.com/"
+      ],
+      "writtenFor": {
+        "name": "TAQ | Taqueria Restaurant & Bar",
+        "lat": 42.27946,
+        "lng": -83.74809
       },
       "writtenOn": "2026-09-07"
     },
@@ -1636,6 +2291,20 @@
         "name": "The Ark",
         "lat": 42.27906,
         "lng": -83.74881
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-black-pearl": {
+      "text": "Open at 302 S. Main since 2008 under Harry and Jan Cohen, Black Pearl made its name on contemporary interpretations of classic seafood, with a sushi chef working alongside the kitchen. Heated greenhouse dining out front lets the outdoor seats stay in use through a Michigan winter.",
+      "descriptor": "Seafood and sushi restaurant on S. Main St downtown, open since 2008",
+      "sources": [
+        "https://blackpearlannarbor.com/about/",
+        "https://blackpearlannarbor.com/"
+      ],
+      "writtenFor": {
+        "name": "The Black Pearl",
+        "lat": 42.27942,
+        "lng": -83.74879
       },
       "writtenOn": "2026-09-07"
     },
@@ -1728,6 +2397,31 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "the-grotto-watering-hole": {
+      "text": "It opened in January 2015 as the Beer Grotto, a compact sister to the Dexter bar, at 303 S. Ashley on the corner of Ashley and Liberty. Thirty-six rotating taps lean heavily on Michigan breweries like Short's, Kuhnhenn and Greenbush, and you can fill a growler to take home — the draw is the tap list, the cozy loft and the patio.",
+      "descriptor": "Craft beer bar at Ashley & Liberty with 36 rotating taps and a patio",
+      "sources": ["https://lifeinmichigan.com/beer-grotto-ann-arbor/"],
+      "writtenFor": {
+        "name": "The Grotto - Watering Hole",
+        "lat": 42.27948,
+        "lng": -83.74968
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-jagged-fork": {
+      "text": "The Ann Arbor storefront is one of six Jagged Forks around southeast Michigan — the others in Grosse Pointe Farms, Rochester Hills, West Bloomfield, Lathrup Village and Dearborn Heights — all working the same comfort-food breakfast and lunch menu of pancakes, omelets and sandwiches.",
+      "descriptor": "Metro Detroit breakfast-and-lunch chain's Ann Arbor spot on S. Main St",
+      "sources": [
+        "https://thejaggedfork.com/locations/annarbor/",
+        "https://thejaggedfork.com/"
+      ],
+      "writtenFor": {
+        "name": "The Jagged Fork",
+        "lat": 42.27749,
+        "lng": -83.74893
+      },
+      "writtenOn": "2026-09-07"
+    },
     "the-jefferson-market": {
       "text": "The little brick storefront across from Bach Elementary is a survivor from the pre-zoning era, when small markets dotted Ann Arbor's neighborhoods; since then it's been a party store, a cakery and a Mighty Good Coffee shop. Ed Green and Angie May, who met working at a small Berkeley diner, took it over in 2019 and reopened it after just three days closed.",
       "descriptor": "All-day breakfast and brunch cafe at 609 W. Jefferson on the Old West Side",
@@ -1806,6 +2500,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "thurston-nature-center": {
+      "text": "Founded in 1964 on the recommendation of U-M professor Bill Stapp — widely called the founder of environmental education — the center wraps 24 acres of trails, oak savannah, prairie and rain gardens around a seven-acre pond. Two islands built from dredged pond sediment in 2015 give birds a place to land, and snapping turtles, herons, egrets and merganser ducks turn up in summer.",
+      "descriptor": "24-acre nature preserve and seven-acre pond in the Thurston neighborhood",
+      "sources": [
+        "https://annarborobserver.com/tending-the-thurston-nature-center/"
+      ],
+      "writtenFor": {
+        "name": "Thurston Nature Center",
+        "lat": 42.30911,
+        "lng": -83.70085
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "tienda-la-libertad": {
+      "text": "A no-frills Latin American grocery at 2231 W. Liberty stocked with products from Mexico, Brazil, Argentina and beyond, with a food counter sharing the space where you order tacos, burritos, enchiladas and meat dishes to eat in or take away. Diners single out how customizable the tacos are.",
+      "descriptor": "Latin American market with a taco counter on W. Liberty St",
+      "sources": [
+        "https://restaurantguru.com/Tienda-La-Libertad-Ann-Arbor",
+        "https://www.mercato.com/shop/tienda-la-libertad"
+      ],
+      "writtenFor": {
+        "name": "Tienda La Libertad",
+        "lat": 42.27373,
+        "lng": -83.77716
+      },
+      "writtenOn": "2026-09-07"
+    },
     "tios-mexican-cafe": {
       "text": "Tios served Mexican food downtown from 1986, working with local farmers and vendors, until it closed after 40 years at 401 E. Liberty. In the notice on its own site the team pointed regulars still after the #4 and the house dressing to social media, hinting the food may resurface at farmers markets and other venues.",
       "descriptor": "Mexican cafe at 401 E. Liberty St. from 1986; closed after 40 years",
@@ -1867,6 +2588,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "umma-cafe": {
+      "text": "UMMA opened the cafe in early June 2019 as a two-year pilot with Michigan Dining, made possible by longtime museum volunteer and advocate Paola Luptak and aimed at drawing students and Ann Arbor and Ypsilanti community members into the building. The counter serves espresso drinks, tea and signature UMMA coffee alongside salads, sandwiches, pastries and bento boxes, with events, talks and concerts planned in the space.",
+      "descriptor": "Museum cafe at UMMA, 525 S. State St., run with Michigan Dining",
+      "sources": [
+        "https://umma.umich.edu/umma-cafe/",
+        "https://www.clickondetroit.com/all-about-ann-arbor/2019/05/13/university-of-michigan-museum-of-art-in-ann-arbor-to-open-umma-cafe-soon/"
+      ],
+      "writtenFor": {
+        "name": "UMMA Cafe",
+        "lat": 42.27585,
+        "lng": -83.73951
+      },
+      "writtenOn": "2026-09-07"
+    },
     "union-rec": {
       "text": "Union Rec opened November 30, 2022 inside the millwork shop of Fingerle Lumber, the S. Main Street lumberyard that ran 88 years before closing in 2019. Owners Ann Stevenson and Curt Catallo built the room around the idea of \"the best sleepover\" — salvaged, mismatched reupholstered chairs in clashing prints ringing a fireplace in the middle of the floor.",
       "descriptor": "Comfort food and cocktails in the old Fingerle Lumber shop on S. Main",
@@ -1921,6 +2656,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "uplift": {
+      "text": "Uplift opened in 2024 at 210 S. First, in the ground-floor space that had been the Millennium Club, as a full-time queer neighborhood bar rather than a once-a-month night. Co-owner Saharsh Hajela's pitch: a place where you can be unapologetically yourself. The week runs trivia, karaoke, dance parties and Sunday drag brunch, with the food coming from CIRC upstairs.",
+      "descriptor": "LGBTQ+ bar on S. First St. with drag nights, karaoke and Sunday drag brunch",
+      "sources": [
+        "https://annarborobserver.com/uplift-opens/",
+        "https://upliftannarbor.com/"
+      ],
+      "writtenFor": {
+        "name": "Uplift",
+        "lat": 42.28003,
+        "lng": -83.75119
+      },
+      "writtenOn": "2026-09-07"
+    },
     "upstairs-at-crazy-wisdom": {
       "text": "Crazy Wisdom has been Ann Arbor's bookstore of consciousness and alternative spirituality since 1982, owned from 1989 by Bill Zirinsky and Ruth Schekter until it closed in February 2022 after 40 years. A new Crazy Wisdom has since opened at 114 S. Main, where the upstairs that was long the tea room now runs as an art gallery and event space for readings, workshops and ceremonies.",
       "descriptor": "Upstairs gallery and event space above the Crazy Wisdom bookstore, 114 S. Main",
@@ -1932,6 +2681,17 @@
         "name": "Upstairs at Crazy Wisdom",
         "lat": 42.28091,
         "lng": -83.74872
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "vertex-coffee-roasters": {
+      "text": "Vertex opened on S. University in June 2019 and roasts all of its beans at its own roastery in Milan, Michigan, adding a second cafe in Ypsilanti in early 2024. The queer- and woman-owned shop builds its identity around quality, sustainability and community — zero-waste practices and public events as much as espresso.",
+      "descriptor": "Queer- and woman-owned coffee bar at 1335 S. University since 2019",
+      "sources": ["https://www.vertex-coffee.com/about"],
+      "writtenFor": {
+        "name": "Vertex Coffee Roasters",
+        "lat": 42.27518,
+        "lng": -83.73182
       },
       "writtenOn": "2026-09-07"
     },
@@ -1973,6 +2733,20 @@
         "name": "Wheeler Park",
         "lat": 42.28784,
         "lng": -83.74539
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "york-food-drink": {
+      "text": "YORK occupies the Packard St. building that was once the Big Ten Party Store and then Morgan & York, the wine-and-deli shop Tommy York co-owned with Matt Morgan; he now runs his own place in the same space. It pours estate-bottled wines, bottled beer and espresso, builds cheese and charcuterie boards and European-inspired sandwiches, and hosts Ricewood's Texas-style barbecue out of its kitchen.",
+      "descriptor": "Wine, cheese and charcuterie bar on Packard St, with a BBQ pop-up kitchen",
+      "sources": [
+        "https://localwiki.org/ann-arbor/Tommy_York",
+        "https://www.yorka2.com/"
+      ],
+      "writtenFor": {
+        "name": "YORK Food & Drink",
+        "lat": 42.2577,
+        "lng": -83.72805
       },
       "writtenOn": "2026-09-07"
     },
