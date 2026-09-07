@@ -223,6 +223,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "bader-park": {
+      "text": "The park is named for Edith M. Bader, an Ann Arbor assistant superintendent from 1921 to 1942, and occupies the grounds of the Bader Elementary School that closed in 1985. After Fellowship Bible Church bought the property in 1987, disputes over public access led the city to condemn the park space in 1995 to keep it as public parkland.",
+      "descriptor": "1.5-acre park with playground and half-court off Provincial Drive",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/bader-park/"
+      ],
+      "writtenFor": {
+        "name": "Bader Park",
+        "lat": 42.26341,
+        "lng": -83.7037
+      },
+      "writtenOn": "2026-09-07"
+    },
     "bandemer-park": {
       "text": "Bandemer was a railroad stockyard, and parts of it were used as a dumping ground during M-14 construction in the 1950s before the city reclaimed it; the Johnson-Greene riverfront parcel was acquired in the early 1980s with help from the Bandemer Trust Fund, an estate bequest. Its 38 acres hold a nine-hole disc golf course built in 2007, a dirt bike jump course, and rowing docks used by U-M, Huron High and the Ann Arbor Rowing Club.",
       "descriptor": "38-acre Huron River park with rowing docks and a disc golf course",
@@ -260,6 +273,33 @@
         "name": "Barton Nature Area",
         "lat": 42.30483,
         "lng": -83.75269
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "bearclaw-coffee-co": {
+      "text": "On November 19, 1931 a Cadillac pulled into the two-level gas station on Washtenaw Ave; men with dark goggles and hats pulled over their eyes left a five-gallon jug painted with Michigan–Minnesota football scores going back to 1903, then drove off. It was said to be the stolen Little Brown Jug, though the Ann Arbor Daily News called it an imitation and Minnesota's equipment manager scoffed at it. Bearclaw Coffee is there today.",
+      "descriptor": "Drive-thru coffee on Washtenaw Ave, on an old gas station site",
+      "sources": [
+        "https://annarborobserver.com/trophy-csi/",
+        "https://bearclawcoffee.com"
+      ],
+      "writtenFor": {
+        "name": "Bearclaw Coffee Co.",
+        "lat": 42.25964,
+        "lng": -83.71207
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "beckley-park": {
+      "text": "The park honors Guy Beckley, the abolitionist minister who published Ann Arbor's antislavery newspaper the Signal of Liberty in the 1840s; the nearby Guy Beckley House was a stop on the Underground Railroad. Locals mostly know the three-acre park for its long sloping hill, which the city lists as open for unsupervised sledding.",
+      "descriptor": "North-side park with a sledding hill, petanque court and playground on Argo Drive",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/beckley-park/"
+      ],
+      "writtenFor": {
+        "name": "Beckley Park",
+        "lat": 42.29478,
+        "lng": -83.73995
       },
       "writtenOn": "2026-09-07"
     },
@@ -339,6 +379,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "blue-apple": {
+      "text": "The Blue Apple opened in 2006 as a $2.2 million dining \"emporium\" inside the Bursley Hall dorm on U-M's North Campus, selling pizza, paninis, smoothies and snacks on Dining Dollars or Blue Bucks. Students rarely use the full name — to them it's \"the Blapple.\"",
+      "descriptor": "Cafe in Bursley Hall serving pizza, paninis and snacks on U-M's North Campus",
+      "sources": [
+        "https://www.foodservicedirector.com/colleges-universities/the-university-of-michigans-new-2-2-million-bursley-blue-apple-food-emporium-recently-opened",
+        "https://spoonuniversity.com/school/u-mich/north-campus-eats/"
+      ],
+      "writtenFor": {
+        "name": "Blue Apple",
+        "lat": 42.29364,
+        "lng": -83.72127
+      },
+      "writtenOn": "2026-09-07"
+    },
     "blue-leprechaun": {
       "text": "The Blue Leprechaun opened on South University in 2008, taking over the former Touchdown Cafe at 1220 S. University, and spent seventeen years as a campus-bar fixture — gameday menus, long happy hours — before closing on December 13, 2025.",
       "descriptor": "South U Irish pub and student bar, 2008-2025",
@@ -377,6 +431,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "bodega-bros": {
+      "text": "Esam Almulaiki, a Hamtramck native whose family runs five delis in Queens, Brooklyn and the Bronx, opened Bodega Bros in 2023 in the old Silvio's Organic Pizza space at 715 N. University. Handing out free smoothies, juices and desserts outside — routine bodega manners in New York — he told the Ann Arbor Observer that \"everybody was looking at me like I'm crazy.\" An early favorite was the $6.50 bacon, egg and cheese roll.",
+      "descriptor": "New York–style bodega deli at 715 N. University, open late",
+      "sources": [
+        "https://annarborobserver.com/restaurants/bodega-bros/",
+        "https://www.bodegabrosmenu.com/"
+      ],
+      "writtenFor": {
+        "name": "Bodega Bros",
+        "lat": 42.27884,
+        "lng": -83.74001
+      },
+      "writtenOn": "2026-09-07"
+    },
     "broadway-cafe": {
       "text": "The menu is famously short — a handful of Korean dishes plus a cheesesteak hoagie — and the signature item splits the difference: bulgogi beef piled on a soft bun with melted cheese and sauteed onions. An Observer cheap-eats review found the crowd split about half and half between the Korean plates and the sandwich.",
       "descriptor": "Tiny Korean-and-cheesesteak-hoagie counter at 1139 Broadway St",
@@ -401,6 +469,19 @@
         "name": "Broadway Park",
         "lat": 42.28754,
         "lng": -83.74036
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "bromley-park": {
+      "text": "Developer Brooks Barron dedicated the land to the city in 1963 as North Campus Heights Park; it was renamed Bromley in 1986 after a new subdivision, and the Kiwanis Club finished a new play area the following year. A neighbor has kept up the rose garden for decades, and a small wooded grove holds the Bromley Book Box, a little free library.",
+      "descriptor": "Playground, rose garden and little free library off Briarcliff Street",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/bromley-park/"
+      ],
+      "writtenFor": {
+        "name": "Bromley Park",
+        "lat": 42.30685,
+        "lng": -83.7054
       },
       "writtenOn": "2026-09-07"
     },
@@ -588,6 +669,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "churchill-downs-park": {
+      "text": "The city acquired this 1.18-acre park around 1970 and put in a new playground in 2018. A $3.2 million stormwater management basin meant to cut neighborhood flooding was completed in November 2022, along with a trail connecting the park south to Eisenhower Park.",
+      "descriptor": "Playground and half-court park on Steeplechase Dr near Scio Church Rd",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/churchill-downs-park/"
+      ],
+      "writtenFor": {
+        "name": "Churchill Downs Park",
+        "lat": 42.25504,
+        "lng": -83.77393
+      },
+      "writtenOn": "2026-09-07"
+    },
     "comet-coffee": {
       "text": "Comet hides at 16 Nickels Arcade — the glass-roofed shopping passage off State Street, finished in 1918 and described as perhaps the only remaining free-standing commercial arcade building in Michigan. Its coffee has a following among local baristas: the owner of Espy Cafe worked at Comet before opening his own place.",
       "descriptor": "Small independent coffee bar tucked inside Nickels Arcade",
@@ -599,6 +693,19 @@
         "name": "Comet Coffee",
         "lat": 42.27844,
         "lng": -83.74129
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "community-food-forest-at-leslie-park": {
+      "text": "A partnership between Ann Arbor Parks and Recreation and volunteers since 2020, the food forest layers fruit trees, berry bushes, herb, tea, medicinal and pollinator gardens the way a woodland stacks canopy and understory. It sits within 38-acre Leslie Park, land the city acquired from Eugene and Emily Leslie in 1963 — a gift that also seeded the golf course and the Leslie Science and Nature Center.",
+      "descriptor": "Volunteer-tended fruit, berry and herb food forest inside Leslie Park",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/leslie-park/"
+      ],
+      "writtenFor": {
+        "name": "Community Food Forest at Leslie Park",
+        "lat": 42.30777,
+        "lng": -83.72725
       },
       "writtenOn": "2026-09-07"
     },
@@ -691,6 +798,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "dicken-woods-nature-area": {
+      "text": "Neighbors formed the Friends of Dicken Woods to keep this 10-acre parcel from being built on, and the city bought it in 2004. Traces of its farming past survive — an old foundation, apple trees from the orchard, even strawberry plants — and a boardwalk crosses a seasonal wetland at the headwaters of the Allen and Mallets creek watersheds. A trail extension runs onto Dicken Elementary property.",
+      "descriptor": "10-acre woods and vernal ponds off S. Maple Rd, saved from development in 2004",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/dicken-woods-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Dicken Woods Nature Area",
+        "lat": 42.26452,
+        "lng": -83.77829
+      },
+      "writtenOn": "2026-09-07"
+    },
     "dimos-deli-donuts": {
       "text": "It opened in 1973 as an Amy Joy Donuts franchise and became Donut's Time after that chain folded. In 1991 the Dimo family — Karim and Mary — added breakfast, deli sandwiches and Mediterranean dishes alongside the donuts.",
       "descriptor": "Donuts, breakfast and deli sandwiches on W. Stadium Blvd since 1973",
@@ -716,6 +836,19 @@
         "name": "Don Juan Mexican Bar & Grill",
         "lat": 42.2722,
         "lng": -83.7763
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "douglas-park": {
+      "text": "The land was donated in 1928 to honor Henry W. Douglas, a member of the city's first Board of Parks Commission, created in 1905. His father Silas Douglas taught chemistry at U-M and founded the Ann Arbor Gas Company in 1858, which Henry later ran as superintendent. Today it's a shaded 2.5-acre lawn used for frisbee, touch football and studying.",
+      "descriptor": "2.5-acre open lawn between Washtenaw, Baldwin and Cambridge",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/douglas-park/"
+      ],
+      "writtenFor": {
+        "name": "Douglas Park",
+        "lat": 42.27112,
+        "lng": -83.72656
       },
       "writtenOn": "2026-09-07"
     },
@@ -771,6 +904,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "eisenhower-park": {
+      "text": "The trails here were dug by the neighbors. Volunteer workdays ran from November 2021 through a final push on November 13, 2022 — joined by student groups from the University of Michigan — cutting an unpaved path system through the greenway. The trail now links Churchill Downs Park to the north and Dundee Drive to the south, with a connection out to Scio Church Road.",
+      "descriptor": "Ten-acre greenway along I-94, just south of Scio Church Road",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/eisenhower-park/"
+      ],
+      "writtenFor": {
+        "name": "Eisenhower Park",
+        "lat": 42.25332,
+        "lng": -83.77255
+      },
+      "writtenOn": "2026-09-07"
+    },
     "el-harissa-market-cafe": {
       "text": "Susan Thomas, a retired teacher, and Khaled Houamed, a Tunisian-born pharmacologist and biotech CEO, opened El Harissa in 2013 after a long licensing delay — the market needed state agriculture approval and the food service a county health sign-off, and the kitchen isn't even connected to the storefront. It is named for harissa, the Tunisian chili paste, and pairs a deli case of mujadara, hummus and dips with shelves of North African groceries.",
       "descriptor": "Tunisian café, deli and market in Maple-Miller Plaza on N. Maple",
@@ -782,6 +928,17 @@
         "name": "El Harissa Market Cafe",
         "lat": 42.29556,
         "lng": -83.78012
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "el-limon": {
+      "text": "El Limón mixes Mexican and Mediterranean cooking at 2709 Plymouth Rd, and books local musicians across a range of genres on Monday and Thursday nights.",
+      "descriptor": "Mexican–Mediterranean kitchen on Plymouth Rd with live local music",
+      "sources": ["https://annarborobserver.com/restaurants/el-limon/"],
+      "writtenFor": {
+        "name": "El Limón",
+        "lat": 42.3038,
+        "lng": -83.70689
       },
       "writtenOn": "2026-09-07"
     },
@@ -810,6 +967,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "felch-park": {
+      "text": "The park is named for Alpheus Felch, Michigan's governor in 1846–47 and later a U.S. senator, who returned to Ann Arbor in his later years and died there in 1896. When the Power Center for the Performing Arts was built on the park's edge, the volume facing the park was clad in mirrored glass specifically to reflect the surrounding trees and make the green space appear larger.",
+      "descriptor": "Green space on U-M's central campus beside the Power Center on Fletcher St",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alpheus_Felch",
+        "https://en.wikipedia.org/wiki/Power_Center_for_the_Performing_Arts"
+      ],
+      "writtenFor": {
+        "name": "Felch Park",
+        "lat": 42.28079,
+        "lng": -83.7366
+      },
+      "writtenOn": "2026-09-07"
+    },
     "first-bite": {
       "text": "First Bite opened at 108 S. Main in the space left empty when the vegetarian Back2Roots Bistro closed suddenly in late 2016, serving wraps, grain bowls, salads and smoothies built around a chickpea-beet burger and a Thai peanut wrap. As of a 2017 Ann Arbor Observer review, it billed itself as the only place in southeast Michigan where you could get kava, the South Pacific drink made from ground root.",
       "descriptor": "Health-food counter on S. Main with wraps, bowls, smoothies and kava",
@@ -829,6 +1000,19 @@
         "name": "Fleetwood Diner",
         "lat": 42.27951,
         "lng": -83.75005
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "forsythe-park": {
+      "text": "The city bought this abandoned gas station lot in 1974 with a HUD grant for in-city parks and called it Packard/Arch Park; in 1980 it was renamed for Franklin C. Forsythe, founder and first president of the Ann Arbor Jaycees. Its I-beam sculpture, \"Reduce, Reuse and Recycle,\" has a water fountain built into it, and the third-acre lot is a convenient cut-through for students headed to campus.",
+      "descriptor": "Third-acre pocket park at Packard and Arch, on a former gas station lot",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/forsythe-park/"
+      ],
+      "writtenFor": {
+        "name": "Forsythe Park",
+        "lat": 42.26951,
+        "lng": -83.73957
       },
       "writtenOn": "2026-09-07"
     },
@@ -854,6 +1038,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "frisinger-park": {
+      "text": "The Frisinger Land Co. gave this 3.6-acre corner to the city on June 15, 1936, and the softball backstop went up in 1964. It's a short walk from Michigan Stadium, with the playground and picnic tables tucked at the shaded south end, away from the traffic noise.",
+      "descriptor": "Neighborhood ballfield and playground at E Stadium Blvd and Woodbury Dr",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/frisinger-park/"
+      ],
+      "writtenFor": {
+        "name": "Frisinger Park",
+        "lat": 42.25997,
+        "lng": -83.73497
+      },
+      "writtenOn": "2026-09-07"
+    },
     "frita-batidos": {
       "text": "Chef-owner Eve Aronoff trained at Le Cordon Bleu in Paris but built this place around childhood summers spent with her grandmother in Miami. A frita is a chorizo burger buried under shoestring fries on a soft egg bun; a batido is a tropical milkshake of fresh fruit, crushed ice and sweetened milk. The restaurant says Michigan Daily readers have voted it the city's best burger every year since 2014.",
       "descriptor": "Cuban-inspired street food downtown — chorizo fritas and tropical batidos",
@@ -865,6 +1062,19 @@
         "name": "Frita Batidos",
         "lat": 42.28041,
         "lng": -83.74936
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "fritz-park": {
+      "text": "The land was given to the city in 1936 by Elsa Fritz DeFries, Jessie Fritz and John E. Fritz in memory of their uncle Michael J. Fritz, who served on the park commission for more than 20 years. Before that it was Ann Arbor Schutzenbund Park, a historic meeting place for German-Americans; the city annexed it in 1948. Eighty-one native plant species have been recorded here.",
+      "descriptor": "Wooded 5-acre park on Pauline Blvd between Seventh St and Stadium Blvd",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/fritz-park/"
+      ],
+      "writtenFor": {
+        "name": "Fritz Park",
+        "lat": 42.26981,
+        "lng": -83.76504
       },
       "writtenOn": "2026-09-07"
     },
@@ -958,6 +1168,31 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "happy-wok": {
+      "text": "",
+      "descriptor": "Chinese takeout counter at 1916 W. Stadium Blvd on Ann Arbor's west side",
+      "sources": ["https://www.annarborhappywok.com/"],
+      "writtenFor": {
+        "name": "Happy Wok",
+        "lat": 42.26952,
+        "lng": -83.77247
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "hearsay-brewery": {
+      "text": "hear.say is a brewery with an improv theater attached — crisp lagers, hop-forward IPAs, fruited sours and bold stouts on one side, improv and stand-up shows most Thursday through Sunday on the other. It also runs an improv school, hear.say academy, and hosts the multi-day Yes, Ann Improv Fest.",
+      "descriptor": "Brewery and improv theater on W. Liberty St, styled hear.say",
+      "sources": [
+        "https://heardotsay.com",
+        "https://annarborobserver.com/restaurants/hear-say/"
+      ],
+      "writtenFor": {
+        "name": "Hearsay Brewery",
+        "lat": 42.2741,
+        "lng": -83.77904
+      },
+      "writtenOn": "2026-09-07"
+    },
     "heathdale-collection": {
       "text": "Heathdale is one of the named collections inside Nichols Arboretum, the 128-acre \"Arb\" that opened to the public in 1907 after the Chicago firm of O.C. Simonds drew up plans in 1906. It is planted with ericaceous and Appalachian species — Catawba and rosebay rhododendrons, azaleas and mountain laurel — and some of its specimens trace to plant-collecting expeditions of the 1920s.",
       "descriptor": "Rhododendron and Appalachian plant valley inside Nichols Arboretum",
@@ -991,6 +1226,19 @@
         "name": "Hello Faz Pizza",
         "lat": 42.27375,
         "lng": -83.7775
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "hilltop-nature-area": {
+      "text": "Until 2006 this was Camp Hilltop, a Girl Scout camp on land donated to the Scouts in 1947; after its 1948-49 lodge burned that April, Ann Arbor bought the 7.7-acre parcel for $2.24 million with Greenbelt funds and formally named it Hilltop in 2009. Camp remnants like a marker and flagpole still stand along trails with spectacular views of the Huron River valley and spring wildflowers.",
+      "descriptor": "Hilltop woods above the Huron River valley, on a former Girl Scout camp",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/hilltop-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Hilltop Nature Area",
+        "lat": 42.30159,
+        "lng": -83.74947
       },
       "writtenOn": "2026-09-07"
     },
@@ -1075,6 +1323,32 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "hunt-park": {
+      "text": "Ormond E. Hunt and his wife Maud gave the land to the city in 1943, dedicating it to Hunt's first wife, Hazel — prompted by parks superintendent Eli Gallup's request to use the ground for wartime victory gardens. First improvements came in 1953 and a shelter in 1963; Project Grow community gardens still work the site.",
+      "descriptor": "Seven-acre hilly neighborhood park on Daniel St with downtown skyline views",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/hunt-park/"
+      ],
+      "writtenFor": {
+        "name": "Hunt Park",
+        "lat": 42.29178,
+        "lng": -83.75181
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "huron-highlands-park": {
+      "text": "The city acquired this pocket park in 1960, when development of the surrounding neighborhood was approved, and began developing the park itself in 1974; path and sidewalk work followed in 2009 for ADA compliance. It's planted like a small orchard: gooseberry, raspberry and Nanking cherry shrubs, peach, apricot and pear trees west of the playground, and apple trees in a native plant garden south of it. An asphalt path links the Skydale Drive and Larkspur Street entrances.",
+      "descriptor": "1.67-acre neighborhood park at 400 Skydale Drive with a playground and volleyball net",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/huron-highlands-park/"
+      ],
+      "writtenFor": {
+        "name": "Huron Highlands Park",
+        "lat": 42.30787,
+        "lng": -83.73837
+      },
+      "writtenOn": "2026-09-07"
+    },
     "hyperion-coffee": {
       "text": "Hyperion was founded in 2016 in Ypsilanti by Eric Mullins, Dan Kubera and Alex Merz, roasting coffee bought from small growers before demand for brewed cups pushed them out of a beans-only model. The Ann Arbor café at 111 W. Liberty opened in mid-November 2021, in the storefront Thrive Juicery had vacated — \"we wanted a more intimate setting where we can have conversations with people,\" Mullins told the Observer.",
       "descriptor": "Ypsilanti roaster's single-origin café at 111 W. Liberty since 2021",
@@ -1152,6 +1426,17 @@
         "name": "Jamaican Jerk Pit",
         "lat": 42.27909,
         "lng": -83.73976
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "jasmine": {
+      "text": "",
+      "descriptor": "Bubble tea café with outdoor seating near Maynard and E. William downtown",
+      "sources": [],
+      "writtenFor": {
+        "name": "Jasmine",
+        "lat": 42.27804,
+        "lng": -83.74219
       },
       "writtenOn": "2026-09-07"
     },
@@ -1238,6 +1523,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "kimchi-box": {
+      "text": "",
+      "descriptor": "Korean fast-casual counter at 1771 Plymouth Rd on Ann Arbor's north side",
+      "sources": [],
+      "writtenFor": {
+        "name": "Kimchi Box",
+        "lat": 42.29849,
+        "lng": -83.71994
+      },
+      "writtenOn": "2026-09-07"
+    },
     "knights-downtown-steakhouse": {
       "text": "The Knight family has fed Ann Arbor since 1952, when Ray and Mary Knight bought Knight's Market on the west side. Ray added the Dexter Road steakhouse in 1984, Jackson followed in 2001, and the downtown room at Liberty and Maynard opened in 2014 — still serving beef hand-cut fresh daily at the family's own meat market.",
       "descriptor": "Steakhouse at the corner of Liberty and Maynard, open since 2014",
@@ -1274,6 +1570,19 @@
         "name": "Krazy Jim's Blimpy Burger",
         "lat": 42.2794,
         "lng": -83.75012
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kuebler-langford-nature-area": {
+      "text": "The city bought the core of this park in 1975 from the Langford and Kuebler families, after public pressure helped sink a rezoning vote for high-rise development in 1969; later parcels brought it to 31 acres. A deep ravine bisects the park from west to east: moist woods on the steep slopes, large black and white oaks above, and native dry-prairie plants like round-headed bush clover in the old field.",
+      "descriptor": "31-acre ravine woodland off Huron River Drive, adjoining Bird Hills",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/kuebler-langford-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Kuebler Langford Nature Area",
+        "lat": 42.30001,
+        "lng": -83.75164
       },
       "writtenOn": "2026-09-07"
     },
@@ -1342,6 +1651,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "leslie-woods-nature-area": {
+      "text": "Ann Arbor bought this land in the 1960s for a traffic loop that was never built, so the woodland survived intact and now holds some of the largest trees in the park system. Natural Area Preservation staff and volunteers cut the thousand-meter trail loop in 2003; American toads, gray tree frogs and green frogs all breed here.",
+      "descriptor": "23-acre oak-hickory woods with a 1,000-meter loop below Leslie Park Golf Course",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/leslie-woods-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Leslie Woods Nature Area",
+        "lat": 42.30312,
+        "lng": -83.72033
+      },
+      "writtenOn": "2026-09-07"
+    },
     "liberty-plaza": {
       "text": "A 0.26-acre, two-level plaza at the corner of Liberty and Division, next to the Kempf House. Its sensory garden — plants chosen to maximize sensory impact with people with disabilities in mind, for their textures, scents, shapes and bright colors — was created in 2013 by the city's Commission on Disability Issues as a memorial to Pamela Baker Trostle, its former chair.",
       "descriptor": "Two-level quarter-acre downtown plaza at Liberty and Division",
@@ -1352,6 +1674,19 @@
         "name": "Liberty Plaza",
         "lat": 42.2792,
         "lng": -83.74439
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "longshore-park": {
+      "text": "A small north-side park whose playground and picnic tables sit on top of a hill with a view of the Huron River, reached by an accessible asphalt path from the park's southeast entrance on Longshore Drive. Open grass fields and mature sugar maples and black cherries fill the rest, and Argo Park & Nature Area, Riverside Park, Beckley Park, Plymouth Parkway Park and Fairview Cemetery are all within walking distance.",
+      "descriptor": "2.25-acre park at 405 Longshore Drive near Argo Park & Nature Area",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/longshore-park/"
+      ],
+      "writtenFor": {
+        "name": "Longshore Park",
+        "lat": 42.29219,
+        "lng": -83.74306
       },
       "writtenOn": "2026-09-07"
     },
@@ -1504,6 +1839,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "michigans-first-jewish-cemetery-site": {
+      "text": "The southwest corner of E. Huron and Fletcher, now University of Michigan campus, is the site of the first Jewish cemetery in Michigan. The state designated it a Michigan historic site in 1982, and a plaque on the corner is what marks it today.",
+      "descriptor": "State historical marker at E. Huron and Fletcher on the U-M campus",
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_Michigan_State_Historic_Sites_in_Washtenaw_County",
+        "https://commons.wikimedia.org/wiki/File:Michigan%27s_first_Jewish_Cemetery_Ann_Arbor.JPG"
+      ],
+      "writtenFor": {
+        "name": "Michigan's First Jewish Cemetery Site",
+        "lat": 42.28117,
+        "lng": -83.73736
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mighty-good-coffee": {
       "text": "Mighty Good started roasting in Ann Arbor in 2006, and its beans now turn up all over town — Argus Farm Stop, the Produce Station, Sparrow Market, Knight's. The women- and queer-run roaster moved its roasting operation out to Dexter in 2025.",
       "descriptor": "Local coffee roaster's cafe at 217 N. Main St., roasting since 2006",
@@ -1515,6 +1864,19 @@
         "name": "Mighty Good Coffee",
         "lat": 42.28303,
         "lng": -83.74858
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "miller-nature-area": {
+      "text": "These 22 acres between Miller Ave. and Arborview were logged in the 1800s, then farmed, then dug as a gravel pit after 1950; the city bought the land from the Seymour and Gelman families in 1976. Unpaved trails now wind through old-field remnants and stands of big elms, and volunteers with Ann Arbor's Natural Area Preservation program have spent years clearing dumped trash and replanting natives.",
+      "descriptor": "22-acre city nature area off Miller Ave. with unpaved old-field and woods trails",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/miller-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Miller Nature Area",
+        "lat": 42.28842,
+        "lng": -83.76864
       },
       "writtenOn": "2026-09-07"
     },
@@ -1568,6 +1930,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "moka-and-co": {
+      "text": "A New York City–based chain of Yemeni coffee houses named for the port that drove the early coffee trade, Moka & Co. opened at 333 S. Main — its sixth Michigan shop — in the former Underground Printing storefront. Beans come from the cradle of coffee civilization, and the pastry case runs to Dubai chocolate: phyllo layered with pistachio spread.",
+      "descriptor": "Yemeni coffee house on S. Main, part of a NYC-based chain",
+      "sources": ["https://annarborobserver.com/yemeni-coffee-on-s-main/"],
+      "writtenFor": {
+        "name": "Moka and Co",
+        "lat": 42.27862,
+        "lng": -83.74847
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mosher-jordan-dining-hall": {
       "text": "Mosher-Jordan opened in 1930 as a residence hall named for Eliza Mosher and Myra Jordan, the University of Michigan's first two deans of women — Mosher was also the first woman the university recognized as a professor. The hall reopened in 2008 after a renovation, alongside the adjoining Hill Dining Center that serves the surrounding Hill neighborhood dorms.",
       "descriptor": "U-M Hill neighborhood dining hall in a 1930 residence hall",
@@ -1582,6 +1955,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "mr-yuns-tower-deli": {
+      "text": "",
+      "descriptor": "Korean deli counter on Fuller Ct. near the U-M medical campus",
+      "sources": [],
+      "writtenFor": {
+        "name": "Mr. Yun's Tower Deli",
+        "lat": 42.28567,
+        "lng": -83.71766
+      },
+      "writtenOn": "2026-09-07"
+    },
     "museum-on-main": {
       "text": "The Washtenaw County Historical Society's museum occupies a house the Kellogg family built in three phases during the 1830s, around the time Michigan became a state. It originally stood on Wall St.; facing demolition, U-M donated it to the society, which moved it to N. Main in 1990 and opened it to the public in 1999. It's on the National Register and shows rotating local-history exhibits.",
       "descriptor": "County historical society museum in an 1830s house, 500 N. Main",
@@ -1590,6 +1974,19 @@
         "name": "Museum On Main",
         "lat": 42.28513,
         "lng": -83.74803
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mushroom-park": {
+      "text": "The land was acquired in 1961 as Vernon Downs Playlot, but got its real name in 1975 when Girl Scout Troop #190 petitioned City Council: kids already called it Mushroom Park, after the concrete climbing structures built in 1962 in the shape of mushrooms. Council approved unanimously, and neighbors have since painted the mushrooms. The park also holds Ann Arbor's second-largest white oak.",
+      "descriptor": "1.5-acre playlot between Waltham and Saxon, named for its concrete mushrooms",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/mushroom-park/"
+      ],
+      "writtenFor": {
+        "name": "Mushroom Park",
+        "lat": 42.25808,
+        "lng": -83.77627
       },
       "writtenOn": "2026-09-07"
     },
@@ -1618,6 +2015,17 @@
         "name": "Namaste Flavours",
         "lat": 42.27765,
         "lng": -83.74437
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "native-american-land-gift": {
+      "text": "The plaque marks an 1817 land grant made through the Treaty of Fort Meigs, in which the Ojibwa, Odawa and Potawatomi gave land to benefit Catholic education under Fr. Gabriel Richard and the college at Detroit. Those lands were later sold to benefit the University of Michigan, which moved to Ann Arbor in 1837. U-M's History and Traditions Committee placed the marker in 2001 as Site #8.",
+      "descriptor": "1817 land-grant plaque on the University of Michigan campus, installed 2001",
+      "sources": ["https://openplaques.org/plaques/56021"],
+      "writtenFor": {
+        "name": "Native American Land Gift",
+        "lat": 42.27831,
+        "lng": -83.73824
       },
       "writtenOn": "2026-09-07"
     },
@@ -1706,6 +2114,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "northeast-tower-tisch": {
+      "text": "The tower marks the northeast corner of Michigan Stadium, which opened in 1927 and now seats 107,601 — the largest stadium in the United States and the Western Hemisphere, and the third largest in the world.",
+      "descriptor": "Corner tower at the northeast end of Michigan Stadium, the Big House",
+      "sources": ["https://en.wikipedia.org/wiki/Michigan_Stadium"],
+      "writtenFor": {
+        "name": "Northeast Tower (Tisch)",
+        "lat": 42.26653,
+        "lng": -83.74755
+      },
+      "writtenOn": "2026-09-07"
+    },
     "northside-grill": {
       "text": "Jim Koli has run this Broadway St. diner since 1993, and weekend breakfast lines routinely stretch down the block. The building once housed the Cloverleaf Dairy, and vintage dairy photographs still hang on the walls.",
       "descriptor": "Broadway St. breakfast diner in a former Cloverleaf Dairy, open since 1993",
@@ -1766,6 +2185,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "palace-tang": {
+      "text": "Palace Tang, named for the Tang dynasty that ruled imperial China from the seventh through ninth centuries, opened in May 2024 in a former Panera Bread on Plymouth Rd. Thirty imported tables let diners pick one to four broths and cook their own meat, seafood and noodles; the menu lists items like \"one meter fat cow\" and \"fish roe lucky bag.\"",
+      "descriptor": "Chinese hot pot on Plymouth Rd., in the old Panera space",
+      "sources": ["https://annarborobserver.com/hot-pots-on-plymouth-rd/"],
+      "writtenFor": {
+        "name": "Palace Tang",
+        "lat": 42.29836,
+        "lng": -83.71959
+      },
+      "writtenOn": "2026-09-07"
+    },
     "palio": {
       "text": "Palio has been on S. Main since September 1991, named for the bareback horse race run through Siena — the winners of that race are recorded on a mural in the back dining room. In summer the rooftop, Palio Del Sole, runs its own kitchen and a menu completely different from downstairs, plus sangria by the pitcher.",
       "descriptor": "Italian trattoria at 347 S. Main with a seasonal rooftop bar, since 1991",
@@ -1799,6 +2229,17 @@
         "name": "Panda House",
         "lat": 42.28447,
         "lng": -83.78334
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "paris-bahn-mi": {
+      "text": "The former owners of the Ding Tea boba shop on E. William expanded into the storefront next door and opened Paris Banh Mi there — a remodeled 3,700-square-foot cafe seating 72. Banh mi come on fresh-baked baguettes and croissants, alongside pho, Korean corn dogs, egg rolls and bubble tea.",
+      "descriptor": "Vietnamese-French bakery and banh mi cafe on E. William",
+      "sources": ["https://annarborobserver.com/beyond-boba/"],
+      "writtenFor": {
+        "name": "Paris Bahn Mi",
+        "lat": 42.27797,
+        "lng": -83.74155
       },
       "writtenOn": "2026-09-07"
     },
@@ -1885,6 +2326,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "plate-sushi-chicken": {
+      "text": "Jane Kim opened the Japanese restaurant M Totoro on S. State in 2003, sold it in 2008 to focus on family, then returned to the business in December 2021 with Plate, run with her friend Esther Kim. It took over Lower Town's former Yourist Studio Gallery and pairs sushi and bento boxes with Korean fried chicken.",
+      "descriptor": "Sushi and Korean fried chicken on Broadway in Lower Town",
+      "sources": [
+        "https://annarborobserver.com/the-return-of-jane-kim/",
+        "https://annarborobserver.com/koreatown-in-treetown/"
+      ],
+      "writtenFor": {
+        "name": "Plate Sushi & Chicken",
+        "lat": 42.2906,
+        "lng": -83.73735
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "plymouth-parkway-park": {
+      "text": "The city got these six acres in 1927 as a gift from the Washtenaw County Board of Road Commissioners, deeded for park use only. It straddles both sides of Plymouth Road near the Broadway and Maiden Lane junction, with Traver Creek and mature shade trees along the southern edge; the playground was added in 2004.",
+      "descriptor": "Six-acre park along Traver Creek where Plymouth Rd meets Broadway",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/plymouth-parkway-park/"
+      ],
+      "writtenFor": {
+        "name": "Plymouth Parkway Park",
+        "lat": 42.29228,
+        "lng": -83.73584
+      },
+      "writtenOn": "2026-09-07"
+    },
     "poke-poke": {
       "text": "Poke Poke landed at 312 S. State St. in 2019 — the fifth poke place to open in Ann Arbor inside a single year — as an outpost of a Southfield-based chain that now lists a dozen Michigan locations plus three in the Tampa area. The pitch is \"sushi unrolled\": one build-your-own counter, vegan and gluten-free items labeled on the menu, and basement seating students use for studying.",
       "descriptor": "Build-your-own poke bowls at 312 S. State St. near North University",
@@ -1896,6 +2364,19 @@
         "name": "Poke Poke",
         "lat": 42.27888,
         "lng": -83.74095
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "postmans-rest-park": {
+      "text": "The park is named for mail carriers Norm Kern and Bob Schlupe, who regularly checked on Anne B. Mueller, an elderly widow living alone on this wooded lot. After she died in 1965 at 85, neighbor and city council member Margaret D. Towsley helped arrange the land's donation, and the park was dedicated in June 1966 to \"the unselfish mail carriers throughout the years who have devoted so much time in the service of others.\"",
+      "descriptor": "Small wooded pocket park at Wayne St and Vinewood Blvd with a swinging bench",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/postmans-rest-park/"
+      ],
+      "writtenFor": {
+        "name": "Postman's Rest Park",
+        "lat": 42.26982,
+        "lng": -83.72286
       },
       "writtenOn": "2026-09-07"
     },
@@ -1935,6 +2416,17 @@
         "name": "Project Grow Gardens",
         "lat": 42.30121,
         "lng": -83.72921
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "q-bakehouse-market": {
+      "text": "Rachel Liu Martindale trained as an engineer before turning a baking side project, Milk + Honey, run with her husband Jonathan, into Q Bakehouse & Market at 1608 Jackson Ave. The name is a Taiwanese term for chewy, springy texture, and the counter is known for savory cheddar and chili-crisp scones, milk-bread buns, whipped cream cakes and frozen dumplings.",
+      "descriptor": "Asian-inspired bakery and market on Jackson Ave.",
+      "sources": ["https://annarborobserver.com/q-bakehouse-gets-a-home-base/"],
+      "writtenFor": {
+        "name": "Q Bakehouse & Market",
+        "lat": 42.28214,
+        "lng": -83.76712
       },
       "writtenOn": "2026-09-07"
     },
@@ -1988,6 +2480,17 @@
         "name": "Real Seafood Company",
         "lat": 42.27837,
         "lng": -83.74839
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "recess-cafe": {
+      "text": "Recess calls itself a \"third place\" for parents: a full children's play area attached to a cafe with a light menu, wine, beer and non-alcoholic drinks. The idea is that having kids doesn't mean you have to sacrifice going out — regulars also use it to work remotely or host parties and events, and walk-ins are welcome.",
+      "descriptor": "Cafe with a children's play area serving coffee, beer and wine",
+      "sources": ["https://www.recess.cafe/"],
+      "writtenFor": {
+        "name": "Recess Cafe",
+        "lat": 42.28022,
+        "lng": -83.75011
       },
       "writtenOn": "2026-09-07"
     },
@@ -2051,6 +2554,19 @@
         "name": "Riverside Park",
         "lat": 42.28752,
         "lng": -83.73677
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "riverwood-nature-area": {
+      "text": "This upland forest remnant exists because it was negotiated into the Newport Ridge Subdivision development plan in 1998, leaving 4.82 acres inside a condo neighborhood. One short trail runs past a central mound and a wetland with a small stream, under oaks and hickories, with dogwood, buttonbush, turtlehead and spring wildflowers. It doubles as a green buffer between the residential area and the highway.",
+      "descriptor": "4.8-acre remnant forest on Riverwood Drive, a green buffer along M-14",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/riverwood-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Riverwood Nature Area",
+        "lat": 42.30049,
+        "lng": -83.76984
       },
       "writtenOn": "2026-09-07"
     },
@@ -2200,6 +2716,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "south-maple-park": {
+      "text": "The eastern two acres were bought in 1976 with money from a 1971 park bond issue, serving nearby housing complexes that had no park within walking distance. The tennis courts — now over-striped for pickleball — went in in 1979, built on top of a water reservoir that gave a large flat area to work with.",
+      "descriptor": "Tennis and pickleball courts with open fields off W. Liberty Street",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/south-maple-park/"
+      ],
+      "writtenFor": {
+        "name": "South Maple Park",
+        "lat": 42.27182,
+        "lng": -83.78299
+      },
+      "writtenOn": "2026-09-07"
+    },
     "south-quad-dining-hall": {
       "text": "South Quad opened in 1951 as one of Michigan's big Central Campus residence halls. It reopened for the fall 2014 term after extensive renovations that added an all-new dining facility built around 10 unique restaurant concepts, alongside music practice rooms, a new community center, redesigned group study rooms and air conditioning.",
       "descriptor": "U-M dining hall inside the South Quad residence hall on Central Campus",
@@ -2210,6 +2739,19 @@
         "name": "South Quad Dining Hall",
         "lat": 42.27384,
         "lng": -83.74226
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "south-university-park": {
+      "text": "Two abandoned houses stood on this lot until neighbors — chiefly Leslie and Michael Morris — led a community effort to turn it into park space; the city acquired the property in the early 1970s. Michael Morris went on to serve on City Council from 1977 to 1983, and a $50,000 gift from the Morris family helped fund the park's roughly $43,000 renovation in 2012–13.",
+      "descriptor": "Half-acre pocket park with a shaded half-court at S. University and Walnut",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/south-university-park/"
+      ],
+      "writtenFor": {
+        "name": "South University Park",
+        "lat": 42.27535,
+        "lng": -83.72953
       },
       "writtenOn": "2026-09-07"
     },
@@ -2241,6 +2783,33 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "stars-cafe": {
+      "text": "",
+      "descriptor": "Middle Eastern cafe on Jackson Ave — shawarma, falafel, hummus",
+      "sources": [
+        "https://www.starscafeannarbor.com/",
+        "https://www.starscafeannarbor.com/menu"
+      ],
+      "writtenFor": {
+        "name": "Star’s Cafe",
+        "lat": 42.27985,
+        "lng": -83.7826
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "sunset-brooks-nature-area": {
+      "text": "In 2002 developers proposed 33 condominiums on this hillside. Neighbors formed the Greater Sunset Brooks Neighborhood Association and 96 contributors raised more than $93,000 toward buying the land, and the city completed the purchase in 2003. The oak-hickory woods hold a grove of flowering dogwoods and uncommon plants like redbud, wild black currant, summer grape and golden alexander.",
+      "descriptor": "7.8 acres of woods and wetland on Sunset Road, a shortcut to Bird Hills",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/sunset-brooks-nature-area/"
+      ],
+      "writtenFor": {
+        "name": "Sunset Brooks Nature Area",
+        "lat": 42.29704,
+        "lng": -83.75695
+      },
+      "writtenOn": "2026-09-07"
+    },
     "sweetwaters-coffee-tea": {
       "text": "Wei and Lisa Bee founded the first Sweetwaters in downtown Ann Arbor in 1993, near their alma mater, pairing classic café fare with globally influenced coffees and teas. The brand has since franchised well beyond Michigan, and the founders remain part of daily life in the stores.",
       "descriptor": "Coffee and tea house at 123 W. Washington St.; Ann Arbor-born since 1993",
@@ -2266,6 +2835,20 @@
         "name": "TAQ | Taqueria Restaurant & Bar",
         "lat": 42.27946,
         "lng": -83.74809
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "taste-of-india-suvai": {
+      "text": "Two former Northwest Airlines employees from Chennai, Mohana Krishnalal and Lakshmanan Muthu, opened a restaurant called Suvai in Livonia in 2004, then brought it to Ann Arbor in July 2010 — 'suvai' means taste in Tamil. They took over the S. State St. storefront that had been Kaleidoscope for 18 years and started from, as Krishnalal put it, 'four walls, and that's it.' Dosas and an Indian/Indo-Chinese lunch buffet are the draw.",
+      "descriptor": "South Indian dosas and lunch buffet at 217 S. State St. since 2010",
+      "sources": [
+        "https://annarborobserver.com/walls-who-knew/",
+        "https://www.tasteofindiasuvai.com/"
+      ],
+      "writtenFor": {
+        "name": "Taste of India Suvai",
+        "lat": 42.27968,
+        "lng": -83.74066
       },
       "writtenOn": "2026-09-07"
     },
@@ -2408,6 +2991,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "the-hen": {
+      "text": "Chris Fronimos, a Chicago native, opened the downtown cafe in 2021 as The Stray Hen and later dropped the \"stray.\" He has since spun off The Hen on the Fly at 1906 Packard, a carryout-first version he describes as being for the impatient — he dislikes watching other people's orders get built ahead of his.",
+      "descriptor": "Breakfast-and-lunch cafe in downtown Ann Arbor, open since 2021",
+      "sources": [
+        "https://annarborobserver.com/restaurants/the-hen/",
+        "https://www.strayhencafe.com/"
+      ],
+      "writtenFor": {
+        "name": "The Hen",
+        "lat": 42.28049,
+        "lng": -83.74374
+      },
+      "writtenOn": "2026-09-07"
+    },
     "the-jagged-fork": {
       "text": "The Ann Arbor storefront is one of six Jagged Forks around southeast Michigan — the others in Grosse Pointe Farms, Rochester Hills, West Bloomfield, Lathrup Village and Dearborn Heights — all working the same comfort-food breakfast and lunch menu of pancakes, omelets and sandwiches.",
       "descriptor": "Metro Detroit breakfast-and-lunch chain's Ann Arbor spot on S. Main St",
@@ -2461,6 +3058,19 @@
         "name": "The Lunch Room Bakery & Cafe",
         "lat": 42.28556,
         "lng": -83.71767
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-ponds-park": {
+      "text": "The city acquired the original 1.66 acres in 1989 when the Georgetown apartments were developed, then expanded the park in 1999 with two lots from the Hearthstone Subdivision, bringing it to about 2.25 acres. The northern half is left natural — trails under tall cottonwoods — while the south end has a playground with an accessible swing and a flower garden kept up by a park adopter group.",
+      "descriptor": "Playground, garden and cottonwood trails off Emerald Ave near Packard",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/the-ponds-park/"
+      ],
+      "writtenFor": {
+        "name": "The Ponds Park",
+        "lat": 42.25096,
+        "lng": -83.7201
       },
       "writtenOn": "2026-09-07"
     },
@@ -2588,6 +3198,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "two-songs-bakery-cafe": {
+      "text": "Jenny Song and her mother Youn ran Songbird Cafe for 11 years before selling it, and kept baking wholesale out of its kitchen; in October 2024 they came back with a storefront of their own on S. Industrial. It's a counter with seating for about a dozen, stocked with gluten-free and vegan pastries and desserts plus shelves of Korean packaged snacks and groceries.",
+      "descriptor": "Korean-influenced gluten-free and vegan bakery on S. Industrial Hwy",
+      "sources": ["https://annarborobserver.com/the-songs-are-back/"],
+      "writtenFor": {
+        "name": "Two Songs Bakery & Cafe",
+        "lat": 42.25794,
+        "lng": -83.73798
+      },
+      "writtenOn": "2026-09-07"
+    },
     "umma-cafe": {
       "text": "UMMA opened the cafe in early June 2019 as a two-year pilot with Michigan Dining, made possible by longtime museum volunteer and advocate Paola Luptak and aimed at drawing students and Ann Arbor and Ypsilanti community members into the building. The counter serves espresso drinks, tea and signature UMMA coffee alongside salads, sandwiches, pastries and bento boxes, with events, talks and concerts planned in the space.",
       "descriptor": "Museum cafe at UMMA, 525 S. State St., run with Michigan Dining",
@@ -2684,6 +3305,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "venue-by-4m": {
+      "text": "An unusual hybrid on S. Industrial: 4M Consolidated Brands runs one space that works as coworking desks, private offices and meeting rooms by day, and an event venue, bar and international cafe by night — with live music Friday and Saturday and a Sunday jazz brunch.",
+      "descriptor": "Coworking space, bar and cafe with live music on S. Industrial Hwy",
+      "sources": [
+        "https://annarborobserver.com/guide/venue-by-4m/",
+        "https://experience4m.com/"
+      ],
+      "writtenFor": {
+        "name": "Venue by 4M",
+        "lat": 42.25975,
+        "lng": -83.73657
+      },
+      "writtenOn": "2026-09-07"
+    },
     "vertex-coffee-roasters": {
       "text": "Vertex opened on S. University in June 2019 and roasts all of its beans at its own roastery in Milan, Michigan, adding a second cafe in Ypsilanti in early 2024. The queer- and woman-owned shop builds its identity around quality, sustainability and community — zero-waste practices and public events as much as espresso.",
       "descriptor": "Queer- and woman-owned coffee bar at 1335 S. University since 2019",
@@ -2706,6 +3341,32 @@
         "name": "Vinology",
         "lat": 42.28104,
         "lng": -83.74871
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "virginia-park": {
+      "text": "",
+      "descriptor": "Five-acre neighborhood ballfield park lined with tall sycamores, west of downtown",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/virginia-park/"
+      ],
+      "writtenFor": {
+        "name": "Virginia Park",
+        "lat": 42.27718,
+        "lng": -83.76766
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "waterworks-park": {
+      "text": "Allen Creek still runs underneath Waterworks Park — the stream was channeled underground in the 1920s, right about when the city acquired the land in 1927. The Western Kiwanis Club installed the first play equipment in 1978, and Ann Arbor Farm & Garden adopted the park in 2023 to tend its native-plant beds.",
+      "descriptor": "Shady 1.5-acre neighborhood park with a playground between 7th and 8th streets",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/waterworks-park/"
+      ],
+      "writtenFor": {
+        "name": "Waterworks Park",
+        "lat": 42.27963,
+        "lng": -83.75919
       },
       "writtenOn": "2026-09-07"
     },
@@ -2733,6 +3394,33 @@
         "name": "Wheeler Park",
         "lat": 42.28784,
         "lng": -83.74539
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "wsg-gallery": {
+      "text": "The initials stand for Washington St. Gallery, where the artists' collective opened in 1999 — but WSG has been nomadic ever since, moving to Liberty St. in 2003 and S. Main St. in 2008 before the pandemic closed it in 2020. It reopened in June 2021 on E. Ann St., in a nineteenth-century brick storefront in what was the heart of Ann Arbor's Black business district and once housed Clint's Club. Fourteen members show painting, ceramics, fiber, jewelry, photography and prints.",
+      "descriptor": "Artist-owned downtown gallery, a 14-member collective since 1999",
+      "sources": [
+        "https://annarborobserver.com/wsgs-new-home/",
+        "https://wsg-art.com/"
+      ],
+      "writtenFor": {
+        "name": "WSG Gallery",
+        "lat": 42.2793,
+        "lng": -83.7488
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "wurster-park": {
+      "text": "The land was a gravel pit at the end of Fourth St. before the city named it in 1955 for Ernst M. Wurster, an Ann Arbor mayor from 1917 to 1919. Two champion trees stand here: a black oak on the north end thought to be 200-300 years old, and a chinkapin oak that is the largest of its species in Michigan. There's also a sand volleyball court, playground and horseshoe pit.",
+      "descriptor": "5.5-acre Old West Side park with sand volleyball and champion oaks",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/wurster-park/"
+      ],
+      "writtenFor": {
+        "name": "Wurster Park",
+        "lat": 42.2727,
+        "lng": -83.75444
       },
       "writtenOn": "2026-09-07"
     },
