@@ -148,6 +148,11 @@ describe('normalizeBlurbResults', () => {
             'https://www.google.com/search?q=x',
             'https://duckduckgo.com/?q=x',
             'https://maps.google.com/?cid=123',
+            // Google Maps short links and the search-redirect wrapper.
+            'https://goo.gl/maps/abc123',
+            'https://maps.app.goo.gl/abc123',
+            'https://g.page/some-venue',
+            'https://www.google.com/url?q=https://example.org',
             // Raw OSM database pages are map DATA, not reading — same class.
             'https://www.openstreetmap.org/node/2850801315',
             'https://openstreetmap.org/way/192516456',

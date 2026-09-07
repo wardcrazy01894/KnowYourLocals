@@ -28,7 +28,11 @@ const JUNK_SOURCE = new RegExp(
     // and docs.google.com host real institutional pages (a university's
     // building-name histories, say), and rejecting those loses good sources.
     String.raw`^https://maps\.google\.[a-z.]+/`,
-    String.raw`^https://(www\.)?google\.[a-z.]+/(maps|search)\b`,
+    // /url is Google's own redirect wrapper, /local is a Maps surface.
+    String.raw`^https://(www\.)?google\.[a-z.]+/(maps|search|url|local)\b`,
+    // Google Maps short links, which hide a Maps URL behind another host.
+    String.raw`^https://(maps\.app\.)?goo\.gl/`,
+    String.raw`^https://g\.page/`,
   ].join('|'),
   'i',
 )
