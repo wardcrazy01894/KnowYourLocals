@@ -864,6 +864,15 @@ never be seen. `--all` includes them, which is worth doing once a city's
 in-play set is complete: it future-proofs a later cap raise, since a promoted
 row then arrives with its write-up already done.
 
+`apply-blurbs` prints a **promotional-language warning** on every run, listing
+any accepted entry whose text _or descriptor_ contains an unsourced-superlative
+term (`award-winning`, `hidden gem`, `world-class`, …). It is a warning, not a
+reject: a **named, independently sourced** award is fine (a James Beard listing,
+a city stewardship award), while a vague boast with the venue's own site as its
+only source is not. Read the list every run — three such claims shipped in
+earlier cities precisely because the check was run by hand and its output
+skimmed.
+
 `apply-blurbs` keeps a row's **story** only at confidence high/medium (≤ 600
 chars) and its **descriptor** regardless (≤ 100 chars) — a low-confidence story
 is dropped, the descriptor survives, so a researched spot never falls back to

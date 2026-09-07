@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import {
   normalizeBlurbResults,
+  promotionalHits,
   isWritten,
   MAX_CHARS,
   MAX_DESCRIPTOR_CHARS,
@@ -242,5 +243,44 @@ describe('normalizeBlurbResults', () => {
         sources: ['https://en.wikipedia.org/wiki/X'],
       },
     ])
+  })
+})
+
+describe('promotionalHits', () => {
+  it('flags unsourced-superlative language in BOTH text and descriptor', () => {
+    // Checking only `text` is how "award-winning" shipped twice: once in a
+    // descriptor, once because the scan output went unread.
+    const rows = [
+      { id: 'a', text: 'An award-winning room.', descriptor: '' },
+      {
+        id: 'b',
+        text: '',
+        descriptor: 'Cafe known for award-winning chowders',
+      },
+      { id: 'c', text: 'A plain factual sentence.', descriptor: 'A cafe' },
+    ]
+    expect(promotionalHits(rows)).toEqual([
+      { id: 'a', terms: ['award-winning'] },
+      { id: 'b', terms: ['award-winning'] },
+    ])
+  })
+
+  it('catches the whole vocabulary, case-insensitively', () => {
+    const rows = [
+      {
+        id: 'a',
+        text: 'A Hidden Gem and a must-see, world-class and renowned.',
+      },
+    ]
+    expect(promotionalHits(rows)[0].terms.sort()).toEqual([
+      'hidden gem',
+      'must-see',
+      'renowned',
+      'world-class',
+    ])
+  })
+
+  it('returns nothing for clean rows', () => {
+    expect(promotionalHits([{ id: 'a', text: 'Opened in 1954.' }])).toEqual([])
   })
 })
