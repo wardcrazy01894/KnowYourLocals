@@ -831,7 +831,9 @@ descriptor is sourced from the venue's site, listings, and local press instead.
   Lead with the hook (the fact a local would tell a visitor), not a category
   description. Say "legend says" for folklore; don't state contested claims.
 - **Source it** via web/LLM research — Wikipedia, the city's own pages, local
-  press, the venue's site — and put the best 1–2 URLs in `sources` (they render
+  press (`gen-blurbs-workflow.mjs` keeps a per-city `LOCAL_PRESS` map of real
+  mastheads and names them in the prompt — add a row when adding a city), the
+  venue's site — and put the best 1–2 URLs in `sources` (they render
   as "read more" links by host). Do **not** spend Google Places quota on this;
   Places is reserved for open/closed + fame verification (§4b).
 - After writing or editing an entry, `npm run sync-blurbs -- <city> --accept
@@ -887,11 +889,11 @@ descriptor). Four retired entries are kept (`the-neon-lunchbox`, `baba`,
 Rewind St Pete is a different business with its own write-up).
 
 **State College is complete too — 200 of 200 in-play locations**, 170 with a
-story and all 200 with a descriptor; a college town leaves a much deeper paper
-trail than a beach town, so the story rate is far higher (85% vs 86% of a
-larger set, and at markedly higher confidence). Ann Arbor (300 in play) is the
-next run, one city fully finished before the next; Seattle (500) and Chicago
-(700) after that.
+story (85%) and all 200 with a descriptor. That story rate is essentially the
+same as St. Pete's (320 of 373, 86%), so a college town does not obviously
+leave a deeper paper trail than a beach town at this sample size. Ann Arbor
+(300 in play) is the next run, one city fully finished before the next;
+Seattle (500) and Chicago (700) after that.
 
 ---
 
