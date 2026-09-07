@@ -847,6 +847,7 @@ The same crash-safe shape as the fame pass (§4b), with no Google Places calls:
 
 ```bash
 npm run gen-blurbs -- stpete scripts/tmp/blurbs-stpete.workflow.js   # in-play rows without a blurb, famous first
+npm run gen-blurbs -- stpete <out.js> --all                          # ALSO benched rows (inPlay:false)
 # launch the generated script with the Workflow tool (scriptPath) — batches of 6:
 #   Research agent: web search + fetch (Wikipedia, venue site, local press), 1–3
 #   sentences, 1–2 https sources, confidence high|medium|low, "" if nothing reliable
@@ -856,6 +857,12 @@ npm run apply-blurbs -- stpete <results.json>                         # merge + 
 #   recovers finished batches (generic StructuredOutput harvester), then
 #   npm run gen-blurbs -- stpete … --ids <missing> for the rest
 ```
+
+By default only **in-play** rows are researched — a benched row (below the
+city's `playCap`) can never be picked for a daily lineup, so its blurb would
+never be seen. `--all` includes them, which is worth doing once a city's
+in-play set is complete: it future-proofs a later cap raise, since a promoted
+row then arrives with its write-up already done.
 
 `apply-blurbs` keeps a row's **story** only at confidence high/medium (≤ 600
 chars) and its **descriptor** regardless (≤ 100 chars) — a low-confidence story
