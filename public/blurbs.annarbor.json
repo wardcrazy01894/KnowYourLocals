@@ -1,0 +1,1249 @@
+{
+  "version": 1,
+  "city": "annarbor",
+  "blurbs": {
+    "afternoon-delight": {
+      "text": "",
+      "descriptor": "Breakfast and lunch cafe on E. Liberty St. downtown",
+      "sources": ["https://www.afternoondelightcafe.com/"],
+      "writtenFor": {
+        "name": "Afternoon Delight",
+        "lat": 42.27962,
+        "lng": -83.74628
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ahmos": {
+      "text": "",
+      "descriptor": "Mediterranean counter for gyros, shawarma and Mediterranean fries",
+      "sources": ["https://www.ahmos.com/"],
+      "writtenFor": {
+        "name": "Ahmo's",
+        "lat": 42.27522,
+        "lng": -83.74152
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "alley-bar": {
+      "text": "",
+      "descriptor": "Small downtown bar at 112 W. Liberty St., a block off Main",
+      "sources": [],
+      "writtenFor": {
+        "name": "Alley Bar",
+        "lat": 42.27972,
+        "lng": -83.74929
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "allmendinger-park": {
+      "text": "G. Frank Allmendinger gave the city the first 3.25 acres in 1917, naming the park for his grandfather John George Allmendinger, who settled in Washtenaw County in 1832. In 2012 artist Mary Thiefels built \"Nourishing Healthy Seeds,\" a community mosaic on the shelter pillars, with help from neighbors and Slauson Middle School students.",
+      "descriptor": "Eight-acre park on Pauline Blvd with ballfields, courts and a shaded playground",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/allmendinger-park/",
+        "https://localwiki.org/ann-arbor/Allmendinger_Park"
+      ],
+      "writtenFor": {
+        "name": "Allmendinger Park",
+        "lat": 42.2675,
+        "lng": -83.75585
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "amadeus": {
+      "text": "The Ann Arbor Observer calls Amadeus \"Ann Arbor's refined Polish-Hungarian restaurant.\" It was founded by Krystyna Aniolczyk, whose son Bart grew up in its kitchen before going on to open his own barbecue place, Jake's BBQ Shack, in Dexter.",
+      "descriptor": "Polish-Hungarian restaurant at 122 E. Washington St.",
+      "sources": ["https://annarborobserver.com/jakes-bbq-shack-opens/"],
+      "writtenFor": {
+        "name": "Amadeus",
+        "lat": 42.28035,
+        "lng": -83.74755
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "amers-delicatessen": {
+      "text": "Amer's has fed University of Michigan students from its State Street counter across from the Diag for more than 30 years, with a menu that runs from Mediterranean falafel and tabbouleh to New York bagels with lox and capers and a customizable acai bowl made with 100% acai. Owner Amer often works the counter himself, and staff are known for remembering regulars by name and order.",
+      "descriptor": "Mediterranean deli and cafe on S. State St. across from the Diag",
+      "sources": [
+        "https://www.michigandaily.com/arts/amers-delicatessen-a-university-of-michigan-students-home-base/"
+      ],
+      "writtenFor": {
+        "name": "Amer's Delicatessen",
+        "lat": 42.27882,
+        "lng": -83.74095
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ann-arbor-hands-on-museum": {
+      "text": "The museum opened in 1982 inside Ann Arbor's 1882 central fire station, which the fire department had vacated four years earlier. It now packs more than 250 interactive exhibits on physics, geology, math, music and technology into the old firehouse, and draws over 200,000 visitors a year.",
+      "descriptor": "Interactive science museum in the 1882 firehouse at Ann & Fifth",
+      "sources": ["https://en.wikipedia.org/wiki/Ann_Arbor_Hands-On_Museum"],
+      "writtenFor": {
+        "name": "Ann Arbor Hands-On Museum",
+        "lat": 42.28176,
+        "lng": -83.74643
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "anthonys-gourmet-pizza": {
+      "text": "Anthony's has been baking Chicago-style deep dish in stone hearth ovens in Ann Arbor since 1988, alongside New York-style and Sicilian pies. The N. Maple Road shop is one of two in town; the other is on Packard Street.",
+      "descriptor": "Chicago deep-dish and stone-hearth pizza on N. Maple Rd since 1988",
+      "sources": [
+        "https://anthonysgourmet.com/",
+        "https://www.restaurantji.com/mi/ann-arbor/anthonys-gourmet-pizza-/"
+      ],
+      "writtenFor": {
+        "name": "Anthony's Gourmet Pizza",
+        "lat": 42.29557,
+        "lng": -83.7803
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "argo-nature-area": {
+      "text": "Argo Dam was built by Detroit Edison in 1920 to generate power, decommissioned in 1959, and bought by the city in 1963; the flat water behind it, Argo Pond, is where Michigan and local high school crews row. In 2012 the city opened the Argo Cascades alongside it — nine small drops falling about 12 feet over 1,200 feet, so paddlers can ride around the dam instead of portaging.",
+      "descriptor": "22-acre Huron River park with trails, a canoe livery and the Argo Cascades",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/argo-park-nature-area/",
+        "https://en.wikipedia.org/wiki/Argo_Dam"
+      ],
+      "writtenFor": {
+        "name": "Argo Nature Area",
+        "lat": 42.29608,
+        "lng": -83.74225
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "argus-farm-stop-packard-cafe": {
+      "text": "Argus is a \"farm stop\" — a year-round market where the farmers own the produce, set their own prices and keep 70% of the sale — a model Kathy Sample and Bill Brinkerhoff brought to Ann Arbor in 2014. The second shop opened in August 2017 at 1200 Packard in the old Clague's Market building, and expanded in 2022 into a larger space a block up at 1226 Packard. Argus says it has paid over $26 million to local farms.",
+      "descriptor": "Second Argus farm stop on Packard Rd, open since 2017",
+      "sources": [
+        "https://www.argusfarmstop.com/our-mission",
+        "https://annarborobserver.com/argus-farm-stop-v-2/"
+      ],
+      "writtenFor": {
+        "name": "Argus Farm Stop - Packard Cafe",
+        "lat": 42.26578,
+        "lng": -83.73541
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ashleys-ann-arbor": {
+      "text": "Ashley's has poured beer a few steps from campus at 338 S. State St. since 1983, billing itself as Michigan's Premium Multi-Tap with a global list spanning Belgian beers, Bohemian, South German, Pacific Northwest and Michigan styles. It also runs a serious whiskey program, with a Scotch collection and curated flights.",
+      "descriptor": "Multi-tap craft beer pub at 338 S. State St. since 1983",
+      "sources": ["https://www.ashleys.com/"],
+      "writtenFor": {
+        "name": "Ashley's Ann Arbor",
+        "lat": 42.2781,
+        "lng": -83.74095
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "aventura": {
+      "text": "Restaurateur Sava Farah bought this 1872 building and found an antique table the previous owner had left behind. The room's old-world feel — brick arches and original stonework — suggested tapas, so she and her team went to Spain to research, and came back with Aventura. That table, \"La Mesa,\" still anchors the dining room.",
+      "descriptor": "Spanish tapas and paella in an 1872 building at 216 E. Washington St.",
+      "sources": [
+        "https://aventuraannarbor.com/about/",
+        "https://aventuraannarbor.com/"
+      ],
+      "writtenFor": {
+        "name": "Aventura",
+        "lat": 42.28033,
+        "lng": -83.74658
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "backroom-pizza": {
+      "text": "Students call it Dollar Pizza — cheese slices a buck, topped slices a quarter more. It sits half a block south of South University, serves the same pizza as the Brown Jug, and stays open late, which makes it the standard last stop of a night out.",
+      "descriptor": "Late-night dollar-slice window on Church St, half a block off South University",
+      "sources": ["https://localwiki.org/ann-arbor/Backroom_Pizza"],
+      "writtenFor": {
+        "name": "Backroom Pizza",
+        "lat": 42.27473,
+        "lng": -83.73444
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "bandemer-park": {
+      "text": "Bandemer was a railroad stockyard, and parts of it were used as a dumping ground during M-14 construction in the 1950s before the city reclaimed it; the Johnson-Greene riverfront parcel was acquired in the early 1980s with help from the Bandemer Trust Fund, an estate bequest. Its 38 acres hold a nine-hole disc golf course built in 2007, a dirt bike jump course, and rowing docks used by U-M, Huron High and the Ann Arbor Rowing Club.",
+      "descriptor": "38-acre Huron River park with rowing docks and a disc golf course",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/bandemer-park/"
+      ],
+      "writtenFor": {
+        "name": "Bandemer Park",
+        "lat": 42.29926,
+        "lng": -83.74411
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "bills-beer-garden": {
+      "text": "",
+      "descriptor": "Seasonal outdoor beer garden downtown, open March through October",
+      "sources": ["https://www.billsbeergarden.com/"],
+      "writtenFor": {
+        "name": "Bill's Beer Garden",
+        "lat": 42.27982,
+        "lng": -83.75012
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "blue-nile-ethiopian": {
+      "text": "",
+      "descriptor": "Ethiopian restaurant on E. Washington St. downtown",
+      "sources": ["https://www.bluenileannarbor.com/"],
+      "writtenFor": {
+        "name": "Blue Nile Ethiopian",
+        "lat": 42.28055,
+        "lng": -83.74635
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "broadway-cafe": {
+      "text": "The menu is famously short — a handful of Korean dishes plus a cheesesteak hoagie — and the signature item splits the difference: bulgogi beef piled on a soft bun with melted cheese and sauteed onions. An Observer cheap-eats review found the crowd split about half and half between the Korean plates and the sandwich.",
+      "descriptor": "Tiny Korean-and-cheesesteak-hoagie counter at 1139 Broadway St",
+      "sources": [
+        "https://broadwaycafea2.com/",
+        "https://annarborobserver.com/centsible-eats/"
+      ],
+      "writtenFor": {
+        "name": "Broadway Cafe",
+        "lat": 42.29071,
+        "lng": -83.73711
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "btb-burrito": {
+      "text": "Two students back from studying abroad opened it in 2003 as Big Ten Burrito. The Big Ten Conference objected to the name, so the shop ran a renaming contest that drew over 1,000 entries and came out the other side as BTB. This State Street spot between Hill and Packard is the flagship.",
+      "descriptor": "Burrito counter at 810 S. State, between Hill and Packard",
+      "sources": [
+        "https://localwiki.org/ann-arbor/Big_Ten_Burrito",
+        "https://btbburrito.com/"
+      ],
+      "writtenFor": {
+        "name": "BTB Burrito",
+        "lat": 42.27157,
+        "lng": -83.74079
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "burns-park": {
+      "text": "Burns Park sits on the site of a half-mile horse track that the Ann Arbor Driving Club ran until 1920; the city had bought the land in 1910 and named it for George Burns, a botany professor who helped build the city's park system. The 15 acres now hold ball fields, three tennis courts and two pickleball courts, a pétanque court and a playground, with Burns Park Elementary along the west edge and the Ann Arbor Senior Center in the southeast corner.",
+      "descriptor": "15-acre neighborhood park off Baldwin Ave. with ballfields and tennis",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/burns-park/"
+      ],
+      "writtenFor": {
+        "name": "Burns Park",
+        "lat": 42.26581,
+        "lng": -83.72817
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cafe-zola": {
+      "text": "",
+      "descriptor": "Downtown cafe on W. Washington St., with a second bistro on Washtenaw",
+      "sources": ["https://www.cafezola.com/"],
+      "writtenFor": {
+        "name": "Cafe Zola",
+        "lat": 42.28064,
+        "lng": -83.74931
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "casa-dominicks": {
+      "text": "",
+      "descriptor": "Longtime local restaurant at 812 Monroe St. in Ann Arbor",
+      "sources": [
+        "https://arborupdate.com/article/1758/dominicks-proposes-pud"
+      ],
+      "writtenFor": {
+        "name": "Casa Dominicks",
+        "lat": 42.27315,
+        "lng": -83.73871
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "caseys-tavern": {
+      "text": "Casey's was carved out of the old Washtenaw Lumber Co. office on Depot Street by developer Bill Martin nearly forty years ago, and has been a classic townie hangout for burgers and pub grub ever since. A much larger second location later opened on the east side, off Plymouth Road in the former Carson's American Bistro space.",
+      "descriptor": "Townie tavern in a former lumberyard office on Depot St, known for burgers",
+      "sources": [
+        "https://www.caseys-tavern.com/",
+        "https://annarborobserver.com/caseys-tavern-adds-an-eastern-outpost/"
+      ],
+      "writtenFor": {
+        "name": "Casey's Tavern",
+        "lat": 42.28785,
+        "lng": -83.74434
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "comet-coffee": {
+      "text": "Comet hides at 16 Nickels Arcade — the glass-roofed shopping passage off State Street, finished in 1918 and described as perhaps the only remaining free-standing commercial arcade building in Michigan. Its coffee has a following among local baristas: the owner of Espy Cafe worked at Comet before opening his own place.",
+      "descriptor": "Small independent coffee bar tucked inside Nickels Arcade",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nickels_Arcade",
+        "https://annarborobserver.com/coffeegalitarianism/"
+      ],
+      "writtenFor": {
+        "name": "Comet Coffee",
+        "lat": 42.27844,
+        "lng": -83.74129
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "connor-oneils": {
+      "text": "Conor O'Neill's was designed in Ireland: the front room copies a rural \"shop pub,\" with timber floors and shelves for merchandise, while the back is built around a cottage room meant for storytelling and music. Irish bric-a-brac throughout nods to Irish music, literature, sport and history, and a trad Irish session runs every Sunday.",
+      "descriptor": "Irish pub at 318 S. Main St., designed in Ireland",
+      "sources": [
+        "https://www.conoroneills.com/history",
+        "https://www.conoroneills.com/events/join-us-every-sunday-for-our-trad-irish-session"
+      ],
+      "writtenFor": {
+        "name": "Connor O'Neils",
+        "lat": 42.27891,
+        "lng": -83.74884
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cottage-inn-pizza": {
+      "text": "Cottage Inn started in 1948 at 512 E. William St. near campus — a coffee business that added pizza and is credited with being the first place in Ann Arbor to serve it. Franchising began in Ypsilanti in 1986, and the chain now runs more than 50 locations across Michigan and Ohio.",
+      "descriptor": "Branch of the Ann Arbor pizza chain founded in 1948",
+      "sources": ["https://en.wikipedia.org/wiki/Cottage_Inn_Pizza"],
+      "writtenFor": {
+        "name": "Cottage Inn Pizza - Lakewood",
+        "lat": 42.27613,
+        "lng": -83.77834
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "crisler-center": {
+      "text": "Opened December 6, 1967 and named for longtime athletic director Fritz Crisler, the arena is nicknamed \"the House That Cazzie Built\": star Cazzie Russell drew basketball crowds too big for Yost Field House, which is what forced the university to build it. It seats about 12,707 and got a $52 million renovation completed in 2012.",
+      "descriptor": "Michigan basketball arena since 1967, \"the House That Cazzie Built\"",
+      "sources": ["https://en.wikipedia.org/wiki/Crisler_Center"],
+      "writtenFor": {
+        "name": "Crisler Center",
+        "lat": 42.26504,
+        "lng": -83.74671
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "detroit-observatory": {
+      "text": "U-M president Henry Philip Tappan pitched it in an 1852 speech and Detroit businessmen paid for it — which is why an Ann Arbor building is named for Detroit. Its 12 5/8-inch Fitz refractor was the third-largest refracting telescope in the world when it was installed in 1857, and director James Craig Watson used the place to discover 22 asteroids between 1863 and 1877.",
+      "descriptor": "1854 University of Michigan observatory, now a campus museum",
+      "sources": ["https://en.wikipedia.org/wiki/Detroit_Observatory"],
+      "writtenFor": {
+        "name": "Detroit Observatory",
+        "lat": 42.28198,
+        "lng": -83.73168
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "dimos-deli-donuts": {
+      "text": "It opened in 1973 as an Amy Joy Donuts franchise and became Donut's Time after that chain folded. In 1991 the Dimo family — Karim and Mary — added breakfast, deli sandwiches and Mediterranean dishes alongside the donuts.",
+      "descriptor": "Donuts, breakfast and deli sandwiches on W. Stadium Blvd since 1973",
+      "sources": [
+        "https://www.dimosdelianddonuts.com/about",
+        "https://www.dimosdelianddonuts.com/"
+      ],
+      "writtenFor": {
+        "name": "Dimo's Deli & Donuts",
+        "lat": 42.2711,
+        "lng": -83.77388
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "evergreen": {
+      "text": "",
+      "descriptor": "Chinese restaurant at 2771 Plymouth Rd. on Ann Arbor's northeast side",
+      "sources": ["https://www.evergreen-restaurant.com/"],
+      "writtenFor": {
+        "name": "Evergreen - Logan",
+        "lat": 42.30376,
+        "lng": -83.70582
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "fleetwood-diner": {
+      "text": "The Fleetwood opened in 1949 as the Dag-Wood Diner, a prefab steel lunch counter built from a Toledo diner kit, and was renamed the Fleetwood in 1971. The tiny round-the-clock counter is famous for its Hippie Hash and for feeding students, townies, artists and late-night philosophers at any hour.",
+      "descriptor": "Downtown 24-hour diner in a 1949 prefab steel car, home of the Hippie Hash",
+      "sources": ["https://annarborobserver.com/the-fleetwood-diner/"],
+      "writtenFor": {
+        "name": "Fleetwood Diner",
+        "lat": 42.27951,
+        "lng": -83.75005
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "franks-restaurant": {
+      "text": "Frank's is named for the brother-in-law who was the original partner, but the man at the griddle was Pete Poulos, who spent more than forty years flipping burgers there and cooked for the U-M football team. After a neck injury he retired and sold the diner to Tony Zervogiannis in October 2013, who kept the place almost exactly as it was.",
+      "descriptor": "Small breakfast-and-lunch diner on Maynard St next to Tower Plaza",
+      "sources": ["https://annarborobserver.com/franks-pete-poulos-retires/"],
+      "writtenFor": {
+        "name": "Frank's Restaurant",
+        "lat": 42.27826,
+        "lng": -83.74218
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "frita-batidos": {
+      "text": "Chef-owner Eve Aronoff trained at Le Cordon Bleu in Paris but built this place around childhood summers spent with her grandmother in Miami. A frita is a chorizo burger buried under shoestring fries on a soft egg bun; a batido is a tropical milkshake of fresh fruit, crushed ice and sweetened milk. The restaurant says Michigan Daily readers have voted it the city's best burger every year since 2014.",
+      "descriptor": "Cuban-inspired street food downtown — chorizo fritas and tropical batidos",
+      "sources": [
+        "https://fritabatidos.com/ann-arbor/chef/",
+        "https://www.fritabatidos.com/ann-arbor"
+      ],
+      "writtenFor": {
+        "name": "Frita Batidos",
+        "lat": 42.28041,
+        "lng": -83.74936
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "george-washington-park": {
+      "text": "This sliver of park exists for one thing: The Rock, a 23-ton boulder that parks superintendent Eli Gallup pulled from a city gravel pit and installed in 1932 for George Washington's 200th birthday. Visiting Michigan State students painted it in their colors in the mid-1950s, Michigan students painted back, and it has been repainted ever since — the buildup was about five inches thick by 2010.",
+      "descriptor": "Traffic-triangle park at Washtenaw and Hill, home of The Rock",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Rock_(University_of_Michigan)",
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/george-washington-park-the-rock/"
+      ],
+      "writtenFor": {
+        "name": "George Washington Park",
+        "lat": 42.2726,
+        "lng": -83.72844
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "good-time-charleys": {
+      "text": "Open since 1979 at the corner of South University and Church, Charley's has been a fixture for Michigan students and faculty for four decades. It's known for hand-rolled Styx and Twists stuffed breadsticks, Long Island fishbowls and an outdoor patio.",
+      "descriptor": "Campus bar at S. University and Church since 1979; fishbowls and Styx",
+      "sources": ["https://www.charleysannarbor.com/"],
+      "writtenFor": {
+        "name": "Good Time Charley's",
+        "lat": 42.27482,
+        "lng": -83.73485
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "grizzly-peak-brewing-company": {
+      "text": "When a 2022 remodel quietly dropped the cheese curds from Grizzly Peak's post-renovation menu, an online petition launched under the name \"Kim Curdashian\" set out to bring them back. The brewpub promised their return if the petition hit 500 signatures by February 12; the goal was met early, and the curds came back on Valentine's Day, with signers getting a free order.",
+      "descriptor": "Downtown brewpub at 120 W. Washington with house beer and cheese curds",
+      "sources": [
+        "https://grizzlypeak.net/",
+        "https://annarborobserver.com/grizzly-peak-gets-an-update/"
+      ],
+      "writtenFor": {
+        "name": "Grizzly Peak Brewing Company",
+        "lat": 42.28064,
+        "lng": -83.74964
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "heidelberg-restaurant": {
+      "text": "The Heidelberg has served German food on N. Main since 1961, and it stacks three rooms in one building: German dining at street level, the darts-and-games Rathskeller in the basement, and the Club Above upstairs for dancing and entertainment.",
+      "descriptor": "German restaurant on N. Main since 1961, three floors deep",
+      "sources": ["https://www.heidelbergannarbor.com/"],
+      "writtenFor": {
+        "name": "Heidelberg Restaurant",
+        "lat": 42.28289,
+        "lng": -83.74865
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "holocaust-memorial": {
+      "text": "The seated, grieving bronze figure is the work of sculptor Leonard Baskin, erected in 1994. It stands in Raoul Wallenberg Plaza next to U-M's Rackham Building, named for the 1935 University of Michigan graduate who saved tens of thousands of Hungarian Jews in 1944.",
+      "descriptor": "Leonard Baskin bronze in Wallenberg Plaza beside U-M's Rackham Building",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Leonard_Baskin",
+        "https://annarborobserver.com/holocaust-memorial/"
+      ],
+      "writtenFor": {
+        "name": "Holocaust Memorial",
+        "lat": 42.28059,
+        "lng": -83.73746
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "homes-brewery": {
+      "text": "HOMES is the schoolroom mnemonic for the Great Lakes — Huron, Ontario, Michigan, Erie, Superior — and the water theme runs down to the extensive underground stormwater retention system at the property. Tommy Kennedy opened it on Jackson Ave in April 2017 with head brewer Nick Panchame, and the house style has stayed hop-forward ales and sours.",
+      "descriptor": "West-side brewpub at 2321 Jackson Ave, hoppy and sour beers",
+      "sources": [
+        "https://www.homesbrewery.com/infoandfaq",
+        "https://annarborobserver.com/homes-at-last/"
+      ],
+      "writtenFor": {
+        "name": "Homes Brewery",
+        "lat": 42.28027,
+        "lng": -83.77845
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "hopcat": {
+      "text": "HopCat started in Grand Rapids in 2008 and grew into a Michigan beer-bar chain built on enormous tap lists. Its signature fries spent years as \"Crack Fries\" until the company renamed them \"Cosmik Fries\" in December 2018 — after the Frank Zappa song \"Cosmik Debris\" — to avoid making light of crack cocaine addiction.",
+      "descriptor": "Michigan craft-beer bar at 311 Maynard St., known for Cosmik Fries",
+      "sources": [
+        "https://en.wikipedia.org/wiki/HopCat",
+        "https://hopcat.com/ann-arbor"
+      ],
+      "writtenFor": {
+        "name": "HopCat",
+        "lat": 42.27893,
+        "lng": -83.74184
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ingalls-mall": {
+      "text": "The pedestrian mall is where the Ann Arbor Summer Festival stages Top of the Park — free outdoor concerts, Movies by Moonlight and street performances on the campus green.",
+      "descriptor": "Campus green on Ingalls Mall, home of the Summer Festival's Top of the Park",
+      "sources": ["https://a2sf.org/top-of-the-park/"],
+      "writtenFor": {
+        "name": "Ingalls Mall",
+        "lat": 42.2795,
+        "lng": -83.73824
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "jerusalem-garden": {
+      "text": "Jerusalem Garden has been a downtown Ann Arbor fixture at 314 E. Liberty since 1987 and still makes its hummus the same way — by hand, every morning, from the original family recipe. Falafel is fried to order and the kabobs come off a charbroiler, with a menu that is vegetarian-, vegan- and halal-friendly.",
+      "descriptor": "Middle Eastern counter-service spot at 314 E. Liberty since 1987",
+      "sources": ["https://jerusalemgarden.net/"],
+      "writtenFor": {
+        "name": "Jerusalem Garden",
+        "lat": 42.27932,
+        "lng": -83.74544
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "jolly-pumpkin": {
+      "text": "The cafe pours beer from Jolly Pumpkin Artisan Ales, the brewery Ron and Laurie Jeffries founded in Dexter in 2004 to make deliberately funky, wild-fermented ales aged in oak wine barrels, former bourbon barrels and large foudres. Its Oro de Calabaza took the 2004 gold medal in the Belgian- and French-style ale category at the Great American Beer Festival.",
+      "descriptor": "Cafe and brewpub pouring oak-aged sour ales from Jolly Pumpkin",
+      "sources": ["https://en.wikipedia.org/wiki/Jolly_Pumpkin_Artisan_Ales"],
+      "writtenFor": {
+        "name": "Jolly Pumpkin",
+        "lat": 42.27916,
+        "lng": -83.74846
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kangs": {
+      "text": "Kang's bills itself as a thirty-six-year-old Ann Arbor staple, which makes it one of the city's oldest Korean kitchens and a fixture of the South University strip for students and locals alike.",
+      "descriptor": "Longtime home-style Korean restaurant at 1327 South University Ave",
+      "sources": ["https://www.kangsannarbor.com/"],
+      "writtenFor": {
+        "name": "Kang's",
+        "lat": 42.27515,
+        "lng": -83.7323
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kelsey-museum-of-archaeology": {
+      "text": "Founded in 1928, the Kelsey holds more than 100,000 ancient and medieval artifacts inside Newberry Hall, a Richardsonian Romanesque building put up between 1888 and 1891. Its strength is everyday life: roughly 45,000 objects from the Roman-era Egyptian town of Karanis — the largest such collection outside Cairo — plus about 13,000 from Seleucia-on-the-Tigris in Iraq.",
+      "descriptor": "U-M archaeology museum in 1890s Newberry Hall on S. State St.",
+      "sources": ["https://en.wikipedia.org/wiki/Kelsey_Museum_of_Archaeology"],
+      "writtenFor": {
+        "name": "Kelsey Museum of Archaeology",
+        "lat": 42.27674,
+        "lng": -83.74139
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "knights-downtown-steakhouse": {
+      "text": "The Knight family has fed Ann Arbor since 1952, when Ray and Mary Knight bought Knight's Market on the west side. Ray added the Dexter Road steakhouse in 1984, Jackson followed in 2001, and the downtown room at Liberty and Maynard opened in 2014 — still serving beef hand-cut fresh daily at the family's own meat market.",
+      "descriptor": "Steakhouse at the corner of Liberty and Maynard, open since 2014",
+      "sources": [
+        "https://knightsrestaurants.com/our-story",
+        "https://knightsrestaurants.com/"
+      ],
+      "writtenFor": {
+        "name": "Knight's Downtown Steakhouse",
+        "lat": 42.27928,
+        "lng": -83.74184
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "krazy-jims-blimpy-burger": {
+      "text": "Opened in 1953 by Jim Shafer on South Division, where it stayed six decades, Blimpy runs orders down a line with rules: order for yourself, don't switch places, no phones — then pick fried items, patty count (double, triple, quad or more), bun, grilled toppings and cheese as the cooks work without tickets. The university bought the old building in 2012 and Blimpy reopened on S. Ashley in September 2014. It's appeared on Diners, Drive-Ins and Dives and Man v. Food.",
+      "descriptor": "Griddled sliders and deep-fried veggies since 1953, now on South Ashley",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Krazy_Jim%27s_Blimpy_Burger",
+        "https://www.blimpyburger.com/how-to-order"
+      ],
+      "writtenFor": {
+        "name": "Krazy Jim's Blimpy Burger",
+        "lat": 42.2794,
+        "lng": -83.75012
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "leslie-park-golf-course": {
+      "text": "Ann Arbor's municipal course on Traver Road plays 6,611 yards over rolling hills — laid out by E. Lawrence Packard and later enhanced by Arthur Hills. Golf Digest has named it the #1 municipal course in Michigan, and it has also been recognized by Michigan Golfer magazine and the Michigan Golf Network.",
+      "descriptor": "City-run 18-hole championship course on the hills of northeast Ann Arbor",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/activities/golf/",
+        "https://leslieparkgolf.com/"
+      ],
+      "writtenFor": {
+        "name": "Leslie Park Golf Course",
+        "lat": 42.30749,
+        "lng": -83.72255
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "leslie-science-nature-center": {
+      "text": "Dr. Eugene Leslie, a University of Michigan chemical engineering professor whose property hosted pioneering work on things like no-knock gasoline, farmed this hillside with his wife Emily — Hereford cattle, hogs and orchard fruit they sold. On their deaths in 1976, months apart, they left the land to the City of Ann Arbor asking that it be used for children; their honey house is now the Critter House.",
+      "descriptor": "Nature center on the Leslies' former Ann Arbor farm, willed to the city for children",
+      "sources": ["https://discoverscienceandnature.org/history"],
+      "writtenFor": {
+        "name": "Leslie Science & Nature Center",
+        "lat": 42.30053,
+        "lng": -83.72979
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "liberty-plaza": {
+      "text": "A 0.26-acre, two-level plaza at the corner of Liberty and Division, next to the Kempf House. Its sensory garden — plants chosen to maximize sensory impact with people with disabilities in mind, for their textures, scents, shapes and bright colors — was created in 2013 by the city's Commission on Disability Issues as a memorial to Pamela Baker Trostle, its former chair.",
+      "descriptor": "Two-level quarter-acre downtown plaza at Liberty and Division",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/liberty-plaza/"
+      ],
+      "writtenFor": {
+        "name": "Liberty Plaza",
+        "lat": 42.2792,
+        "lng": -83.74439
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "madras-masala": {
+      "text": "Madras Masala spent about twenty years on Maynard St. downtown until a January 20, 2023 fire, believed to have started overnight in the kitchen's ventilation system, destroyed the building. Owner Gopal Ramanujam reopened on Packard less than ten months later with South Indian and Indo-Chinese specialties — counter service now, and no more lunch buffet.",
+      "descriptor": "South Indian and Indo-Chinese counter-service spot on Packard",
+      "sources": [
+        "https://annarborobserver.com/madras-masala-reopens-on-packard/",
+        "https://annarborobserver.com/after-the-fire/"
+      ],
+      "writtenFor": {
+        "name": "Madras Masala - Bryant Pattengill East",
+        "lat": 42.25717,
+        "lng": -83.72775
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mani-osteria-and-bar": {
+      "text": "Mani has served Italian osteria food at 341 E. Liberty since 2011. The name is simply the Italian word for \"hands\" — as the restaurant puts it, \"'Mani' means hands, and since 2011 ours have been busy.\"",
+      "descriptor": "Italian osteria at 341 E. Liberty St., open since 2011",
+      "sources": ["https://maniosteria.com/"],
+      "writtenFor": {
+        "name": "Mani Osteria and Bar",
+        "lat": 42.27959,
+        "lng": -83.74423
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "michigan-league": {
+      "text": "Built in 1929 on North University Avenue and designed by the Pond brothers, the Michigan League was the women's answer to the Michigan Union, where women had once needed a male escort and a separate north entrance. It houses the Lydia Mendelssohn Theatre; the Union's escort rule didn't fall until 1956.",
+      "descriptor": "1929 student union building on North University, by the Pond brothers",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Michigan_Union",
+        "https://en.wikipedia.org/wiki/University_of_Michigan_Central_Campus_Historic_District"
+      ],
+      "writtenFor": {
+        "name": "Michigan League",
+        "lat": 42.27926,
+        "lng": -83.73803
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "michigan-stadium": {
+      "text": "Opened in 1927 for $950,000 with 72,000 seats, Michigan Stadium now holds 107,601 — the largest stadium in the United States and third-largest in the world. Most of the bowl sits below ground level, so it looks deceptively small from the street. A record 115,109 watched Michigan play Notre Dame here in 2013, and the place has also hosted an NHL Winter Classic and a 112,000-person concert.",
+      "descriptor": "College football's \"Big House\" — the largest stadium in the US, open since 1927",
+      "sources": ["https://en.wikipedia.org/wiki/Michigan_Stadium"],
+      "writtenFor": {
+        "name": "Michigan Stadium",
+        "lat": 42.26586,
+        "lng": -83.74871
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "michigan-theater": {
+      "text": "Opened January 5, 1928 as a Lombard Romanesque movie palace, the Michigan was facing demolition when its lease ran out in 1978 until community members and organists rallied to save it. Its 1927 Barton theatre pipe organ is one of only about 45 still in their original homes and is played before screenings. The nonprofit venue hosts the Ann Arbor Film Festival.",
+      "descriptor": "1928 downtown movie palace with its original Barton pipe organ",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Michigan_Theater_(Ann_Arbor,_Michigan)"
+      ],
+      "writtenFor": {
+        "name": "Michigan Theater",
+        "lat": 42.27949,
+        "lng": -83.74175
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mighty-good-coffee": {
+      "text": "Mighty Good started roasting in Ann Arbor in 2006, and its beans now turn up all over town — Argus Farm Stop, the Produce Station, Sparrow Market, Knight's. The women- and queer-run roaster moved its roasting operation out to Dexter in 2025.",
+      "descriptor": "Local coffee roaster's cafe at 217 N. Main St., roasting since 2006",
+      "sources": [
+        "https://mightygoodcoffee.com/pages/about-us",
+        "https://mightygoodcoffee.com/pages/retail-stores"
+      ],
+      "writtenFor": {
+        "name": "Mighty Good Coffee",
+        "lat": 42.28303,
+        "lng": -83.74858
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "miss-kim": {
+      "text": "Miss Kim is the Korean member of Zingerman's Community of Businesses in Ann Arbor. The kitchen likes to bend the canon — a cacio e pepe tteokbokki puts a southern Italian twist on the classic Korean rice-cake dish.",
+      "descriptor": "Korean restaurant in Zingerman's Community of Businesses",
+      "sources": [
+        "https://www.zingermanscommunity.com/businesses/miss-kim/",
+        "https://en.wikipedia.org/wiki/Zingerman%27s"
+      ],
+      "writtenFor": {
+        "name": "Miss Kim",
+        "lat": 42.2847,
+        "lng": -83.7464
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mister-spots": {
+      "text": "Started in Bowling Green, Ohio in February 1985 by two guys named Jim, one of them a Philadelphia transplant who named the place after his cat, Spots. It was among the first restaurants in the Midwest to sell Buffalo wings; the Ann Arbor shop opened in November 1986 and still gets its Amoroso's rolls shipped in from Philadelphia.",
+      "descriptor": "Philly cheesesteaks, hoagies and Buffalo wings on S. State since 1986",
+      "sources": ["https://mrspots.com/"],
+      "writtenFor": {
+        "name": "Mister Spots",
+        "lat": 42.27161,
+        "lng": -83.74077
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "nichols-arboretum": {
+      "text": "Founded in 1907 after Esther and Walter Nichols donated their 27-acre farm to the university, the Arb was laid out by landscape architect O.C. Simonds, whose \"long views\" still run out to tree-filled horizons from the Main Valley. Its W.E. Upjohn Peony Garden holds roughly 350 cultivars — the largest heirloom peony collection in North America — and Shakespeare in the Arb has staged plays across the grounds since 2000.",
+      "descriptor": "128-acre arboretum by the Huron River, \"the Arb,\" with a huge heirloom peony garden",
+      "sources": ["https://en.wikipedia.org/wiki/Nichols_Arboretum"],
+      "writtenFor": {
+        "name": "Nichols Arboretum",
+        "lat": 42.28048,
+        "lng": -83.71912
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "nickels-arcade": {
+      "text": "Tom E. Nickels had this covered arcade built between 1915 and 1918 on State Street land assembled from his grandfather's meat market site, in a form popularized by the Cleveland Arcade. Herman Pipp designed it, with a wire-glass gable skylight over the 261-foot gallery; the Farmers and Mechanics Bank was the first tenant in 1915, and it is thought to be Michigan's only surviving freestanding commercial arcade.",
+      "descriptor": "Glass-roofed 1918 shopping arcade off S. State Street",
+      "sources": ["https://en.wikipedia.org/wiki/Nickels_Arcade"],
+      "writtenFor": {
+        "name": "Nickels Arcade",
+        "lat": 42.2784,
+        "lng": -83.74139
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "no-thai": {
+      "text": "No Thai! opened on September 25, 2005 in a 675-square-foot storefront and grew into six Michigan locations, five of them in Ann Arbor — by the owners' own rough count, about 8.5 million dishes later. The Plymouth Road shop at 1745 Plymouth Rd. is the Northside outpost.",
+      "descriptor": "Thai-inspired counter on Plymouth Rd., the Northside No Thai!",
+      "sources": ["https://nothai.com/", "https://nothai.com/locations/"],
+      "writtenFor": {
+        "name": "No Thai! - Northside",
+        "lat": 42.29843,
+        "lng": -83.72145
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "old-town-tavern": {
+      "text": "Open since 1972 at 122 W. Liberty, the Old Town started as a blue-collar bar that opened at 6 a.m. to accommodate third-shift workers from area factories. It calls itself one of downtown Ann Arbor's most beloved townie bars.",
+      "descriptor": "Townie bar at 122 W. Liberty, established 1972",
+      "sources": ["https://www.oldtownaa.com/"],
+      "writtenFor": {
+        "name": "Old Town Tavern",
+        "lat": 42.27973,
+        "lng": -83.74971
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pacific-rim": {
+      "text": "Pacific Rim grew out of Kana, a Korean restaurant Mr. and Mrs. Ko opened near the U-M hospital in 1982; it moved downtown in 1995. In 2000 their son Y.B. Ko took over and partnered with Duc Tang — Saigon-born, a Yale biochemistry grad with no formal culinary training — to push the menu pan-Asian, and Duc has run it alone since Y.B. left for Hawaii in 2007. He rejects the word \"fusion.\"",
+      "descriptor": "Upscale pan-Asian restaurant in downtown Ann Arbor",
+      "sources": [
+        "https://pacificrimbykana.com/about-pacific-rim/",
+        "https://pacificrimbykana.com/"
+      ],
+      "writtenFor": {
+        "name": "Pacific Rim",
+        "lat": 42.27972,
+        "lng": -83.74938
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "palio": {
+      "text": "Palio has been on S. Main since September 1991, named for the bareback horse race run through Siena — the winners of that race are recorded on a mural in the back dining room. In summer the rooftop, Palio Del Sole, runs its own kitchen and a menu completely different from downstairs, plus sangria by the pitcher.",
+      "descriptor": "Italian trattoria at 347 S. Main with a seasonal rooftop bar, since 1991",
+      "sources": [
+        "https://paliorestaurant.com/",
+        "https://paliorestaurant.com/ann-arbor/"
+      ],
+      "writtenFor": {
+        "name": "Palio",
+        "lat": 42.27828,
+        "lng": -83.74844
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "palmer-house": {
+      "text": "Frank Lloyd Wright designed this Usonian house in 1950 for U-M economics professor William Palmer and his wife Mary, and it was built in 1952 from red cypress and brick on a triangular grid with no right angles in the structure. The Palmer family owned it until 2009; it joined the National Register of Historic Places in 1999.",
+      "descriptor": "1952 Frank Lloyd Wright Usonian house near Nichols Arboretum",
+      "sources": ["https://en.wikipedia.org/wiki/William_Palmer_House"],
+      "writtenFor": {
+        "name": "Palmer House",
+        "lat": 42.27858,
+        "lng": -83.71574
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "peony-garden": {
+      "text": "William E. Upjohn, a U-M medical alumnus, donated his personal peony collection to the Arb in 1922, and the garden opened in 1927 with 280 cultivars. About 196 of those originals still grow among roughly 350 cultivars today — the largest public collection of heirloom, pre-1950 herbaceous peonies in North America. Peak bloom is late May into early June.",
+      "descriptor": "Heirloom peony garden in Nichols Arboretum; blooms late May–early June",
+      "sources": ["https://en.wikipedia.org/wiki/Nichols_Arboretum"],
+      "writtenFor": {
+        "name": "Peony Garden",
+        "lat": 42.28112,
+        "lng": -83.72557
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pilars-tamales": {
+      "text": "Sylvia Nolasco-Rivers has been feeding Ann Arbor Salvadoran tamales and pupusas for more than twenty years, having moved her family here and grown the restaurant out of catering work. Her fundraising for causes back in El Salvador grew into Pilar's Foundation, incorporated as a nonprofit in 2019.",
+      "descriptor": "Salvadoran tamales and pupusas on W Liberty St, run by its founder",
+      "sources": ["https://www.pilarstamales.com/"],
+      "writtenFor": {
+        "name": "Pilar’s Tamales",
+        "lat": 42.27369,
+        "lng": -83.77756
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pizza-bobs": {
+      "text": "An Ann Arbor rite of passage since 1972, best known for the Original Chipati — trademarked, house sauce and all — alongside thick milkshakes, toasted subs and pizza. It has fed more than fifty years of students on the State Street strip; the shop's own site dates the Chipati itself to 1971.",
+      "descriptor": "Pizza, toasted subs and the original Chipati at 800 S. State since 1972",
+      "sources": ["https://pizzabobs.net/"],
+      "writtenFor": {
+        "name": "Pizza Bob's",
+        "lat": 42.27179,
+        "lng": -83.74077
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pizza-house": {
+      "text": "",
+      "descriptor": "Campus-area pizzeria on Church Street near South University",
+      "sources": ["https://pizzahouse.com/"],
+      "writtenFor": {
+        "name": "Pizza House",
+        "lat": 42.27419,
+        "lng": -83.73479
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pretzel-bell": {
+      "text": "The original Pretzel Bell ran from 1934 to 1985 at 120 E. Liberty, a gathering place for townies and students where celebrations meant ringing the house bell and the Michigan Daily staff, the Men's Glee Club and bluegrass band the RFD Boys were regulars. The name was revived at 226 S. Main, where the P-Bell still trades on that U-M history.",
+      "descriptor": "U-M-themed bar and grill at 226 S. Main",
+      "sources": [
+        "https://thepretzelbell.com/",
+        "https://annarborobserver.com/good-to-the-last-crumb/"
+      ],
+      "writtenFor": {
+        "name": "Pretzel Bell",
+        "lat": 42.27973,
+        "lng": -83.7488
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ray-fisher-stadium": {
+      "text": "It's named for Ray Fisher, who left the Cincinnati Reds after the 1920 season to coach Michigan and was ruled ineligible for leaving without proper notice — Commissioner Landis upheld the complaint, and Bowie Kuhn didn't reinstate him until 1980. Fisher coached here 38 seasons, winning 15 Big Ten titles and the 1953 College World Series.",
+      "descriptor": "Michigan Wolverines baseball park, opened 1923",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ray_Fisher_Stadium",
+        "https://en.wikipedia.org/wiki/Ray_Fisher_(baseball)"
+      ],
+      "writtenFor": {
+        "name": "Ray Fisher Stadium",
+        "lat": 42.26757,
+        "lng": -83.74247
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "real-seafood-company": {
+      "text": "Founder Dennis opened Real Seafood Co. in 1975 on the bet that downtown Ann Arbor needed a proper fish house to match the character Main Street was building; it was an instant hit and has held the corner for five decades. The room still runs an oyster bar and three-season open-air atria over the sidewalk, and the name has since spread to Toledo, Bay City, Grand Rapids and Coconut Point, Florida.",
+      "descriptor": "Seafood house and oyster bar at 341 S. Main St. since 1975",
+      "sources": [
+        "https://realseafoodcorestaurant.com/locations/ann-arbor-location/",
+        "https://www.realseafoodcorestaurant.com/"
+      ],
+      "writtenFor": {
+        "name": "Real Seafood Company",
+        "lat": 42.27837,
+        "lng": -83.74839
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ricks-american-cafe": {
+      "text": "Rick's has been a University of Michigan student fixture at 611 Church Street since 1980, running DJs and a dance floor most nights and showing Michigan and Michigan State games. The Daily Meal named it one of the 25 best college bars in America.",
+      "descriptor": "College bar and DJ dance spot on Church Street since 1980",
+      "sources": ["https://www.ricksamericancafe.com/"],
+      "writtenFor": {
+        "name": "Rick's American Cafe",
+        "lat": 42.27446,
+        "lng": -83.73444
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "riverside-park": {
+      "text": "The land was an unofficial dump before parks superintendent Eli Gallup assembled it from sixteen separate parcels between 1925 and 1934; Depression-era WPA crews cleaned it up and the playground was completed in 1934. A grove of redbud trees here is dedicated to veterans of World War I, and the Border-to-Border Trail runs through on its way to Argo and Island parks.",
+      "descriptor": "15-acre Huron River park off Canal St with a WWI redbud grove",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/riverside-park/"
+      ],
+      "writtenFor": {
+        "name": "Riverside Park",
+        "lat": 42.28752,
+        "lng": -83.73677
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "roosroast-coffee": {
+      "text": "RoosRoast has been roasting in Ann Arbor since 2005 — \"born in a garage, raised in Ann Arbor,\" as it puts it — and is known nearly as much for its blend names as its beans: Lobster Butter Love, Rich French Neighbor, A-A Cowboy.",
+      "descriptor": "Ann Arbor coffee roaster and café, born in a garage in 2005",
+      "sources": ["https://roosroast.com/"],
+      "writtenFor": {
+        "name": "RoosRoast Coffee",
+        "lat": 42.27968,
+        "lng": -83.74773
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "savas": {
+      "text": "Sava Lelcaj opened a 24-seat cafe on State St. in 2007; when Zanzibar across the street closed in 2009 she moved into its space and expanded to 300 seats. Now Sava Farah, she has built the Pulpo Group around it, which also runs Aventura, the Dixboro Project and Orijin Bakery.",
+      "descriptor": "All-day restaurant and brunch spot at 216 S. State St.",
+      "sources": [
+        "https://annarborobserver.com/lucky-markets-transformation-and-a-complete-overhaul-at-savas/",
+        "https://www.savasannarbor.com/"
+      ],
+      "writtenFor": {
+        "name": "Sava's",
+        "lat": 42.27967,
+        "lng": -83.741
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "scorekeepers": {
+      "text": "",
+      "descriptor": "Campus sports bar at 310 Maynard St.",
+      "sources": [],
+      "writtenFor": {
+        "name": "Scorekeepers",
+        "lat": 42.27892,
+        "lng": -83.74216
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "seva": {
+      "text": "Steve Bellock and Barney Greenbaum started Seva Longevity Cookery in Columbus in 1971; Bellock moved to Ann Arbor in 1973 and turned the Soybean Cellars restaurant — in a former VFW hall on E. Liberty — into Seva, an all-vegetarian menu at a time that was nearly unheard of. Head cook Maren Jackson and her husband Jeff bought it in 1997, and in 2014 it left downtown for Westgate at Jackson and Maple.",
+      "descriptor": "Vegetarian restaurant at Westgate on Jackson Ave., in Ann Arbor since 1973",
+      "sources": ["https://www.sevarestaurant.com/"],
+      "writtenFor": {
+        "name": "Seva",
+        "lat": 42.2797,
+        "lng": -83.7827
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "shalimar": {
+      "text": "",
+      "descriptor": "North Indian, Mughlai and tandoori cooking at 307 S. Main St.",
+      "sources": ["https://www.shalimarannarbor.com/Contact"],
+      "writtenFor": {
+        "name": "Shalimar",
+        "lat": 42.27927,
+        "lng": -83.74846
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "sweetwaters-coffee-tea": {
+      "text": "Wei and Lisa Bee founded the first Sweetwaters in downtown Ann Arbor in 1993, near their alma mater, pairing classic café fare with globally influenced coffees and teas. The brand has since franchised well beyond Michigan, and the founders remain part of daily life in the stores.",
+      "descriptor": "Coffee and tea house at 123 W. Washington St.; Ann Arbor-born since 1993",
+      "sources": [
+        "https://www.sweetwaterscafe.com/about/",
+        "https://www.sweetwaterscafe.com/locations/"
+      ],
+      "writtenFor": {
+        "name": "Sweetwater's Coffee & Tea - Old West Side",
+        "lat": 42.28042,
+        "lng": -83.74966
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-ark": {
+      "text": "Four Ann Arbor churches started the Ark in 1965 as a campus coffeehouse — a warm, safe place free from drugs and alcohol — in a house on Hill Street; Iggy Pop (then drummer James Osterberg), Gilda Radner and Will Geer all turned up in its early rooms. It moved to South Main Street in 1984, settled at 316 S. Main in 1996, and in 2012 bought its venue as a condominium, the first space it has owned.",
+      "descriptor": "Nonprofit folk music club at 316 S. Main, running since 1965",
+      "sources": ["https://theark.org/about/history/"],
+      "writtenFor": {
+        "name": "The Ark",
+        "lat": 42.27906,
+        "lng": -83.74881
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-blind-pig-8-ball-saloon": {
+      "text": "Opened in 1971 as a European-influenced cafe pairing espresso with blues, and named by its founders for Prohibition-era speakeasies, the Blind Pig became Ann Arbor's rock room: Nirvana sold out the 400-capacity space in 1989, and Soundgarden, Pearl Jam and Sonic Youth all played it. Roy and Betty Goffett took over in 1982, expanded the building and opened the 8 Ball Saloon on the lower level.",
+      "descriptor": "Live-music club at 208 S. First St. since 1971, with the 8 Ball Saloon downstairs",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blind_Pig_(venue)",
+        "https://blindpigmusic.com/"
+      ],
+      "writtenFor": {
+        "name": "The Blind Pig / 8 Ball Saloon",
+        "lat": 42.28021,
+        "lng": -83.75122
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-brown-jug": {
+      "text": "The Jug is named for the Little Brown Jug, the oldest trophy in college football, and bills itself as Ann Arbor's original game-day headquarters, open since 1936. Its sandwiches are named for Michigan greats — Harbaugh's Famous Brown Jug Burger, Charles Woodson's patty melt, Bo Schembechler's boursin melt and Dylan Larkin's super hoagie.",
+      "descriptor": "Michigan sports bar at 1204 S. University named for the Little Brown Jug trophy",
+      "sources": ["https://www.brownjugannarbor.com/"],
+      "writtenFor": {
+        "name": "The Brown Jug",
+        "lat": 42.27489,
+        "lng": -83.73432
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-chop-house": {
+      "text": "The Chop House is the white-tablecloth steakhouse of the local Main Street Ventures group — the same family as Gratzi, Palio, Real Seafood Co. and Carson's — serving USDA prime beef and seafood in a historic Main Street building with an adjoining leather-furnished cigar lounge.",
+      "descriptor": "Prime-beef steakhouse at 322 S. Main with a cigar lounge",
+      "sources": [
+        "https://thechophouserestaurant.com/",
+        "https://annarborobserver.com/shutdown-dining/"
+      ],
+      "writtenFor": {
+        "name": "The Chop House",
+        "lat": 42.27883,
+        "lng": -83.74885
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-diag": {
+      "text": "The oldest part of the University of Michigan campus, it was originally the \"Diagonal Green\" and takes its nickname from the diagonal sidewalks cutting across it. It has long been the campus's rally and protest ground, and in 2008 spring commencement was moved here while Michigan Stadium was under construction.",
+      "descriptor": "Central-campus green crossed by diagonal walks, the heart of U-M",
+      "sources": ["https://en.wikipedia.org/wiki/The_Diag"],
+      "writtenFor": {
+        "name": "The Diag",
+        "lat": 42.27709,
+        "lng": -83.73801
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-earle": {
+      "text": "The Earle opened on December 13, 1977 as a jazz club serving light fare, then remade itself in 1979 into the candlelit French and Italian country restaurant it still is. Its wine list runs past 1,200 selections and has earned Wine Spectator recognition 35 years running; live jazz plays five nights a week, with solo performers midweek starting at 7 p.m.",
+      "descriptor": "French and Italian country cooking at 121 W. Washington, with live jazz five nights a week",
+      "sources": [
+        "https://www.theearle.com/history",
+        "https://www.theearle.com/"
+      ],
+      "writtenFor": {
+        "name": "The Earle",
+        "lat": 42.28042,
+        "lng": -83.74942
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-ravens-club": {
+      "text": "The Main Street building dates to 1868 and has housed a drinking establishment ever since. The current Ravens Club took over in 2011 and built out its Whiskey Library — bourbon, rye, Scotch, Irish and Japanese — plus live jazz on Sunday evenings with no cover.",
+      "descriptor": "Craft cocktail and whiskey bar at 207 S. Main in an 1868 building",
+      "sources": ["https://www.theravensclub.com/"],
+      "writtenFor": {
+        "name": "The Ravens Club",
+        "lat": 42.28011,
+        "lng": -83.74834
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-wave-field": {
+      "text": "Maya Lin's first experiment with earthworks, completed in 1995 outside the FXB Aerospace Engineering Building on North Campus. She sculpted the lawn into rows of grass swells after studying diagrams of fluids in motion and photographs of ocean waves — an attempt to capture and freeze the motion of water in earth rather than on film. She built a larger, four-acre version at Storm King Art Center in 2008.",
+      "descriptor": "Maya Lin earthwork of rolling grass waves on U-M's North Campus",
+      "sources": ["https://en.wikipedia.org/wiki/Maya_Lin"],
+      "writtenFor": {
+        "name": "The Wave Field",
+        "lat": 42.29318,
+        "lng": -83.71162
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "tios-mexican-cafe": {
+      "text": "Tios served Mexican food downtown from 1986, working with local farmers and vendors, until it closed after 40 years at 401 E. Liberty. In the notice on its own site the team pointed regulars still after the #4 and the house dressing to social media, hinting the food may resurface at farmers markets and other venues.",
+      "descriptor": "Mexican cafe at 401 E. Liberty St. from 1986; closed after 40 years",
+      "sources": ["https://tiosa2.com/"],
+      "writtenFor": {
+        "name": "Tios Mexican Cafe",
+        "lat": 42.27953,
+        "lng": -83.74338
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "tomukun-korean-bbq-noodle-bar": {
+      "text": "Two sibling restaurants share one address on E. Liberty: Tomukun Korean BBQ, an award-winning room with table-top grills, classic Korean soul food, and Asian draft beer, soju and makgulli, and Tomukun Noodle Bar, serving ramen, pho, udon, stir-fry and pork buns alongside Asian beers, sake and soju.",
+      "descriptor": "Korean BBQ with tabletop grills plus a noodle bar at 505 E. Liberty",
+      "sources": [
+        "https://web.archive.org/web/20260519040831/http://bbq.tomukun.com/",
+        "https://web.archive.org/web/20260518222115/http://noodlebar.tomukun.com/"
+      ],
+      "writtenFor": {
+        "name": "Tomukun Korean BBQ / Noodle Bar",
+        "lat": 42.27953,
+        "lng": -83.74275
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "totoro-sushi": {
+      "text": "",
+      "descriptor": "Sushi, tempura and teriyaki on S. State St. downtown",
+      "sources": ["https://www.totoroannarbor.com/"],
+      "writtenFor": {
+        "name": "Totoro Sushi",
+        "lat": 42.27977,
+        "lng": -83.74066
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "university-of-michigan-golf-course": {
+      "text": "Perry Maxwell drew the original plans and Alister MacKenzie reworked them, adding some 350 yards, the quirky par-five 3rd and the horseshoe-shaped 6th green. The course opened in 1931, hosted the 1947 NCAA golf championship, and got a $3.3 million restoration in 1992.",
+      "descriptor": "MacKenzie/Maxwell 1931 campus course, home of the Wolverine golf teams",
+      "sources": [
+        "https://www.top100golfcourses.com/golf-course/university-of-michigan",
+        "https://en.wikipedia.org/wiki/1947_NCAA_golf_championship"
+      ],
+      "writtenFor": {
+        "name": "University of Michigan Golf Course",
+        "lat": 42.25855,
+        "lng": -83.74527
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "university-of-michigan-museum-of-art": {
+      "text": "One of the largest university art museums in the U.S., UMMA holds more than 20,000 works — Picasso, Monet, Whistler, Kara Walker — inside Alumni Memorial Hall, a building dedicated in 1910 as a Civil War memorial. A 2009 wing by architect Brad Cloepfil more than doubled the museum's size, and admission is free.",
+      "descriptor": "Free university art museum in 1910's Alumni Memorial Hall on S. State St.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/University_of_Michigan_Museum_of_Art"
+      ],
+      "writtenFor": {
+        "name": "University of Michigan Museum of Art",
+        "lat": 42.27559,
+        "lng": -83.73978
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "university-of-michigan-museum-of-natural-history": {
+      "text": "The university's natural history collections date to 1837 and have been on public display since 1881. The museum spent nearly 90 years in Albert Kahn's Ruthven Museums Building before reopening in 2019 in the new Biological Sciences Building, with over 45,000 square feet of exhibits and its signature mastodons — including a mastodon trackway, the largest on display in the world. Admission is free.",
+      "descriptor": "Free natural history museum in the Biological Sciences Building on Central Campus",
+      "sources": [
+        "https://en.wikipedia.org/wiki/University_of_Michigan_Museum_of_Natural_History"
+      ],
+      "writtenFor": {
+        "name": "University of Michigan Museum of Natural History",
+        "lat": 42.27886,
+        "lng": -83.73425
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "upstairs-at-crazy-wisdom": {
+      "text": "Crazy Wisdom has been Ann Arbor's bookstore of consciousness and alternative spirituality since 1982, owned from 1989 by Bill Zirinsky and Ruth Schekter until it closed in February 2022 after 40 years. A new Crazy Wisdom has since opened at 114 S. Main, where the upstairs that was long the tea room now runs as an art gallery and event space for readings, workshops and ceremonies.",
+      "descriptor": "Upstairs gallery and event space above the Crazy Wisdom bookstore, 114 S. Main",
+      "sources": [
+        "https://www.crazywisdombookstore.com/",
+        "https://web.archive.org/web/20220521115430/http://crazywisdom.net/about-us/"
+      ],
+      "writtenFor": {
+        "name": "Upstairs at Crazy Wisdom",
+        "lat": 42.28091,
+        "lng": -83.74872
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "vinology": {
+      "text": "Kristin Jonna and her father John — the family behind Merchant of Vino — opened Vinology in 2006, as part of the redevelopment that brought the Mayer Schairer Building on Main Street back to life with two added stories on top.",
+      "descriptor": "Wine bar and restaurant at 110 S. Main in the historic Mayer Schairer Building",
+      "sources": [
+        "https://vinologya2.com/about-us/",
+        "https://localwiki.org/ann-arbor/Vinology"
+      ],
+      "writtenFor": {
+        "name": "Vinology",
+        "lat": 42.28104,
+        "lng": -83.74871
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "west-park": {
+      "text": "Land here has been Ann Arbor parkland since 1908, assembled over a century in 28 separate acquisitions. The bandshell, a home-grown structure designed by the city's Department of Public Works in 1938, hosted concerts for decades until it was closed in 2021 over structural issues. The park also holds a 1925 pergola, two city champion trees, and a stretch of historic Native American trail.",
+      "descriptor": "27-acre park west of downtown with a 1938 bandshell",
+      "sources": [
+        "https://www.a2gov.org/parks-and-recreation/parks-and-places/west-park/"
+      ],
+      "writtenFor": {
+        "name": "West Park",
+        "lat": 42.2835,
+        "lng": -83.75603
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "yost-ice-arena": {
+      "text": "Built in 1923 as the Fielding H. Yost Field House and converted to an ice rink in 1973, Yost seats about 5,800 and is nicknamed \"the Cathedral of College Hockey.\" Michigan's basketball team played here before Crisler opened in 1967.",
+      "descriptor": "1923 field house turned college hockey barn, home of Michigan hockey",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yost_Ice_Arena",
+        "https://en.wikipedia.org/wiki/Crisler_Center"
+      ],
+      "writtenFor": {
+        "name": "Yost Ice Arena",
+        "lat": 42.26762,
+        "lng": -83.74102
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "zingermans-deli": {
+      "text": "Paul Saginaw and Ari Weinzweig opened Zingerman's in 1982 serving traditional Ashkenazi deli sandwiches; the numbered menu's #18 Georgia Reuben, a grilled turkey Reuben with coleslaw and housemade Russian dressing, is the deli's second-biggest seller. It grew into the Zingerman's Community of Businesses — nine Ann Arbor companies, about 500 employees and $40 million a year as of 2012. It was nearly called Greenberg's until another business objected.",
+      "descriptor": "Ann Arbor deli serving traditional Ashkenazi Jewish food since 1982",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zingerman%27s",
+        "https://www.zingermanscommunity.com/businesses/zingermans-delicatessen/"
+      ],
+      "writtenFor": {
+        "name": "Zingerman's Deli",
+        "lat": 42.2847,
+        "lng": -83.74515
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "zingermans-next-door-cafe": {
+      "text": "The cafe half of Zingerman's Delicatessen, the Detroit Street deli Paul Saginaw and Ari Weinzweig founded in 1982 and grew into a whole family of Ann Arbor food businesses.",
+      "descriptor": "Cafe alongside Zingerman's Delicatessen on Detroit Street in Ann Arbor",
+      "sources": ["https://en.wikipedia.org/wiki/Zingerman%27s"],
+      "writtenFor": {
+        "name": "Zingerman's Next Door Café",
+        "lat": 42.28455,
+        "lng": -83.74527
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "zingermans-roadhouse": {
+      "text": "Zingerman's opened the Roadhouse in 2003 as part of its Community of Businesses, serving regional American food: pit barbecue, fried chicken and mac and cheese. It won a James Beard Award for Best Chef: Great Lakes in 2011 and was a James Beard finalist again in 2019 for Outstanding Service and 2020 for Outstanding Hospitality.",
+      "descriptor": "Regional American roadhouse on Jackson Ave — barbecue, fried chicken, mac and cheese",
+      "sources": [
+        "https://www.zingermansroadhouse.com/",
+        "https://en.wikipedia.org/wiki/Zingerman%27s"
+      ],
+      "writtenFor": {
+        "name": "Zingerman's Roadhouse",
+        "lat": 42.28001,
+        "lng": -83.78103
+      },
+      "writtenOn": "2026-09-07"
+    }
+  }
+}
