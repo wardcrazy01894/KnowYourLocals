@@ -13,6 +13,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "5-spot": {
+      "text": "The 5 Spot is a Queen Anne breakfast institution, serving breakfast all day alongside diner comfort food like mac and cheese, burgers and nachos. Seattle Times readers voted it Best Breakfast in Seattle three years running — 2023, 2024 and 2025.",
+      "descriptor": "All-day American breakfast spot on Queen Anne Ave N",
+      "sources": ["https://www.5spotseattle.com/"],
+      "writtenFor": {
+        "name": "5 Spot",
+        "lat": 47.63256,
+        "lng": -122.35666
+      },
+      "writtenOn": "2026-09-07"
+    },
     "5th-avenue-theater": {
       "text": "Opened September 24, 1926, the 5th Avenue's interior is a Chinese-inspired fantasy by architect Robert C. Reamer, whose team worked from a 1925 illustrated survey of Chinese architecture — an octagonal coffered ceiling with a sculpted five-toed imperial dragon above the chandelier, modeled on the throne room of the Forbidden City's Hall of Supreme Harmony. It's also a Broadway proving ground: Hairspray, Shrek the Musical, Memphis and Aladdin all had early runs here.",
       "descriptor": "1926 Broadway house at 1308 5th Ave with a Chinese-inspired interior",
@@ -24,6 +35,45 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "act-theatre": {
+      "text": "Gregory Falls founded ACT in 1965, and since 1996 it has occupied Kreielsheimer Place inside the Eagles Auditorium Building, built in 1924-25 — a National Register landmark where Martin Luther King Jr. spoke in 1961 and the Grateful Dead played eight times in 1967-68. In 2025 ACT merged with Seattle Shakespeare Company to form the Union Arts Center.",
+      "descriptor": "Nonprofit theater in the 1920s Eagles Auditorium Building on Union St",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Contemporary_Theatre",
+        "https://en.wikipedia.org/wiki/Eagles_Auditorium_Building"
+      ],
+      "writtenFor": {
+        "name": "ACT Theatre",
+        "lat": 47.61085,
+        "lng": -122.33233
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "agua-verde-cafe": {
+      "text": "The taqueria sits above the Agua Verde Paddle Club, which has rented kayaks off this Portage Bay dock since 1997. The order is Baja-style tacos on house-made tortillas with a view of boats going by, and then a paddle out toward the Montlake Cut and the Arboretum.",
+      "descriptor": "Baja-style taqueria above a kayak dock on Portage Bay",
+      "sources": [
+        "https://www.aguaverdecafe.com/",
+        "https://aguaverdepaddleclub.com/"
+      ],
+      "writtenFor": {
+        "name": "Agua Verde Café",
+        "lat": 47.65158,
+        "lng": -122.31434
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "alibi-room": {
+      "text": "A speakeasy-feeling hideaway tucked into Post Alley directly across from the Gum Wall, the Alibi Room has long been a hangout for Northwest writers, authors and artists. The brick-and-beam room is known for brick-oven pizzas and cocktails, with the kitchen running until 1 a.m.",
+      "descriptor": "Post Alley hideaway bar across from the Gum Wall, brick-oven pizza",
+      "sources": ["https://www.pikeplacemarket.org/vendor/alibi-room/"],
+      "writtenFor": {
+        "name": "Alibi Room",
+        "lat": 47.60826,
+        "lng": -122.34036
+      },
+      "writtenOn": "2026-09-07"
+    },
     "alki-beach-park": {
       "text": "The Denny Party came ashore at Alki Point on November 13, 1851 and named the settlement New York Alki — \"alki\" being Chinook Jargon for \"by and by.\" Arthur Denny soon moved to the east shore of Elliott Bay, the site that became Pioneer Square. The beach still carries the Birthplace of Seattle monument and a scale replica of the Statue of Liberty donated in 1952.",
       "descriptor": "West Seattle beach where the city's founders landed in 1851",
@@ -32,6 +82,17 @@
         "name": "Alki Beach Park",
         "lat": 47.58655,
         "lng": -122.39966
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "allegro-coffee": {
+      "text": "",
+      "descriptor": "Coffee and juice bar inside the Interbay Whole Foods on 15th Ave W",
+      "sources": ["https://www.wholefoodsmarket.com/stores/interbay"],
+      "writtenFor": {
+        "name": "Allegro Coffee",
+        "lat": 47.63696,
+        "lng": -122.37652
       },
       "writtenOn": "2026-09-07"
     },
@@ -57,6 +118,17 @@
         "name": "Benaroya Hall",
         "lat": 47.60812,
         "lng": -122.33701
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "beths-cafe": {
+      "text": "Beth's opened on Aurora Avenue by Green Lake in 1954 — it started out as a nickel-slot gambling parlor and added food to keep customers around. The 12-egg omelet arrives on a pizza tray with bottomless hash browns; the host of Man v. Food couldn't finish one in 2009. Customers' crayon drawings cover the walls and get taken down and archived every January.",
+      "descriptor": "24-hour Aurora Ave diner famous for its 12-egg omelet",
+      "sources": ["https://en.wikipedia.org/wiki/Beth%27s_Cafe"],
+      "writtenFor": {
+        "name": "Beth's Cafe",
+        "lat": 47.68215,
+        "lng": -122.34471
       },
       "writtenOn": "2026-09-07"
     },
@@ -95,6 +167,34 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "cafe-allegro": {
+      "text": "Opened in 1975 in a 1909 building that had previously held shops, a bank and a funeral home, Allegro is Seattle's oldest coffeehouse and is credited as the city's first espresso bar — reached through an alley off University Way, across from the UW's main entrance. Founder Dave Olsen bought coffee by the pound from Starbucks and co-developed an espresso roast with them.",
+      "descriptor": "U District alley coffeehouse, Seattle's first espresso bar, since 1975",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caf%C3%A9_Allegro",
+        "https://www.seattleallegro.com/"
+      ],
+      "writtenFor": {
+        "name": "Cafe Allegro",
+        "lat": 47.65869,
+        "lng": -122.31272
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cafe-campagne": {
+      "text": "Peter Lewis opened Café Campagne in 1994 at 1600 Post Alley as the casual, market-side little brother to his upstairs fine-dining room Campagne (1987–2011), evoking the cherished market-side cafés of France. Chef Daisley Gordon started at the original Campagne in 1995, cooked on Iron Chef America in 2008, and now owns the café, where the kitchen still makes its own sausages, charcuterie and duck confit.",
+      "descriptor": "French bistro at 1600 Post Alley in Pike Place Market since 1994",
+      "sources": [
+        "https://cafecampagne.com/about/",
+        "https://cafecampagne.com/"
+      ],
+      "writtenFor": {
+        "name": "Café Campagne",
+        "lat": 47.60971,
+        "lng": -122.34153
+      },
+      "writtenOn": "2026-09-07"
+    },
     "cafe-flora": {
       "text": "Open in Madison Valley since 1991, Cafe Flora is one of Seattle's longest-running vegetarian restaurants and has been at the forefront of local, organic sourcing built on direct relationships with Washington farms.",
       "descriptor": "Vegetarian restaurant on E Madison St in Madison Valley since 1991",
@@ -106,6 +206,17 @@
         "name": "Cafe Flora",
         "lat": 47.62397,
         "lng": -122.29521
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "caffe-ladro": {
+      "text": "Caffe Ladro started on Upper Queen Anne in 1994 and has grown to about 15 cafes around Seattle, adding its own roastery in 2011. \"Ladro\" is Italian for thief — the name was a cheeky jab at setting up as an alternative to the established coffee giant nearby.",
+      "descriptor": "Local coffeehouse chain in Uptown near Seattle Center; roasts its own",
+      "sources": ["https://caffeladro.com/pages/about-us"],
+      "writtenFor": {
+        "name": "Caffe Ladro - Uptown",
+        "lat": 47.62535,
+        "lng": -122.35651
       },
       "writtenOn": "2026-09-07"
     },
@@ -134,6 +245,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "can-can-culinary-cabaret": {
+      "text": "A 120-seat dinner theater reached by a staircase down into Post Alley at Pike Place Market, Can Can pairs French-inspired Northwest plates built on Market farmers, butchers and fishmongers with original productions of burlesque, acrobatics, song and comedy. Its owners also bought and restored Portland's historic Paris Theatre, reopening it in November 2025.",
+      "descriptor": "Post Alley dinner-theater cabaret with burlesque and acrobatics",
+      "sources": [
+        "https://www.pikeplacemarket.org/vendor/can-can/",
+        "https://en.wikipedia.org/wiki/Paris_Theatre_(Portland,_Oregon)"
+      ],
+      "writtenFor": {
+        "name": "Can Can Culinary Cabaret",
+        "lat": 47.60957,
+        "lng": -122.34118
+      },
+      "writtenOn": "2026-09-07"
+    },
     "canlis": {
       "text": "Peter Canlis opened it on December 11, 1950 in a Roland Terry-designed building that became an icon of Northwest-inspired modern architecture, and the same family still runs it. It's credited with inventing Northwest cuisine, and the Canlis Salad — romaine, bacon, romano, mint and oregano in a lemony Caesar-like dressing — has been on the menu since opening, often tossed tableside.",
       "descriptor": "Fine-dining landmark since 1950, above Lake Union",
@@ -142,6 +267,34 @@
         "name": "Canlis",
         "lat": 47.64305,
         "lng": -122.34673
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "canon": {
+      "text": "Jamie Boudreau opened Canon on Capitol Hill in 2012 and stocked it with what the bar bills as America's largest spirits collection — 4,000 labels and counting, heavy on American whiskey. It placed sixth on Drinks International's World's 50 Best Bars in 2014, and the room is small enough that it only seats parties of four or fewer.",
+      "descriptor": "Whiskey and cocktail bar on 12th Ave with a 4,000-label spirits library",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canon_(bar)",
+        "https://www.canonseattle.com/"
+      ],
+      "writtenFor": {
+        "name": "Canon",
+        "lat": 47.61128,
+        "lng": -122.31648
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "center-for-wooden-boats": {
+      "text": "Founded in the 1970s by Dick Wagner on the south shore of Lake Union, CWB holds more than 170 vessels — mostly small sailboats and rowboats — and, unusually for a museum, lets you take them out. The livery fleet includes 20-foot Blanchard Junior Knockabouts designed and built at the Blanchard Boat Company on this same lake. Admission to the exhibits is always free, and the Sunday Public Sail puts visitors on the water.",
+      "descriptor": "Free maritime museum and boat livery on Lake Union Park's south shore",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Center_for_Wooden_Boats",
+        "https://www.cwb.org/about"
+      ],
+      "writtenFor": {
+        "name": "Center for Wooden Boats",
+        "lat": 47.6272,
+        "lng": -122.3359
       },
       "writtenOn": "2026-09-07"
     },
@@ -156,6 +309,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "chinatown-gate": {
+      "text": "Seattle's Historic Chinatown Gate is a 45-foot paifang — a traditional Chinese ceremonial gateway — built of steel and plaster over the west end of South King Street. Construction started in 2006 and the gate was unveiled in February 2008, marking the formal entrance to the Chinatown–International District.",
+      "descriptor": "45-foot Chinese paifang gate over the west end of S King St, unveiled 2008",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinatown%E2%80%93International_District,_Seattle"
+      ],
+      "writtenFor": {
+        "name": "Chinatown Gate",
+        "lat": 47.59836,
+        "lng": -122.32736
+      },
+      "writtenOn": "2026-09-07"
+    },
     "climate-pledge-arena": {
       "text": "The arena began life as the Washington State Pavilion for the 1962 Century 21 Exposition. In the 2018-2021 rebuild the landmark roof was detached from its 20 original concrete Y-columns and held on temporary supports while crews excavated and rebuilt the bowl beneath it. Amazon bought the naming rights in 2020 and named it for its climate pledge rather than itself; it reopened in October 2021.",
       "descriptor": "Kraken and Storm arena at Seattle Center under a 1962 World's Fair roof",
@@ -164,6 +330,67 @@
         "name": "Climate Pledge Arena",
         "lat": 47.62204,
         "lng": -122.35398
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cloudburst-brewing": {
+      "text": "Cloudburst brews out of a loading zone in a 120-year-old building just north of Pike Place Market, and its trophy shelf is outsized for its size: Great American Beer Festival Brewery of the Year in the 1,001–2,000 barrel class in 2021, a 2025 GABF silver for schwarzbier, and World Beer Cup golds for its rice lager and West Coast-style pilsner. A second, all-ages taproom sits in Old Ballard.",
+      "descriptor": "Hop-forward brewery taproom on Western Ave just north of Pike Place Market",
+      "sources": [
+        "https://www.cloudburstbrew.com/",
+        "https://cloudburstbrew.com/press-awards"
+      ],
+      "writtenFor": {
+        "name": "Cloudburst Brewing",
+        "lat": 47.61161,
+        "lng": -122.34527
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "comet-tavern": {
+      "text": "The Comet is Capitol Hill's best-known dive, long described as a grunge institution and a rocker's hangout on the Pike/Pine strip. Locals sent off the old room with a farewell party in early March 2014; it reopened after a renovation on March 31, 2014.",
+      "descriptor": "Capitol Hill dive bar at 922 E Pike St, a longtime rocker hangout",
+      "sources": ["https://en.wikipedia.org/wiki/Comet_Tavern"],
+      "writtenFor": {
+        "name": "Comet Tavern",
+        "lat": 47.61421,
+        "lng": -122.31963
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cutters-crabhouse": {
+      "text": "",
+      "descriptor": "Waterfront seafood house near Pike Place with Elliott Bay views",
+      "sources": ["https://www.cutterscrabhouse.com/"],
+      "writtenFor": {
+        "name": "Cutters Crabhouse",
+        "lat": 47.61055,
+        "lng": -122.34416
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "daniels-broiler": {
+      "text": "Daniel's is the steakhouse arm of Schwartz Brothers Restaurants, the Seattle family company Bill and John Schwartz started with The Butcher in Bellevue in October 1970. The Lake Union room sits right on the water at 809 Fairview Place North, serving prime cuts under a view across the lake to Gas Works Park and the Queen Anne skyline.",
+      "descriptor": "Lake Union waterfront prime steakhouse with Gas Works Park views",
+      "sources": [
+        "https://www.danielsbroiler.com/pages/about-daniels-broiler",
+        "https://www.danielsbroiler.com/pages/locations-daniels-lake-union"
+      ],
+      "writtenFor": {
+        "name": "Daniel's Broiler - SLU",
+        "lat": 47.62672,
+        "lng": -122.33489
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "delancey": {
+      "text": "Delancey grew out of Molly Wizenberg's food blog Orangette: she and chef Brandon Pettit opened the wood-fired, Brooklyn-style pizzeria in Ballard in 2009 and added a pantry next door in 2011. The restaurant became the subject of Wizenberg's memoir \"Delancey: A Man, A Woman, A Restaurant, A Marriage.\"",
+      "descriptor": "Wood-fired Brooklyn-style pizzeria in Ballard, open since 2009",
+      "sources": ["https://en.wikipedia.org/wiki/Delancey_(restaurant)"],
+      "writtenFor": {
+        "name": "Delancey",
+        "lat": 47.67945,
+        "lng": -122.37481
       },
       "writtenOn": "2026-09-07"
     },
@@ -200,6 +427,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "dinos-tomato-pie": {
+      "text": "Dino's is Brandon Pettit's Capitol Hill follow-up to his Ballard pizzeria Delancey — a mirrored, wood-boothed pizza bar announced in 2015 that serves square Sicilian/Jersey-style tomato pie, garlic knots and negronis. The signature Mr. Pink comes with vodka sauce, mozzarella, ricotta and basil.",
+      "descriptor": "Square Sicilian/Jersey-style pizza and cocktails on E Olive Way, Capitol Hill",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dino%27s_Tomato_Pie",
+        "https://en.wikipedia.org/wiki/Delancey_(restaurant)"
+      ],
+      "writtenFor": {
+        "name": "Dino's Tomato Pie",
+        "lat": 47.61839,
+        "lng": -122.32593
+      },
+      "writtenOn": "2026-09-07"
+    },
     "discovery-park": {
       "text": "At 534 acres it's Seattle's biggest park, and until the early 1970s it was Fort Lawton, a U.S. Army post; the surplus land was transferred to the city in 1972 and dedicated in 1973, named for HMS Discovery. Its Daybreak Star Cultural Center sits on 20 acres won after Native activists led by Bernie Whitebear occupied the base in 1970 and secured a 99-year lease. The West Point Lighthouse anchors the shoreline.",
       "descriptor": "Seattle's largest park — 534 acres of bluff, forest and beach in Magnolia",
@@ -214,6 +455,45 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "dough-zone": {
+      "text": "Jason and Nancy Zhai opened the first Dough Zone in Bellevue in 2014 and grew it into a Chinese dumpling chain with locations across Washington, plus Portland, Beaverton and California. The Infatuation named it one of the 25 best restaurants in Seattle's Chinatown-International District in 2025.",
+      "descriptor": "Chinese dumpling house from a chain born in Bellevue in 2014",
+      "sources": ["https://en.wikipedia.org/wiki/Dough_Zone"],
+      "writtenFor": {
+        "name": "Dough Zone - Downtown (5th Avenue South)",
+        "lat": 47.59787,
+        "lng": -122.32751
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "dukes-seafood": {
+      "text": "Duke Moscrip built this Puget Sound seafood chain on wild, sustainably caught salmon, Dungeness crab and prawns, four award-winning chowders, and a standing promise from the founder: enjoy your meal or you don't pay. The Green Lake room at 7850 Green Lake Drive N has an outdoor patio with lake views, an easy stop after a lap around the loop.",
+      "descriptor": "Seafood house on Green Lake Drive N with a lakeside patio and four chowders",
+      "sources": [
+        "https://dukesseafood.com/",
+        "https://dukesseafood.com/locations/green-lake/"
+      ],
+      "writtenFor": {
+        "name": "Duke's Seafood - Green Lake",
+        "lat": 47.68611,
+        "lng": -122.33819
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "dukes-seafood-chowder": {
+      "text": "Duke Moscrip's six-restaurant Puget Sound chain is built on wild, sustainably caught seafood and four award-winning chowders. South Lake Union is the downtown location, billed as some of the best waterfront-view dining in Seattle, and Moscrip still backs every plate with his line: enjoy your meal or you don't pay.",
+      "descriptor": "Waterfront seafood spot in South Lake Union known for award-winning chowders",
+      "sources": [
+        "https://dukesseafood.com/",
+        "https://dukesseafood.com/locations/"
+      ],
+      "writtenFor": {
+        "name": "Duke's Seafood - SLU",
+        "lat": 47.62985,
+        "lng": -122.3304
+      },
+      "writtenOn": "2026-09-07"
+    },
     "duwamish": {
       "text": "Built in 1909, the Duwamish fought fires for the Seattle Fire Department for 76 years before retiring in 1985. After a 1949 repowering its pumps pushed 22,800 gallons a minute, making it the most powerful fireboat in the world until 2003. It was named a National Historic Landmark in 1989 and is now moored at Lake Union Park beside MOHAI.",
       "descriptor": "1909 fireboat museum ship at Lake Union Park's Historic Ships Wharf",
@@ -225,6 +505,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "el-chupacabra": {
+      "text": "Open since 2005, El Chupacabra bills itself as \"a punk rock cantina serving up delicious burritos and margaritas\" — mission-style Mexican food, house-made hot sauces and salsas, and music played loud. The West Seattle room sits at 2620 Alki Ave SW near the beach; the other is at 6711 Greenwood Ave N.",
+      "descriptor": "Punk-rock Mexican cantina on Alki Beach, burritos and margaritas since 2005",
+      "sources": ["https://www.elchupacabraseattle.com/"],
+      "writtenFor": {
+        "name": "El Chupacabra - West Seattle",
+        "lat": 47.58013,
+        "lng": -122.4073
+      },
+      "writtenOn": "2026-09-07"
+    },
     "el-gaucho": {
       "text": "The original El Gaucho ran at 7th and Olive from 1953 to 1985; Paul Mackay, who had worked there, brought the name back in Belltown in 1996, keeping the old-school tableside service. The flagship moved into the Union Stables building in 2021.",
       "descriptor": "Old-school Belltown steakhouse with tableside service, revived in 1996",
@@ -233,6 +524,31 @@
         "name": "El Gaucho",
         "lat": 47.61219,
         "lng": -122.34618
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "emmett-watsons-oyster-bar": {
+      "text": "Seattle newspaper columnist Emmett Watson opened this oyster bar with his friend Sam Bryant on February 18, 1979, and it's billed as the city's first. It's still going in Pike Place Market, run now by Sam's son Thurman Bryant, and it sits on the James Beard Foundation's America's Classics list.",
+      "descriptor": "Pike Place Market oyster bar and seafood counter, open since 1979",
+      "sources": ["https://en.wikipedia.org/wiki/Emmett_Watson%27s_Oyster_Bar"],
+      "writtenFor": {
+        "name": "Emmett Watson's Oyster Bar",
+        "lat": 47.61032,
+        "lng": -122.3425
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "espresso-vivace": {
+      "text": "David Schomer, a former Boeing engineer, and Geneva Sullivan started Vivace as a coffee cart at 5th and Union in 1988. Schomer is credited with developing and popularizing latte art in the United States, and since 1992 the shop has used a Northern Italian roast pushed to the peak of caramelized sugar — the reason it is known as \"the caramel coffee.\"",
+      "descriptor": "Capitol Hill flagship cafe of Seattle's latte-art pioneer, founded 1988",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Espresso_Vivace",
+        "https://espressovivace.com/pages/brix"
+      ],
+      "writtenFor": {
+        "name": "Espresso Vivace - Capitol Hill",
+        "lat": 47.6238,
+        "lng": -122.32074
       },
       "writtenOn": "2026-09-07"
     },
@@ -276,6 +592,20 @@
       "writtenFor": {
         "name": "Fremont Brewing Company",
         "lat": 47.64919,
+        "lng": -122.34445
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "fremont-brewing-urban-beer-garden": {
+      "text": "Matt Lincecum and Sara Nelson founded Fremont Brewing in 2009; it is now the third-largest craft brewery in Washington and the state's biggest producer of barrel-aged beer, behind Interurban IPA and Universale Pale Ale. Nelson later won a seat on the Seattle City Council and served as its president from 2024 to 2026. The Urban Beer Garden in Fremont is where it all pours.",
+      "descriptor": "Fremont taproom with a big outdoor beer garden, home of Interurban IPA",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fremont_Brewing",
+        "https://en.wikipedia.org/wiki/Sara_Nelson_(politician)"
+      ],
+      "writtenFor": {
+        "name": "Fremont Brewing Urban Beer Garden",
+        "lat": 47.64906,
         "lng": -122.34445
       },
       "writtenOn": "2026-09-07"
@@ -324,6 +654,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "hatties-hat": {
+      "text": "Hattie's Hat has been a Ballard drinking establishment in one guise or another since 1904, with a stint as a fine dining establishment before settling back into divey bar-and-grill mode. It's known now for a famously beet-heavy comfort menu — a corned beef and beet \"flannel\" hash, Swedish pancakes — and a bloody-mary brunch under murals of natural scenery.",
+      "descriptor": "Ballard dive bar and grill, around in some guise since 1904",
+      "sources": ["https://en.wikipedia.org/wiki/Hattie%27s_Hat"],
+      "writtenFor": {
+        "name": "Hattie's Hat",
+        "lat": 47.66613,
+        "lng": -122.38309
+      },
+      "writtenOn": "2026-09-07"
+    },
     "henry-art-gallery": {
       "text": "The Henry opened in February 1927 as the first public art museum in Washington State, founded when Seattle businessman Horace C. Henry donated his 178-work collection and the money to build a home for it. Today it leans contemporary, and its best-known piece is permanent: James Turrell's 2003 Skyspace \"Light Reign,\" a chamber with a retractable roof that frames the sky.",
       "descriptor": "Contemporary art museum on the UW campus, Washington's first, from 1927",
@@ -346,6 +687,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "homer": {
+      "text": "Logan and Sara Cox opened Homer in 2018 and named it after their golden retriever. The vegetable-forward, Middle East-meets-Northwest small plates made it Eater Seattle readers' Restaurant of the Year that first year, Seattle Met's Restaurant of the Year in 2019, and landed it on GQ's list of the best new restaurants in America.",
+      "descriptor": "Middle Eastern small plates on Beacon Hill since 2018",
+      "sources": ["https://en.wikipedia.org/wiki/Homer_(restaurant)"],
+      "writtenFor": {
+        "name": "Homer",
+        "lat": 47.57662,
+        "lng": -122.31
+      },
+      "writtenOn": "2026-09-07"
+    },
     "husky-stadium": {
       "text": "Open since November 1920, Husky Stadium holds the loudest crowd ever recorded at a college football stadium — ESPN clocked 133.6 decibels during Washington's 1992 game against Nebraska. It's also one of the very few stadiums fans reach by boat: as many as 12,000 people 'sailgate' on Lake Washington on game days. Its grandstand famously collapsed during construction in 1987, yet the project still finished on schedule.",
       "descriptor": "UW football stadium on Lake Washington's Union Bay, open since 1920",
@@ -354,6 +706,20 @@
         "name": "Husky Stadium",
         "lat": 47.65037,
         "lng": -122.30184
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "il-bistro": {
+      "text": "Il Bistro has served regional Italian food since 1975 from an intimate fine-dining room hidden beneath Pike Place Market, down a cobblestone alley toward the Market Theatre sign. Its cioppino is the long-standing order, and the dining room turns up on just about every list of Seattle's most romantic restaurants.",
+      "descriptor": "Regional Italian fine dining down Post Alley at Pike Place, since 1975",
+      "sources": [
+        "https://www.pikeplacemarket.org/businesses/il-bistro/",
+        "https://ilbistro.net/"
+      ],
+      "writtenFor": {
+        "name": "Il Bistro",
+        "lat": 47.60863,
+        "lng": -122.3402
       },
       "writtenOn": "2026-09-07"
     },
@@ -407,6 +773,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "jacks-bbq": {
+      "text": "Jack Timmons grew up in Texas, moved to Seattle, and got serious enough about barbecue to attend Texas A&M's meat-science BBQ summer camp and tour the Central Texas pits before running a Seattle brisket pop-up and opening this SODO flagship in 2014. He hauls in Texas post oak, mesquite and hickory to smoke everything low and slow.",
+      "descriptor": "Central Texas barbecue in SODO since 2014, smoked over Texas post oak",
+      "sources": [
+        "https://www.jacksbbq.com/about",
+        "https://www.jacksbbq.com/"
+      ],
+      "writtenFor": {
+        "name": "Jack’s BBQ - Industrial District",
+        "lat": 47.56827,
+        "lng": -122.32233
+      },
+      "writtenOn": "2026-09-07"
+    },
     "japanese-garden": {
       "text": "Dedicated in June 1960 at the south end of the Washington Park Arboretum, the 3.5-acre garden was designed by a Tokyo-selected team led by Kiyoshi Inoshita and landscape architect Juki Iida, using some 600 tons of granite boulders hauled down from Bandera Mountain near Snoqualmie Pass. The teahouse was a gift from the Tokyo government, shipped over in pieces in 1959; after a 1973 fire destroyed it, it was rebuilt in 1980–81 as Shoseian.",
       "descriptor": "3.5-acre Japanese stroll garden in the Washington Park Arboretum, from 1960",
@@ -426,6 +806,31 @@
         "name": "Jimi Hendrix Park",
         "lat": 47.58892,
         "lng": -122.30085
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "joule": {
+      "text": "Married chefs Rachel Yang and Seif Chirchi opened Joule in 2007 and moved it to Stone Way in 2012, running it as a self-described modern-day Korean steakhouse that has earned a James Beard nomination. The kalbi short rib — marinated in sake, mirin, pureed Asian pear, garlic and soy — is the dish people come for.",
+      "descriptor": "Korean fusion steakhouse on Stone Way in Wallingford, known for its kalbi",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Joule_(restaurant)",
+        "https://www.relayrestaurantgroup.com/restaurants/joule/"
+      ],
+      "writtenFor": {
+        "name": "Joule",
+        "lat": 47.64973,
+        "lng": -122.3424
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "kau-kau-barbecue": {
+      "text": "Kau Kau has been roasting Cantonese barbecue in the Chinatown-International District since 1974, and the ducks and slabs of char siu hanging in the window are a neighborhood landmark. After running it for 50 years, Hock Wo handed the restaurant to his son Randy Wo-Eng in April 2024, with the stated aim of keeping it going another 50.",
+      "descriptor": "Cantonese BBQ on S King St since 1974, known for its char siu roast pork",
+      "sources": ["https://kaukaubbq.com/about/", "https://kaukaubbq.com/"],
+      "writtenFor": {
+        "name": "Kau Kau Barbecue",
+        "lat": 47.59847,
+        "lng": -122.3247
       },
       "writtenOn": "2026-09-07"
     },
@@ -476,6 +881,100 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "langston-hughes-performing-arts-center": {
+      "text": "The building opened in 1915 as a synagogue for the Orthodox congregation Chevra Bikur Cholim, a Byzantine Revival design by architect B. Marcus Priteca. The congregation sold it to the City of Seattle in 1969, and after renovation it reopened as a performing arts center devoted to Black and African American art, artists and audiences. It's a designated Seattle landmark.",
+      "descriptor": "Central District theater inside a 1915 Byzantine Revival former synagogue",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Langston_Hughes_Performing_Arts_Institute"
+      ],
+      "writtenFor": {
+        "name": "Langston Hughes Performing Arts Center",
+        "lat": 47.6013,
+        "lng": -122.30985
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "le-pichet": {
+      "text": "Le Pichet has served French café food on First Avenue beside Pike Place Market since August 2000, with slate tables, a rolled-zinc bar and a menu written almost entirely in French. Chef Jim Drohman is known for the roast chicken and the charcuterie plates, and Anthony Bourdain regularly recommended the place on his Seattle visits.",
+      "descriptor": "French bistro on First Ave by Pike Place Market, open since 2000",
+      "sources": [
+        "https://lepichetseattle.com/",
+        "https://en.wikipedia.org/wiki/Le_Pichet"
+      ],
+      "writtenFor": {
+        "name": "Le Pichet",
+        "lat": 47.61081,
+        "lng": -122.34256
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "lil-woodys": {
+      "text": "Marcus Lalario opened the first Lil Woody's on Capitol Hill in 2011, and it has since spread to Ballard, White Center, Green Lake, T-Mobile Park and Sea-Tac. Reader's Digest named it Washington's best burger in 2022 and 2023, and every February the shop runs a collaboration burger with a guest Seattle chef.",
+      "descriptor": "Burgers and shakes on Capitol Hill; the chain's original 2011 location",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lil_Woody%27s",
+        "https://www.lilwoodys.com/"
+      ],
+      "writtenFor": {
+        "name": "Lil Woody's - Capitol Hill",
+        "lat": 47.61498,
+        "lng": -122.32819
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "little-red-hen": {
+      "text": "The Little Red Hen is Green Lake's country-western bar. Stone Temple Pilots filmed part of the 1993 video for \"Plush\" here, with the rest shot at an amusement park in Federal Way, south of the city.",
+      "descriptor": "Country-western bar in the Green Lake area of Seattle",
+      "sources": ["https://en.wikipedia.org/wiki/Plush_(song)"],
+      "writtenFor": {
+        "name": "Little Red Hen",
+        "lat": 47.68024,
+        "lng": -122.3248
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "lola": {
+      "text": "Tom Douglas opened Lola in July 2004 on 4th Avenue downtown. The Greek-influenced menu is a family tribute — the restaurant is named for co-owner Jackie's grandparents, Lola and Louie, and their photographs hang on the wall inside.",
+      "descriptor": "Tom Douglas's Greek-influenced restaurant on 4th Avenue downtown",
+      "sources": [
+        "https://lolaseattle.com/",
+        "https://en.wikipedia.org/wiki/Tom_Douglas_(chef)"
+      ],
+      "writtenFor": {
+        "name": "Lola",
+        "lat": 47.61326,
+        "lng": -122.34003
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "lowells": {
+      "text": "Lowell's has carried its name in Pike Place Market since 1957, in a space that earlier housed a combination coffee roaster, peanut roaster and cafeteria and then a Manning's. You order at the counter on the first and third floors and eat looking out at Elliott Bay, the port and the Olympics; the three-story restaurant turned up in Sleepless in Seattle.",
+      "descriptor": "Three-story seafood diner in Pike Place Market with Elliott Bay views",
+      "sources": [
+        "https://www.pikeplacemarket.org/businesses/lowells/",
+        "https://eatatlowells.com/"
+      ],
+      "writtenFor": {
+        "name": "Lowell's",
+        "lat": 47.60883,
+        "lng": -122.34131
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "ltd-edition-sushi": {
+      "text": "A small sushi counter on Nagle Place in Capitol Hill that opened in July 2021 and caps itself at about 30 omakase orders a day so the fish stays at its best. Within two years the New York Times put it on its 2023 list of the 50 best restaurants in America.",
+      "descriptor": "Omakase sushi counter on Nagle Place, Capitol Hill",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ltd_Edition_Sushi",
+        "https://www.ltdeditionsushi.com/"
+      ],
+      "writtenFor": {
+        "name": "Ltd Edition Sushi",
+        "lat": 47.61591,
+        "lng": -122.3202
+      },
+      "writtenOn": "2026-09-07"
+    },
     "lumen-field": {
       "text": "Paul Allen pushed for an open-air bowl modeled on Husky Stadium, and the roof overhangs funnel crowd noise back down onto the field — Seahawks fans twice set the Guinness record for stadium loudness in 2013, first at 131.9 decibels and then at 136.6 later in the same game. The franchise retired the number 12 for its fans in 1984, and the 12 flag has been raised from a pole on the stadium rim since 2003.",
       "descriptor": "Open-air stadium in SoDo, home of the Seahawks and Sounders",
@@ -484,6 +983,31 @@
         "name": "Lumen Field",
         "lat": 47.59534,
         "lng": -122.33164
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "macrina-bakery-aloha": {
+      "text": "Leslie Mackie founded Macrina in Belltown in 1993, and it grew into a small chain of Seattle bakery cafés known for almond croissants, ginger cookies and dark-chocolate brownies. This is the SODO café on First Avenue South.",
+      "descriptor": "SODO café of the Seattle bakery Leslie Mackie founded in 1993",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Macrina_Bakery",
+        "https://www.macrinabakery.com/all-cafes"
+      ],
+      "writtenFor": {
+        "name": "Macrina Bakery - SODO",
+        "lat": 47.58458,
+        "lng": -122.3345
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "macrina-bakery-belltown": {
+      "text": "Leslie Mackie opened Macrina in Belltown in 1993, and this shop is the original. It grew into a Seattle bread institution — Condé Nast Traveler named it a destination bakery in 2014 for its caramel turtle brownies — and the company now bakes out of a Kent headquarters and supplies stores around the region.",
+      "descriptor": "Artisan bakery and café, Macrina's original Belltown shop since 1993",
+      "sources": ["https://en.wikipedia.org/wiki/Macrina_Bakery"],
+      "writtenFor": {
+        "name": "Macrina Bakery - Belltown",
+        "lat": 47.61447,
+        "lng": -122.34798
       },
       "writtenOn": "2026-09-07"
     },
@@ -498,6 +1022,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "matts-in-the-market": {
+      "text": "Matt's is a small dining room on the top floor of the Corner Market Building, looking out over Pike Place. The menu changes daily around whatever the Market's vendors have that morning — the restaurant's take on the Market's 'meet the producer' tradition — and owner Dan Bugge came to it after working at Pike Place Fish.",
+      "descriptor": "Northwest seasonal dining upstairs in Pike Place's Corner Market Building",
+      "sources": [
+        "https://www.mattsinthemarket.com/about",
+        "https://www.pikeplacemarket.org/businesses/matts-in-the-market/"
+      ],
+      "writtenFor": {
+        "name": "Matt's in the Market",
+        "lat": 47.60886,
+        "lng": -122.34057
+      },
+      "writtenOn": "2026-09-07"
+    },
     "mccaw-hall": {
       "text": "The hall began as the 1928 Civic Auditorium, was rebuilt as the Seattle Opera House for the 1962 World's Fair, and reopened in 2003 after a $90 million renovation. It was renamed for Marion Oliver McCaw after her four sons, including Craig McCaw, gave $20 million in her honor. Seattle Opera and Pacific Northwest Ballet both perform on its 2,963-seat stage.",
       "descriptor": "Seattle Center opera house, home to Seattle Opera and Pacific Northwest Ballet",
@@ -506,6 +1044,20 @@
         "name": "McCaw Hall",
         "lat": 47.62396,
         "lng": -122.35041
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "mee-sum-pastry": {
+      "text": "Jack and Melissa Fong run this Pike Place counter mostly on family recipes, and the draw is hum bao — big steamed buns, with the barbecue pork version the one people queue for. It's been in the Market about four decades and also has a café in the University District.",
+      "descriptor": "Chinese bakery counter on Pike Place known for BBQ pork hum bao",
+      "sources": [
+        "https://www.pikeplacemarket.org/businesses/mee-sum-pastry/",
+        "https://en.wikipedia.org/wiki/Mee_Sum_Pastry"
+      ],
+      "writtenFor": {
+        "name": "Mee Sum Pastry - Downtown",
+        "lat": 47.60931,
+        "lng": -122.34136
       },
       "writtenOn": "2026-09-07"
     },
@@ -534,6 +1086,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "mikes-chili-parlor": {
+      "text": "Mike's opened in 1922, started by a Greek immigrant who sold chili from a cart in Ballard before going permanent; the family put up the brick building in 1939. His great-grandson, a fourth-generation Mike Semandiris, runs it now on the same recipe passed down by demonstration and never written down, and the City of Seattle issued a proclamation for its 100th year in 2022.",
+      "descriptor": "Century-old Ballard chili parlor and burger joint, family-run since 1922",
+      "sources": [
+        "https://mynorthwest.com/3655433/city-of-seattle-honors-100-years-of-mikes-chili-parlor-in-ballard/",
+        "https://en.wikipedia.org/wiki/Mike%27s_Chili_Parlor"
+      ],
+      "writtenFor": {
+        "name": "Mike's Chili Parlor",
+        "lat": 47.66278,
+        "lng": -122.37576
+      },
+      "writtenOn": "2026-09-07"
+    },
     "monorail-espresso": {
       "text": "Chuck Beek rolled this cart out at Westlake on December 1, 1980, and it is credited as the first espresso cart in the world. It moved repeatedly as downtown construction and location troubles pushed it around, became a permanent walk-up window in 1997, and now has four downtown locations.",
       "descriptor": "Walk-up espresso window on Pike Street, the original 1980 espresso cart",
@@ -542,6 +1108,20 @@
         "name": "Monorail Espresso - Downtown",
         "lat": 47.61097,
         "lng": -122.3353
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "monsoon": {
+      "text": "Siblings Eric and Sophie Banh opened Monsoon on Capitol Hill in 1999, serving traditional Vietnamese cooking blended with Pacific Northwest ingredients. Sophie Banh, owner and head chef, is known for her pho, and the menu runs to catfish clay pot with fresh coconut juice, lemongrass gulf prawns and coconut creme caramel. The restaurant is part of the Saigon Siblings group, which also runs Ba Bar.",
+      "descriptor": "Vietnamese restaurant on 19th Ave E in Capitol Hill, open since 1999",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monsoon_(restaurant)",
+        "https://www.monsoonrestaurants.com/"
+      ],
+      "writtenFor": {
+        "name": "Monsoon",
+        "lat": 47.62485,
+        "lng": -122.30751
       },
       "writtenOn": "2026-09-07"
     },
@@ -588,6 +1168,17 @@
         "name": "Museum of History and Industry",
         "lat": 47.62751,
         "lng": -122.33675
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "myrtle-edwards-park": {
+      "text": "Originally Elliott Bay Park, it was renamed in 1976 for the late city councilwoman Myrtle Edwards after her family asked that her name be removed from what is now Gas Works Park, disagreeing with that park's design focus. The park hosted Seattle's Fourth of Jul-Ivar's fireworks show from 1964 to 2008 and has hosted the annual Seattle Hempfest.",
+      "descriptor": "4.8-acre Elliott Bay waterfront park with a 1.25-mile shoreline trail",
+      "sources": ["https://en.wikipedia.org/wiki/Myrtle_Edwards_Park"],
+      "writtenFor": {
+        "name": "Myrtle Edwards Park",
+        "lat": 47.61861,
+        "lng": -122.36021
       },
       "writtenOn": "2026-09-07"
     },
@@ -732,6 +1323,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "pioneer-square-pergola": {
+      "text": "Built in 1909 by architect Julian Everett, the pergola sheltered cable-car riders and capped an underground public restroom praised at the time as the most lavish west of the Mississippi. A semi-truck destroyed it on January 15, 2001; the city rebuilt it using about 99% original material and reopened it in August 2002. It was designated a National Historic Landmark in 1977 along with the adjacent Pioneer Building and totem pole.",
+      "descriptor": "1909 cast-iron and glass cable-car shelter in Pioneer Square",
+      "sources": ["https://en.wikipedia.org/wiki/Pioneer_Square_Pergola"],
+      "writtenFor": {
+        "name": "Pioneer Square Pergola",
+        "lat": 47.60186,
+        "lng": -122.33392
+      },
+      "writtenOn": "2026-09-07"
+    },
     "piroshky-piroshky": {
       "text": "Vladimir and Zina Kotelnikov opened Piroshky Piroshky at Pike Place in 1992, selling savory and sweet Russian hand pies - beef and cheese, chicken pot pie, cinnamon-cardamom braids. Anthony Bourdain filmed there for No Reservations in 2007, and Smithsonian magazine put it on a 2013 list of iconic American food destinations.",
       "descriptor": "Russian piroshky bakery at Pike Place Market since 1992",
@@ -740,6 +1342,20 @@
         "name": "Piroshky Piroshky",
         "lat": 47.60993,
         "lng": -122.34246
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "port-of-seattle-fishermens-terminal": {
+      "text": "Opened in 1914 on Salmon Bay, it has been the home port of Seattle's commercial fishing fleet ever since, with moorage for more than 700 vessels including boats seen on Deadliest Catch. The Seattle Fishermen's Memorial there carries plaques naming more than 670 local commercial fishermen and women lost at sea since the beginning of the 20th century.",
+      "descriptor": "Port of Seattle home port of the North Pacific fishing fleet on Salmon Bay",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fishermen%27s_Terminal",
+        "https://www.portseattle.org/places/fishermens-terminal"
+      ],
+      "writtenFor": {
+        "name": "Port of Seattle Fishermen's Terminal",
+        "lat": 47.65709,
+        "lng": -122.37979
       },
       "writtenOn": "2026-09-07"
     },
@@ -793,6 +1409,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "rhein-haus-seattle": {
+      "text": "The beer hall opened as Von Trapp's and was renamed Rhein Haus in 2014 to dodge a legal fight over the trademarked Von Trapp name. It pairs bratwurst, schnitzel and giant pretzels with 20 beer taps and bocce courts, and has handed out free pretzels to patrons who show up in lederhosen or a dirndl.",
+      "descriptor": "German beer hall with bocce courts on 12th Ave in Capitol Hill",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rhein_Haus_Seattle",
+        "https://www.rheinhausseattle.com/"
+      ],
+      "writtenFor": {
+        "name": "Rhein Haus Seattle",
+        "lat": 47.61092,
+        "lng": -122.31657
+      },
+      "writtenOn": "2026-09-07"
+    },
     "rose-garden": {
       "text": "Opened in 1924 next to Woodland Park Zoo, the 2.5-acre garden holds roughly 3,000 plants across more than 200 varieties and is free to enter every day from 7:30 a.m. until dusk. It was an accredited All-America Rose Selections test site from 1947 until 2010, and has been grown pesticide-free since 2006.",
       "descriptor": "Free 2.5-acre public rose garden beside Woodland Park Zoo",
@@ -801,6 +1431,17 @@
         "name": "Rose Garden",
         "lat": 47.66576,
         "lng": -122.34929
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "saigon-deli": {
+      "text": "",
+      "descriptor": "Vietnamese counter-service spot on Brooklyn Ave NE in the U District",
+      "sources": [],
+      "writtenFor": {
+        "name": "Saigon Deli - University District",
+        "lat": 47.65813,
+        "lng": -122.31421
       },
       "writtenOn": "2026-09-07"
     },
@@ -928,6 +1569,45 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "spud-fish-and-chips": {
+      "text": "The Alger brothers opened Spud across from Alki Beach in 1935, and it has been frying hand-filleted fish and fresh-cut chips there ever since; manager Carol Kelly marked 50 years behind the counter in 2022. One St. Patrick's Day a cook tinted the batter green — green fish, it turned out, did not sell.",
+      "descriptor": "Alki Beach fish-and-chips shack with hand-cut chips, since 1935",
+      "sources": [
+        "https://westseattleblog.com/2010/09/before-alki-spud-celebrates-its-75th-tomorrow-a-chat-with-carol/",
+        "https://westseattleblog.com/2022/10/congratulations-carol-kelly-celebrates-50-years-at-alki-spud-fish-and-chips/"
+      ],
+      "writtenFor": {
+        "name": "Spud Fish & Chips - West Seattle",
+        "lat": 47.57955,
+        "lng": -122.4088
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "spud-fish-chips": {
+      "text": "Jack Alger opened this Green Lake Spud in 1940, five years after the Alger family's original on Alki Beach. It has moved several times around the lake over the decades — the latest, into a new and improved space, came in 2022 — but the hand-filleted fish and fresh-chopped spuds have stayed the same.",
+      "descriptor": "Green Lake fish-and-chips counter opened by Jack Alger in 1940",
+      "sources": [
+        "https://greenlakespud.com/aboutus",
+        "https://westseattleblog.com/2010/09/before-alki-spud-celebrates-its-75th-tomorrow-a-chat-with-carol/"
+      ],
+      "writtenFor": {
+        "name": "Spud Fish & Chips - Green Lake",
+        "lat": 47.67835,
+        "lng": -122.32692
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "sushi-kappo-tamura": {
+      "text": "Chef Taichi Kitamura — who trained under Seattle sushi legend Shiro Kashiba — opened Tamura on Eastlake in 2010 with partner Steve Tamura, cooking kappo style in an open kitchen. The restaurant grows produce in a rooftop garden planted with the Seattle Urban Farm Company and sources from Northwest producers like Taylor Shellfish and Skagit River Ranch.",
+      "descriptor": "Kappo-style sushi bar on Eastlake Ave with a rooftop garden, since 2010",
+      "sources": ["https://sushikappotamura.com/"],
+      "writtenFor": {
+        "name": "Sushi Kappo Tamura",
+        "lat": 47.64858,
+        "lng": -122.32336
+      },
+      "writtenOn": "2026-09-07"
+    },
     "sushi-kashiba": {
       "text": "Shiro Kashiba, another chef mentored by Jiro Ono, opened Seattle's first sushi counter before founding Sushi Kashiba at Pike Place Market, where he serves edomae-style sushi with imported and local fish. In 2024 Japan awarded him the Order of the Rising Sun, Gold and Silver Rays, for promoting Japanese food culture abroad and training the next generation of chefs.",
       "descriptor": "Edomae sushi counter on Pine St by Pike Place Market, chef Shiro Kashiba",
@@ -967,6 +1647,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "taylor-shellfish-oyster-bar": {
+      "text": "The Taylor family has farmed Puget Sound shellfish since the 1890s, when a forebear founded the Olympia Oyster Company, and the company is now the country's largest producer of farmed shellfish. It began opening its own oyster bars in 2014; this Pioneer Square counter on Occidental Avenue serves their oysters, clams, mussels and geoduck straight off the farms.",
+      "descriptor": "Raw bar on Occidental Ave in Pioneer Square from an 1890s oyster family",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taylor_Shellfish_Farms",
+        "https://www.taylorshellfishfarms.com/locations"
+      ],
+      "writtenFor": {
+        "name": "Taylor Shellfish Oyster Bar",
+        "lat": 47.59883,
+        "lng": -122.33266
+      },
+      "writtenOn": "2026-09-07"
+    },
     "thai-tom": {
       "text": "A tiny University Way storefront where the cooking happens on woks right behind the counter, so watching it is part of the meal — the closest thing Seattle has to a Bangkok street stall. Cash only, no cards.",
       "descriptor": "Cash-only Thai counter on The Ave with the woks in plain view",
@@ -1002,6 +1696,20 @@
         "name": "The Athenian Seafood Restaurant and Bar",
         "lat": 47.60882,
         "lng": -122.3413
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "the-crumpet-shop": {
+      "text": "Open in the Corner Market building at First and Pike Place since 1976, the Crumpet Shop griddles its own crumpets and tops them sweet or savory — ricotta and honey, ham and egg, or the \"Seattle-style\" one with smoked salmon and cucumber. The shop has been handed from one family to the next over the decades.",
+      "descriptor": "Crumpets and tea at 1st & Pike in Pike Place Market since 1976",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Crumpet_Shop",
+        "https://www.thecrumpetshop.com/"
+      ],
+      "writtenFor": {
+        "name": "The Crumpet Shop",
+        "lat": 47.60897,
+        "lng": -122.34039
       },
       "writtenOn": "2026-09-07"
     },
@@ -1073,6 +1781,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "toulouse-petit": {
+      "text": "Toulouse Petit brings French Quarter cooking to Lower Queen Anne — BBQ shrimp and grits, crab Benedict, house-made charcuterie — in a Cajun-Creole kitchen and lounge. Locally it's best known for the happy hour: fifty-plus small plates, run twice a day, late afternoon and again late at night.",
+      "descriptor": "Cajun-Creole kitchen on Queen Anne Ave with a twice-daily happy hour",
+      "sources": ["https://www.toulousepetit.com/"],
+      "writtenFor": {
+        "name": "Toulouse Petit",
+        "lat": 47.6247,
+        "lng": -122.35687
+      },
+      "writtenOn": "2026-09-07"
+    },
     "underground-tour": {
       "text": "The Great Seattle Fire of June 6, 1889 leveled the wooden downtown. As the city rebuilt, it raised Pioneer Square's street grades by up to a story to fix drainage and steep terrain, leaving the old sidewalks and shopfronts sealed in areaways underneath. Bill Speidel started leading tours of those passages in 1965, and they still set out from the Pioneer Building.",
       "descriptor": "Guided walk through Pioneer Square's buried 1890s sidewalks and storefronts",
@@ -1092,6 +1811,28 @@
         "name": "Victor Steinbrueck Park",
         "lat": 47.61017,
         "lng": -122.34387
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "victrola-coffee-roasters": {
+      "text": "Victrola started roasting in 2000, and its flagship on East Pike doubles as cafe, roastery, training facility and cupping room inside a 1920s Auto Row building. Epicurious named it one of the 25 best coffee shops in the U.S., singling out the free public cuppings of its single-origin coffees.",
+      "descriptor": "Cafe and roastery in a 1920s Auto Row building on E Pike St, est. 2000",
+      "sources": ["https://en.wikipedia.org/wiki/Victrola_Coffee_Roasters"],
+      "writtenFor": {
+        "name": "Victrola Coffee Roasters - Capitol Hill (East Pike Street)",
+        "lat": 47.61433,
+        "lng": -122.3273
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "virginia-inn": {
+      "text": "The Virginia Inn opened in 1903 in the Hotel Livingston at First and Virginia — four years before Pike Place Market itself. The old tavern has shown up on film in both Singles and Sleepless in Seattle, and it survived a 2025 lease scare that nearly ended its run after more than 120 years.",
+      "descriptor": "Bar and restaurant at 1st & Virginia, open since 1903",
+      "sources": ["https://en.wikipedia.org/wiki/Virginia_Inn"],
+      "writtenFor": {
+        "name": "Virginia Inn",
+        "lat": 47.61086,
+        "lng": -122.34263
       },
       "writtenOn": "2026-09-07"
     },
@@ -1120,6 +1861,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "waterfront-park": {
+      "text": "The first Waterfront Park opened in 1974 on the site of Schwabacher Wharf — the pier where the steamship Portland landed with a ton of Alaska gold in 1897 and touched off the rush that made Seattle the gateway north. The pier closed in 2020 and its central section collapsed during demolition; the rebuilt park opened September 6, 2025 with a lawn and a playground around an 18-foot jellyfish structure.",
+      "descriptor": "Rebuilt downtown waterfront park on Alaskan Way at Pier 58",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Waterfront_Park_(Seattle)",
+        "https://waterfrontparkseattle.org/"
+      ],
+      "writtenFor": {
+        "name": "Waterfront Park",
+        "lat": 47.60375,
+        "lng": -122.34063
+      },
+      "writtenOn": "2026-09-07"
+    },
     "westlake-park": {
       "text": "Seattle's de facto town square was proposed in 1968 and took two decades and a stack of lawsuits to build, finally opening in October 1988. Its granite pavers cracked almost immediately — a design flaw locals dubbed the \"Nightmare on Pine Street\" that ended in a $515,000 settlement. Generations of rallies and speeches happened here before a 2025-26 renovation removed the fountain and arch.",
       "descriptor": "Downtown plaza at Pine & 4th, Seattle's de facto town square",
@@ -1139,6 +1894,20 @@
         "name": "Wild Ginger - Seattle",
         "lat": 47.60878,
         "lng": -122.3372
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "wildrose": {
+      "text": "Started by a collective of five women in the mid-1980s, the Wildrose was deliberately built with big street-facing windows at a time when most queer bars in Seattle kept their entrances hidden. It is named for Montana wildflowers, and it is now the city's only lesbian bar — the owners bill it as the oldest in the country.",
+      "descriptor": "Capitol Hill lesbian bar on E Pike St, \"celebrating love since 1984\"",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Wildrose_(bar)",
+        "https://www.thewildrosebar.com/"
+      ],
+      "writtenFor": {
+        "name": "Wildrose",
+        "lat": 47.61397,
+        "lng": -122.3183
       },
       "writtenOn": "2026-09-07"
     },
