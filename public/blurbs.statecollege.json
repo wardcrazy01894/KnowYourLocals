@@ -109,6 +109,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "armsby-respiration-calorimeter-museum": {
+      "text": "Built at Penn State in 1899, Henry P. Armsby's respiration calorimeter was the first machine of its kind in the world — a sealed chamber that measured how much energy a steer or sheep actually got out of its feed. The Calorimeter Building's design won a grand prize at the 1904 St. Louis World's Fair, experiments (including human studies) ran until 1960, and the Agriculture Alumni Association funded its restoration as a museum in 1969.",
+      "descriptor": "1899 animal-metabolism chamber kept as a museum beside the Armsby Building",
+      "sources": [
+        "https://agsci.psu.edu/calorimeter",
+        "https://en.wikipedia.org/wiki/Henry_Prentiss_Armsby"
+      ],
+      "writtenFor": {
+        "name": "Armsby Respiration Calorimeter Museum",
+        "lat": 40.80042,
+        "lng": -77.86456
+      },
+      "writtenOn": "2026-09-07"
+    },
     "as-pub": {
       "text": "Opened in June 2018, A's is a bar inside a grocery store: you load a prepaid card, tap it at one of about 20 taps and pour your own beer, paying by the ounce. It's named for the Agostinelli family, who own McLanahan's Downtown Market, and locals prize it for cheap drafts and live music with no cover.",
       "descriptor": "Self-pour taproom inside McLanahan's Downtown Market on S. Allen St.",
@@ -120,6 +134,20 @@
         "name": "A's Pub",
         "lat": 40.79388,
         "lng": -77.86115
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "atom-first-seen": {
+      "text": "On October 11, 1955, Penn State physicist Erwin Müller and his doctoral student Kanwar Bahadur cooled a sharpened tungsten tip to 21 K, flooded it with helium, and became the first people ever to see individual atoms — using the field ion microscope Müller had invented in 1951. A plaque beside Osmond Laboratory marks the spot; Müller came to Penn State in 1952 and stayed until his death in 1977.",
+      "descriptor": "Campus plaque by Osmond Lab where atoms were first seen, 1955",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Field_ion_microscope",
+        "https://en.wikipedia.org/wiki/Erwin_Wilhelm_M%C3%BCller"
+      ],
+      "writtenFor": {
+        "name": "Atom First \"Seen\"",
+        "lat": 40.79873,
+        "lng": -77.86181
       },
       "writtenOn": "2026-09-07"
     },
@@ -185,6 +213,20 @@
         "name": "Beijing & Osaka",
         "lat": 40.79885,
         "lng": -77.85556
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "benny-leones": {
+      "text": "A Virginia-based pizza company brought Benny Leone's to 109 S. Fraser St. in 2025 as its third Pennsylvania shop, trading on 28-inch pies and jumbo slices you need two hands for. The name is a nod to Penn State: leone is Italian for lion.",
+      "descriptor": "Giant 28-inch pies and jumbo slices at 109 S. Fraser St.",
+      "sources": [
+        "https://www.statecollege.com/articles/business/new-restaurants-and-a-cidery-in-downtown-state-college-to-join-recent-surge-of-business-openings/",
+        "https://www.bennysva.com/locations/leones/"
+      ],
+      "writtenFor": {
+        "name": "Benny Leone’s",
+        "lat": 40.79339,
+        "lng": -77.86237
       },
       "writtenOn": "2026-09-07"
     },
@@ -280,6 +322,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "brothers-pizza-northland-center": {
+      "text": "The Brothers Pizza name in Centre County dates to the 1960s, when Angelo Pistone and his brothers opened the first one in the Nittany Mall. The name spread far enough that several independently run Brothers Pizzas now operate around the area — one owner told StateCollege.com the name has \"been a little bit diluted.\" This one sits on West Hamilton Avenue south of downtown.",
+      "descriptor": "Hand-tossed and Sicilian pizza at 238 W Hamilton Ave, State College",
+      "sources": [
+        "https://www.statecollege.com/articles/business/giuseppes-pizzeria-by-brothers-set-to-open-in-downtown-state-college/",
+        "https://www.brotherspizzaofstatecollege.com/"
+      ],
+      "writtenFor": {
+        "name": "Brothers Pizza - Highlands",
+        "lat": 40.78746,
+        "lng": -77.85636
+      },
+      "writtenOn": "2026-09-07"
+    },
     "bryce-jordan-center": {
       "text": "The Bryce Jordan Center opened January 6, 1996 and is named for Bryce Jordan, Penn State's president from 1983 to 1990, who was instrumental in acquiring the funding to build it. Aerosmith recorded part of a live album here in 1998, and Metallica's October 2018 show set the attendance record at 15,588 — a mark a January 2023 wrestling match against Iowa later broke with 15,998.",
       "descriptor": "15,000-seat arena for Penn State basketball and concerts",
@@ -364,6 +420,20 @@
         "name": "Cafe Wow",
         "lat": 40.79594,
         "lng": -77.85908
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cairns-crossing": {
+      "text": "",
+      "descriptor": "College Township neighborhood park at 104 Gaslight Circle",
+      "sources": [
+        "https://www.collegetownship.org/Facilities/Facility/Details/Cairns-Crossing-1",
+        "https://www.collegetownship.org/138/Parks-Facilities"
+      ],
+      "writtenFor": {
+        "name": "Cairns Crossing",
+        "lat": 40.81003,
+        "lng": -77.82054
       },
       "writtenOn": "2026-09-07"
     },
@@ -527,6 +597,19 @@
         "name": "Chumley's",
         "lat": 40.79412,
         "lng": -77.86177
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "cluck-catch": {
+      "text": "Hitham Hiyajneh, working with the owners of Masala Palace, opened Cluck & Catch on Dec. 16, 2024 in the former My My Chicken space at 536 Westerly Parkway. It sells bone-in and boneless fried chicken alongside fresh haddock, flounder, cod, tilapia and snapper; fish has driven about 90% of orders since opening.",
+      "descriptor": "Fried chicken and fish-and-chips spot in Westerly Parkway Plaza since 2024",
+      "sources": [
+        "https://www.statecollege.com/articles/business/fried-chicken-and-fish-restaurant-opens-in-state-college/"
+      ],
+      "writtenFor": {
+        "name": "Cluck & Catch",
+        "lat": 40.78197,
+        "lng": -77.85322
       },
       "writtenOn": "2026-09-07"
     },
@@ -858,6 +941,31 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "fresco-pollock": {
+      "text": "",
+      "descriptor": "Burrito-bowl food-court counter inside Penn State's Pollock Commons",
+      "sources": [
+        "https://web.archive.org/web/20260314173532/https://liveon.psu.edu/university-park/dining/fresco-pollock",
+        "https://web.archive.org/web/20231003041240/https://liveon.psu.edu/university-park/dining/fresco"
+      ],
+      "writtenFor": {
+        "name": "Fresco @ Pollock",
+        "lat": 40.80193,
+        "lng": -77.85623
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "fresh-bites-pizza": {
+      "text": "",
+      "descriptor": "Pizza shop on South Pugh Street, a block off Beaver Avenue",
+      "sources": [],
+      "writtenFor": {
+        "name": "Fresh Bites Pizza",
+        "lat": 40.7931,
+        "lng": -77.85706
+      },
+      "writtenOn": "2026-09-07"
+    },
     "fuji-jade-garden-my-thai": {
       "text": "",
       "descriptor": "Chinese and Thai menus in one Northland Center storefront",
@@ -866,6 +974,17 @@
         "name": "Fuji Jade Garden & My Thai",
         "lat": 40.80356,
         "lng": -77.88809
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "general-james-a-beaver-memorial": {
+      "text": "James A. Beaver led the 148th Pennsylvania in the Civil War and lost his right leg at Ream's Station in 1864, then served as Pennsylvania's governor from 1887 to 1891 and as a Penn State trustee and acting president. The Class of 1909 presented this stone plaque to their \"beloved friend and counselor.\" Beaver Stadium, Beaver Hall and Beaver Avenue all carry his name.",
+      "descriptor": "Stone plaque honoring Gov. James A. Beaver on the Penn State campus",
+      "sources": ["https://en.wikipedia.org/wiki/James_A._Beaver"],
+      "writtenFor": {
+        "name": "General James A. Beaver Memorial",
+        "lat": 40.8123,
+        "lng": -77.85415
       },
       "writtenOn": "2026-09-07"
     },
@@ -879,6 +998,19 @@
         "name": "Giuseppe's Pizzeria",
         "lat": 40.79536,
         "lng": -77.86016
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "glenn-park": {
+      "text": "",
+      "descriptor": "College Township neighborhood park at 125 Shady Drive",
+      "sources": [
+        "https://www.collegetownship.org/facilities/facility/details/glennpark-5"
+      ],
+      "writtenFor": {
+        "name": "Glenn Park",
+        "lat": 40.80776,
+        "lng": -77.82155
       },
       "writtenOn": "2026-09-07"
     },
@@ -957,6 +1089,20 @@
         "name": "Happy Valley Live",
         "lat": 40.80653,
         "lng": -77.84078
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "harris-acres-parklet": {
+      "text": "A mowed neighborhood green tucked among the houses of the Harris Acres subdivision, with little more than a picnic table, a grill and a trash can. When College Township surveyed the neighborhood in 2023 about improving it, the answers split hard: some wanted small playground equipment or a marked path, others said leave it alone, and one resident said the entrance is so unclear it feels like walking through someone's front yard.",
+      "descriptor": "Neighborhood open-space parklet with a picnic table and grill on W Hubler Rd",
+      "sources": [
+        "https://www.collegetownship.org/facilities/facility/details/harrisacresparklet-7",
+        "https://www.collegetownship.org/DocumentCenter/View/2578/2023-Park-Survey-Results-for-Fieldstone-Park-and-Harris-Acres-Parklet-PDF"
+      ],
+      "writtenFor": {
+        "name": "Harris Acres Parklet",
+        "lat": 40.77915,
+        "lng": -77.81759
       },
       "writtenOn": "2026-09-07"
     },
@@ -1348,6 +1494,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "marjorie-mae-park": {
+      "text": "A 4.7-acre neighborhood park at 701 Marjorie Mae St., one of the tot lots and neighborhood parks Patton Township acquired and developed after 1989, alongside Carnegie Drive Tot Lot, Ambleside, Cedar Cliff and the Ghaner Drive Parklet. A township shared-use path runs to it.",
+      "descriptor": "4.7-acre Patton Township neighborhood park on Marjorie Mae Street",
+      "sources": [
+        "https://www.twp.patton.pa.us/DocumentCenter/View/1344/1_FINAL_2026_2030_PattonTownshipParksandBikePedPathPlan"
+      ],
+      "writtenFor": {
+        "name": "Marjorie Mae Park",
+        "lat": 40.81414,
+        "lng": -77.88901
+      },
+      "writtenOn": "2026-09-07"
+    },
     "martin-luther-king-jr-memorial": {
       "text": "State College dedicated its Martin Luther King Jr. Plaza on Aug. 28, 2017, the 54th anniversary of the March on Washington. Granite pavers set into the walkway mark milestones in King's life and in local Black history, and a graphic wall enlarges photographs of King's Jan. 21, 1965 speech at Penn State's Rec Hall. Pillars at Fraser and Beaver carry his philosophies.",
       "descriptor": "Civil-rights memorial plaza on Fraser Street, dedicated in 2017",
@@ -1516,6 +1675,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "oak-grove-park": {
+      "text": "",
+      "descriptor": "College Township neighborhood park at 100 Villandry Blvd",
+      "sources": [
+        "https://www.collegetownship.org/Facilities/Facility/Details/Park-13",
+        "https://www.collegetownship.org/138/Parks-Facilities"
+      ],
+      "writtenFor": {
+        "name": "Oak Grove Park",
+        "lat": 40.79912,
+        "lng": -77.82338
+      },
+      "writtenOn": "2026-09-07"
+    },
     "oakwood-park": {
       "text": "Oakwood Park is a 4.3-acre neighborhood park at 180 Oakwood Ave. in Patton Township, maintained by Centre Region Parks & Recreation. It packs a youth ballfield and soccer field, two pavilions, a rope-nest swing and a paved perimeter walking path into one residential block.",
       "descriptor": "4.3-acre neighborhood park with a ballfield and two pavilions off Oakwood Ave",
@@ -1550,6 +1723,17 @@
         "name": "Old Main",
         "lat": 40.79694,
         "lng": -77.86344
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "oliv-hetzel": {
+      "text": "ōLiv Hetzel is a 12-story student apartment tower at East Beaver Avenue and Hetzel Street, built between fall 2021 and summer 2024, with a rooftop pool and sightlines to Old Main, Mount Nittany and Beaver Stadium. The café here is New Here Coffee, the building's own lobby shop — hot and iced drinks, pastries, breakfast, and, as Onward State noted in its tour, Advil.",
+      "descriptor": "Lobby coffee shop in the ōLiv Hetzel high-rise at Beaver Ave and Hetzel St",
+      "sources": ["https://onwardstate.com/2024/08/30/os-cribs-oliv-hetzel/"],
+      "writtenFor": {
+        "name": "ōLiv Hetzel",
+        "lat": 40.79897,
+        "lng": -77.85491
       },
       "writtenOn": "2026-09-07"
     },
@@ -1631,6 +1815,28 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "park-hills-park": {
+      "text": "A four-acre wooded neighborhood park with a recreation field good for soccer or a walk, plus a playground for ages 5 to 12 whose play equipment was installed in November 2012.",
+      "descriptor": "4-acre wooded Ferguson Township park at 1251 W. Park Hills Ave",
+      "sources": ["https://www.twp.ferguson.pa.us/1622/Park-Hills-Park"],
+      "writtenFor": {
+        "name": "Park Hills Park",
+        "lat": 40.79574,
+        "lng": -77.89937
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "patterson-gallery": {
+      "text": "Penn State's Patterson Gallery is where undergraduate artists show their senior thesis work, and the students run the whole cycle themselves - curating, installing, pricing, labeling and de-installing each show.",
+      "descriptor": "Student-run art gallery on the Patterson Building's second floor at Penn State",
+      "sources": ["https://arts.psu.edu/facilities/patterson-gallery"],
+      "writtenFor": {
+        "name": "Patterson Gallery",
+        "lat": 40.80036,
+        "lng": -77.86493
+      },
+      "writtenOn": "2026-09-07"
+    },
     "penang": {
       "text": "",
       "descriptor": "Malaysian and Southeast Asian fusion on N. Atherton St; roti canai, char kuey teow",
@@ -1673,6 +1879,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "penn-state-community-garden-pollinator-garden": {
+      "text": "The pollinator plot is part of Penn State's Community Garden, which sits at the university's nine-acre Sustainability Experience Center on the edge of the University Park campus. The same living-lab site holds the MorningStar Solar Home — built by more than 800 students and faculty for the 2007 Solar Decathlon, where Penn State placed fourth among 20 teams — and an Eco-Machine that uses bacteria and plants to purify wastewater.",
+      "descriptor": "Pollinator planting at Penn State's Community Garden, off Renewable Road",
+      "sources": [
+        "https://sustainability.psu.edu/academics/experiential-learning/sustainability-experience-center/",
+        "https://sustainability.psu.edu/about-us/take-a-tour/"
+      ],
+      "writtenFor": {
+        "name": "Penn State Community Garden Pollinator Garden",
+        "lat": 40.8104,
+        "lng": -77.8483
+      },
+      "writtenOn": "2026-09-07"
+    },
     "penn-steaks": {
       "text": "The shop opened in 2023 as Campus Steaks and later went dark. Five local families, most of them Penn State alumni, bought it and reopened it as Penn Steaks with an August 2025 grand opening, still built on ribeye cheesesteaks and hoagie rolls baked fresh daily.",
       "descriptor": "Ribeye cheesesteak shop on S. Pugh St. downtown, reopened 2025",
@@ -1683,6 +1903,20 @@
         "name": "Penn Steaks",
         "lat": 40.79505,
         "lng": -77.85993
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "pennsylvania-agricultural-college-pac-herbarium": {
+      "text": "PAC is the herbarium's international code and a fossil of Penn State's old name, the Pennsylvania Agricultural College. The collection grew out of roughly 3,000 specimens gathered by Evan Pugh, the school's first president, while he earned his doctorate in Germany; it now holds more than 107,000 pressed plants in Whitmore Lab, including 62 North American type specimens.",
+      "descriptor": "Penn State's 107,000-specimen plant collection in Whitmore Lab",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/preserving-seeds-of-knowledge-natural-history-flourishes-at-penn-states-pac-herbarium/",
+        "https://sweetgum.nybg.org/science/api/v1/institutions/search?code=PAC"
+      ],
+      "writtenFor": {
+        "name": "Pennsylvania Agricultural College (PAC) Herbarium",
+        "lat": 40.79891,
+        "lng": -77.86367
       },
       "writtenOn": "2026-09-07"
     },
@@ -1767,6 +2001,17 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "pure-food-laws": {
+      "text": "",
+      "descriptor": "Commemorative plaque on Penn State's University Park campus",
+      "sources": [],
+      "writtenFor": {
+        "name": "Pure Food Laws",
+        "lat": 40.79955,
+        "lng": -77.86409
+      },
+      "writtenOn": "2026-09-07"
+    },
     "ramyun-studio": {
       "text": "Owner Don Kim, who ran the downtown Cold Stone Creamery for seven years, opened Ramyun Studio in fall 2024 around a Hangang Ramyun Cooker — a self-cook machine that's common in Korea and still rare in the US. You order at a kiosk, get a tray of instant ramyun and toppings like egg, green onion, Spam and dumplings, and cook the bowl yourself in a few minutes while K-pop plays.",
       "descriptor": "Self-serve Korean ramyun bar on E. Calder Way, opened 2024",
@@ -1848,6 +2093,28 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "schreyer-garden": {
+      "text": "",
+      "descriptor": "Small public garden with benches and a grass center on the Penn State campus",
+      "sources": [],
+      "writtenFor": {
+        "name": "Schreyer Garden",
+        "lat": 40.79735,
+        "lng": -77.8594
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "science-technology-and-society": {
+      "text": "",
+      "descriptor": "Memorial plaque on the Penn State campus",
+      "sources": [],
+      "writtenFor": {
+        "name": "Science Technology and Society",
+        "lat": 40.79693,
+        "lng": -77.86395
+      },
+      "writtenOn": "2026-09-07"
+    },
     "sculpture-garden": {
       "text": "This is the outdoor sculpture yard beside Penn State's original Palmer Museum of Art building on Curtin Road. The museum itself moved to the Arboretum at Penn State in 2023, but the old building still has the massive pair of bronze lion's paws that sculptor Paul Bowden made for its entrance in 1993.",
       "descriptor": "Outdoor sculpture garden beside Penn State's former art museum on Curtin Road",
@@ -1856,6 +2123,19 @@
         "name": "Sculpture Garden",
         "lat": 40.80029,
         "lng": -77.86601
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "shamrock-park": {
+      "text": "",
+      "descriptor": "College Township neighborhood park at 828 Shamrock Avenue",
+      "sources": [
+        "https://www.collegetownship.org/facilities/facility/details/shamrockpark-16"
+      ],
+      "writtenFor": {
+        "name": "Shamrock Park",
+        "lat": 40.79853,
+        "lng": -77.83397
       },
       "writtenOn": "2026-09-07"
     },
@@ -1965,6 +2245,20 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "smithfield-park": {
+      "text": "One of State College Borough's 12 neighborhood parks — 1.7 acres in the South End with a pavilion, picnic tables, a basketball court and children's play areas. The South End is one of the neighborhoods the borough pulled in from College Township through six separate annexations between 1930 and 1968.",
+      "descriptor": "South End neighborhood park with a pavilion, playground and basketball court",
+      "sources": [
+        "https://www.statecollegepa.us/borough-parks",
+        "https://en.wikipedia.org/wiki/State_College,_Pennsylvania"
+      ],
+      "writtenFor": {
+        "name": "Smithfield Park",
+        "lat": 40.79116,
+        "lng": -77.84288
+      },
+      "writtenOn": "2026-09-07"
+    },
     "snap-custom-pizza": {
       "text": "Snap began in the mid-1990s when two friends, Peter Howey and Aaron Nocks, started making pizzas for themselves and the Villanova rowing team. It's now an eight-location chain across Pennsylvania and Delaware that makes its own dough and cheese every day, with each pie built to order.",
       "descriptor": "Build-your-own pizza counter; dough and cheese made fresh daily",
@@ -1976,6 +2270,20 @@
         "name": "Snap Custom Pizza",
         "lat": 40.79364,
         "lng": -77.86242
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "songbird-sanctuary-park": {
+      "text": "Ferguson Township supervisors named this 8-acre green space behind the Waffle Shop on Blue Course Drive in 2018 — it had been plain \"Owens Drive Park\" — after residents suggested bird themes and the township decided to manage it as habitat for songbirds and upland birds. Elementary students planted 300 trees there that Arbor Day.",
+      "descriptor": "8-acre Ferguson Township songbird habitat off Blue Course Drive",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/new-ferguson-township-park-gets-a-name/",
+        "https://www.statecollege.com/centre-county-gazette/ferguson-gives-park-a-new-name/"
+      ],
+      "writtenFor": {
+        "name": "Songbird Sanctuary Park",
+        "lat": 40.77872,
+        "lng": -77.87743
       },
       "writtenOn": "2026-09-07"
     },
@@ -2003,6 +2311,20 @@
         "name": "South Food District",
         "lat": 40.7995,
         "lng": -77.85583
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "south-hills-park": {
+      "text": "A 1.5-acre borough park that the borough's own listing calls \"secluded,\" with a basketball court, play area, picnic tables and benches. It was rebuilt in 2022 alongside Nittany Village Park in a roughly $170,000 project paid for mostly with Community Development Block Grant money, adding walking paths, native plantings, new playground equipment, signage and a soothing space for adults and children with autism.",
+      "descriptor": "Secluded 1.5-acre borough pocket park off Aikens Place",
+      "sources": [
+        "https://www.statecollege.com/articles/community/improvement-project-moving-forward-for-two-state-college-neighborhood-parks/",
+        "https://www.statecollegepa.us/borough-parks"
+      ],
+      "writtenFor": {
+        "name": "South Hills Park",
+        "lat": 40.78424,
+        "lng": -77.85002
       },
       "writtenOn": "2026-09-07"
     },
@@ -2411,6 +2733,19 @@
       },
       "writtenOn": "2026-09-07"
     },
+    "trophy-room": {
+      "text": "The Trophy Room opened in August 2021 as the restaurant and bar of the Graduate hotel at 125 S. Atherton St., serving classic American dishes with a youthful spin in a room done in Penn State blue and white — a Graduate Smash Burger, a Roaring Reuben and a Mount Nittany Quesadilla among them.",
+      "descriptor": "Penn State-themed bar and grill in the Graduate hotel on S. Atherton",
+      "sources": [
+        "https://www.statecollege.com/articles/business/glory-days-the-new-trophy-room-at-the-graduate-hotel-embraces-the-moment-with-a-playful-menu/"
+      ],
+      "writtenFor": {
+        "name": "Trophy Room",
+        "lat": 40.79152,
+        "lng": -77.86405
+      },
+      "writtenOn": "2026-09-07"
+    },
     "tudek-dog-park": {
       "text": "The park is named for Tom Tudek, who died at 17; the Snetsinger Butterfly Garden inside it is a memorial to Clare Snetsinger, who also died at 17 and shared his love of butterflies. At 91 acres — with the butterfly garden, community gardens, a playground and a 1.3-mile loop alongside the dog park — it is the most frequently visited park in the Centre Region.",
       "descriptor": "Fenced dog park inside 91-acre Tom Tudek Memorial Park off Herman Drive",
@@ -2436,6 +2771,20 @@
         "name": "Tudek Park Community Garden",
         "lat": 40.8017,
         "lng": -77.89094
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "turfgrass-museum": {
+      "text": "Officially the Mascaro-Steiniger Turfgrass Museum, it opened in 1994 around a collection agronomy professor Joe Duich began assembling in the 1970s. Inside is a century of turf history: 1920s and '30s tractors, the first triplex greens mower, a horse-drawn soil scoop from Pine Valley and Merion Golf Club's wicker-topped flagsticks. It's named for equipment maker Tom Mascaro and Pine Valley superintendent Eb Steiniger.",
+      "descriptor": "Penn State turf-equipment museum off Orchard Road, open by appointment",
+      "sources": [
+        "https://plantscience.psu.edu/research/centers/turf/facilities/museum",
+        "https://plantscience.psu.edu/research/centers/turf/facilities"
+      ],
+      "writtenFor": {
+        "name": "Turfgrass Museum",
+        "lat": 40.81215,
+        "lng": -77.86726
       },
       "writtenOn": "2026-09-07"
     },
@@ -2473,6 +2822,20 @@
         "name": "Uncle Chen's Primetime",
         "lat": 40.79757,
         "lng": -77.85519
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "under-ground-burger": {
+      "text": "It opened in 2014 as Underground Burgers & Crêpes, taking over a Calder Way alley space that Nathan's Famous had given up. Onward State's review called the burger-plus-crêpe pairing an \"unusual combo, awesome result,\" praising the thick, customizable burgers, the beef bacon used in place of pork, and crêpes it rated among the best around. It trades today as Under Ground Burger.",
+      "descriptor": "Burger-and-crêpe spot in the Calder Way alley downtown",
+      "sources": [
+        "https://onwardstate.com/2014/06/12/underground-burgers-crepes-to-replace-nathans/",
+        "https://onwardstate.com/2014/09/15/underground-burgers-crepes-unusual-combo-awesome-result/"
+      ],
+      "writtenFor": {
+        "name": "Under Ground Burger",
+        "lat": 40.79527,
+        "lng": -77.85934
       },
       "writtenOn": "2026-09-07"
     },
@@ -2593,6 +2956,20 @@
         "name": "Yallah Taco - McAllister Alley",
         "lat": 40.79522,
         "lng": -77.85918
+      },
+      "writtenOn": "2026-09-07"
+    },
+    "yallah-taco-mcallister-alley": {
+      "text": "Hitham Hiyajneh opened Yallah Taco in 2016 in a small, easy-to-miss storefront on McAllister Alley, running Mexican flavors through a Mediterranean filter. The oversized burritos are named Godzilla, King Kong, Moby Dick and The Kraken, each wrapped around half a pound of fries. The hidden spot built enough of a following that Yallah opened a bigger College Avenue location in 2020.",
+      "descriptor": "Mediterranean-Mexican taco counter off McAllister Alley since 2016",
+      "sources": [
+        "https://www.statecollege.com/articles/local-news/yallah-taco-bringing-expanded-offerings-to-new-college-avenue-location/",
+        "https://www.statecollege.com/articles/local-news/taste-of-the-month-yallah-foods-fast-casual-restaurants-offer-an-array-of-choices-in-downtown-state-college/"
+      ],
+      "writtenFor": {
+        "name": "Yallah Taco - Downtown",
+        "lat": 40.79678,
+        "lng": -77.85807
       },
       "writtenOn": "2026-09-07"
     },
