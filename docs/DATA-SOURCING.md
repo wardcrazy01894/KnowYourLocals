@@ -898,8 +898,8 @@ Rewind St Pete is a different business with its own write-up).
 **Ann Arbor is complete end to end — all 344 dataset rows** (300 in play plus
 44 benched, researched with `--all`), 308 with a story.
 
-**State College is complete too — 200 of 200 in-play locations**, 170 with a
-story (85%) and all 200 with a descriptor. That story rate is essentially the
+**State College is complete end to end too — all 229 dataset rows** (200 in
+play plus 29 benched), 190 with a story and every row with a descriptor. That story rate is essentially the
 same as St. Pete's (320 of 373, 86%), so a college town does not obviously
 leave a deeper paper trail than a beach town at this sample size. Seattle (500 in play of 2463 rows) and Chicago (700 of 4198) are the
 remaining runs, one city fully finished before the next.
